@@ -1,7 +1,7 @@
 
 # 📘 University Physics Notes Vault
 
-Welcome to my University Physics Notes Vault. These notes are curated from my undergraduate classes (I'm currently a physic student at the Unveristy of Waterloo ).
+Welcome to my University Physics Notes Vault. These notes are curated from my undergraduate classes (I'm currently a physics student at the Unveristy of Waterloo ).
 
 > This note vault was created to help students better understand topics and save time hunting for clear resources. These notes are made to be detailed and diagram supported to aim on building conceptual understanding rather than memorizing. 
 
