@@ -11,7 +11,7 @@ assignees: rajeevphysics
 Where you found a note with errors. Ex. Doppler Shift
 
 **Describe the issue**
-A clear explanation of the issue. Be sure to include the paragraph to area you noticed the error in the note.
+A clear explanation of the issue. Be sure to include the paragraph you noticed the error in the note.
 
 **Solution (If applicable)**
 Describe a solution
