@@ -29,7 +29,7 @@ This note vault was created to help students build a **conceptual understanding*
 ## 👤 Who is This For?
 
 These note are ideal for:
-- 🧑‍🎓 University students or Highschool students (AP, Academics, IB)
+- 🧑‍🎓 University or Highschool students (AP, Academics, IB)
 - 🔁 Learners reviewing core concepts with fresh explanations
 - 🧠 Students who prefer conceputal understanding and digrams 
 - 📚 Students looking for self-study resources or clean summaries for exam prep
