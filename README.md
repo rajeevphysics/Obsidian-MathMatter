@@ -21,7 +21,9 @@ This note vault was created to help students build a **conceptual understanding*
 
 
 
-> This site includes all the notes behind the highlighted content below. The site is made to make finding resources and information easier for you, so please use it! If you're browsing this repo directly, you won't see images.  
+> This site includes all the notes behind the highlighted content below. The site is made to make finding resources and information easier for you, so please use it!
+
+ ⚠️ _Note: This GitHub repo only tracks Markdown content. Diagrams and visuals are available on the interactive site linked above._
 
 
 ## 👤 Who is This For?
