@@ -16,8 +16,6 @@ This note vault was created to help students build a **conceptual understanding*
 
 
 
-
-
 📚 View the full interactive site: [Physics & Math Notes Vault](https://publish.obsidian.md/physics-and-math-notes)
 
 
@@ -25,11 +23,13 @@ This note vault was created to help students build a **conceptual understanding*
 
 > This site includes all the notes behind the highlighted content below. The site is made to make finding resources and information easier for you, so please use it!
 
+ ⚠️ _Note: This GitHub repo only tracks Markdown content. Diagrams and visuals are available on the interactive site linked above._
+
 
 ## 👤 Who is This For?
 
 These note are ideal for:
-- 🧑‍🎓 University students, Highschool students (AP, Academics, IB)
+- 🧑‍🎓 University or Highschool students (AP, Academics, IB)
 - 🔁 Learners reviewing core concepts with fresh explanations
 - 🧠 Students who prefer conceputal understanding and digrams 
 - 📚 Students looking for self-study resources or clean summaries for exam prep
@@ -120,9 +120,6 @@ These are notes being created to publish soon
 
 
 ## ✍️ License
-
-
-
 
 These notes are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/):
 
