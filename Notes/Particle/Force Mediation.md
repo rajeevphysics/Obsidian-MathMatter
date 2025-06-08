@@ -1,3 +1,4 @@
+
 >[!summary]
 The exchange of photons which explains the columb repulsion. 
 >
@@ -7,7 +8,8 @@ Number of photons = $kq^2$
 
 When two like particles interact at a close distance the columb repulsion is due to a photon exchange with some kinetic energy. There is not an imagry force that causes this.
 
-![[Pasted image 20250424140645.png]]
+![[force_1.png]]
+[^1]
 >[!note] Explanation
 Explains how the electrostatic repulsion between two particles are actually due to photon exchange.
 
@@ -26,3 +28,5 @@ F \approx \frac{N\hbar c}{r^2}  \\
 N\frac{kq^2}{r^2} = N \frac{\hbar c }{r^2} \\ 
 = kq^2
 \end{array}$$
+
+[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.

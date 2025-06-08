@@ -13,7 +13,9 @@ In proving charges were a real thing we'd assume that two plastic object one rub
 It was noticed that plastic objeccts rubbed with fur and silk tend to attract one another, but two pastic object rubbed with the same material did not attract each other.
 
 This is how it was oringally concluded that there two types of charges in the universe.
-
-![[Pasted image 20250601113145.png]]
+![[Screenshot 2025-06-06 at 2.58.37 AM.png]]
+[^1]
 >[!note] Explanation
 Two plastic object one rubbed with fur and another with silk. They attract one another.
+
+[^1]: Taken from https://tikz.net/charge/ by Izaak Neutelings (July 2018)

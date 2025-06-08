@@ -8,7 +8,7 @@ That they stratify $n\lambda = 2sin(\theta)$ condition (Meaning that constructiv
 >
 The two wavelengths have both have the angles $Path = l(cos(\theta_1) - cos(\theta_2))$  (They will be in phase throughout the whole plane)
 # Assumption Derivation For equation
-![[Pasted image 20250531231527.png]]
+![[brag_1.png]]
 >[!note] Explanation
 Bragg plane with two idential reflection of two atoms of the same wavelength
 
@@ -27,7 +27,7 @@ The spacing between the incident and reflected beam are a spacing $l$ away.
 >[!info] Note
 We are checking between angles between two differnt beams (AB AND CD)
 
-![[Pasted image 20250531231636.png]]
+![[brag_2.png]]
 >[!note] Explanation
 Bragg plane with two identical wavelength AB and CD with incident and refection angles between the two
 

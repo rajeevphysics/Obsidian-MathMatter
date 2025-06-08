@@ -11,4 +11,7 @@ In a quantum sense this occurs because the two electrons sharing reduces the ove
 **This doesn't violate Pauli exclusion principle** since the two electron although are on the same orbital, they have different spins allowing them to exist together.
 
 A graph of this is this, where the wavefunction even (ground state) and odd (first order state) as well as their respective energy levels on the same graph
-![[Pasted image 20250409084552.png]]
+![[cov_1.png]]
+[^1]
+
+[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
