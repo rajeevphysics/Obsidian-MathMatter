@@ -13,7 +13,8 @@ The liquid drop model explain how atoms hold protons and nutrons together and ca
 
 # Liquid Drop Model
 Image a atom like a droplet of water where its held together by the nuclear force. This model imagine the atom like a droplet of water held together by a binding energy. 
-![[Pasted image 20250417124522.png]]
+![[liq_1.png]]
+[^1]
 
 To find a the binding energy we make an approximation using by approxating the amount of electrons in a volume
 
@@ -61,11 +62,12 @@ Protons and nutrons both obey Pauli Exclusion Principle separately
 ([[Fermion, Bosons & Pauli Exclusion Principle]])
 
 This model assumes that each particles will interact with its neasest neighbour so we can approx the interaction thorugh a sqaure well model. 
-![[Screenshot 2025-04-17 at 12.36.48 PM.png]]
+
 
 This is an example of the fermi gas model, notice how protons and nurtrons have their own energy levels, with two distint spins.
 If two protons on differnt energy levels with the same spin collide inside the nuclous they simply exchange energy levels.
-![[Pasted image 20250417123759.png]]
+![[liq_2.png]]
+[^1]
 
 # Assumed Models for Femi Gas model
 There are differnt types of Fermi Models that we can assume.
@@ -79,7 +81,8 @@ If there an un-even amount of electrons and protons. (Eg. Z  = 3, N = 5) than th
 Due to the fermi gas model this can explain why differnt [[Types of Decay]] occur, such as beta and alpha decay.
 
 The graph below is the stablabity of differnt types of decays
-![[Pasted image 20250423171250.png]]
+![[liq_3.png]]
+[^1]
 # Path of Alpha ($\alpha$) decay
 When there is an even amount of protons and nutrons the fermi gas model tells us that there is an even amount of energy levels for both. 
 
@@ -90,12 +93,14 @@ It will release an whole energy levels of protons and nutrons (2N + 2Z) ([[Types
 **For this decay to occur** $M_{parent} > M_{daughter} + M_{ejected}$ 
 
 For example an radium atom
-![[Pasted image 20250423171905.png]]
+![[liq_4.png]]
+[^1]
 
 A normal radium atom noted in the figure below has some amount of energy. But classicaly for the particle to decay in Radom (Rn) it has to pass through a potential well (Classicaly forbidden) 
 
 The radium experiences [[Quantum Tunneling]] to allow this decay to occur.
-![[Pasted image 20250423171754.png]]
+![[liq_5.png]]
+[^1]
 
 If we wanted to find the kinetic energy ([[Nuclear Energy & Binding Energy#Nuclear Binding Energy]])
 
@@ -104,7 +109,8 @@ $$\Delta E = \Delta mc^2 u $$
 So if we assume we know the masses of the atoms than:
 $$KE = (M_{parent} - (M_{daughter} + M_{ejected}))c^2 u$$
 **Note that momentum is classicaly conserved in this decay**
-![[Pasted image 20250423172653.png]]
+![[liq_6.png]]
+[^1]
 So you can find the speed/energy of any particle in this decay.
 
 # Path of Beta Plus Decay ($\beta^+$)
@@ -124,7 +130,8 @@ So when this conversion occurs the boson ($W^+$) will decay into a electron
 ($e$) and neutrino ($v_e$).
 
 $$W^+ = e + v_e$$
-![[Pasted image 20250423185419.png]]
+![[liq_7.png]]
+[^1]
 Now we have:
 $$\begin{array}{c}
 Z = Z -1 \\ 
@@ -152,7 +159,8 @@ $$d = u + W^- \quad \text{Where $W^-$ is -1e}$$
 due to this conversion the $W^-$ will decay into:
 $$W^- = e^- + \bar{v_e} + KE$$
 Which will also have some kinetic energy.
-![[Pasted image 20250423185403.png]]
+![[liq_8.png]]
+[^1]
 **From this conversion we will have:**
 $$\begin{array}{c} 
 Z  = Z +1 \\ 
@@ -166,5 +174,7 @@ Where the $e^- + \bar{v_e} + KE$ are ejected from the atom
 # Path of Gamma Decay
 When a atom experinces alpha or beta decay it loses something to drop energy level. But to drop energy levels are a excited state now, it needs to release that energy. To release that energy it needs to keep its mass, so it releases a gamma ray (photon) with some kinetc energy.
 
-![[Pasted image 20250423185750.png]]
+![[liq_9.png]]
+[^1]
 
+[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.

@@ -16,11 +16,9 @@ $P_{odd} (x) = sin^2(\frac{\pi x}{a})$
 >
 Difference between the two wave functions form a energy gap
 
-
-
-
-![[Pasted image 20250409115251.png]]
 # Bonding Orbitals
+![[free_1.png]]
+[^1]
 **Even wave-functions**
 When the wave function ($P(x) = |\psi(x)|^2$) is even the wavefunction is constructive and add up to form bonding such as [[Covalent Bond]] and Ionic bonding. 
 
@@ -37,7 +35,8 @@ When the wave function is odd the wave function destructively interferes. This b
 
 # Ignoring U(x)
 If now ignore the U(x) dips and peaks in the first fig above. So now imagine the U(x) is just straight 
-![[Pasted image 20250409120806.png]]
+![[free_2.png]]
+[^1]
 
 >[!info] Assumptions
 We will assume  there would be no change in E(t) or we assume its zero. So from [[Schrodinger Equation]] simplified would be the following assuming we are ignoring the U(x)
@@ -48,14 +47,13 @@ Because $|\psi(x)|^2 = const$ this would form travelling waves like [[Quantizati
 if we do this all our energy is kinetic energy because $PE = \frac{p^2}{2m}$. 
 
 So now the PE vs momentum would look something like this:
-![[Pasted image 20250409121445.png]]
-
-Because we get standing waves, we get allowed wavelengths ($\lambda$) and momentum ($p$)
-
+![[free_3.png]]
+[^1]
 >[!note]
-if assume L is very large compared to h ,$\Delta p$ is very small
+If assume L is very large compared to h ,$\Delta p$ is very small
+Because we get standing waves, we get allowed wavelengths ($\lambda$) and momentum ($p$)
 # Finding The Fermi Energy
-We assume that U(x) = 0 so that that we get decrite momentum and wavelength levels simlar to the [[Particle in a Box (1D)]] / [[Quantization For Particle in a Box]].
+We assume that U(x) = 0 so that that we get decrite momentum and wavelength levels similar to the [[Particle in a Box (1D)]] / [[Quantization For Particle in a Box]].
 
 If we assume that energy will be quantized like the particle in the box, from [[Quantization For Particle in a Box]] we get the energy and momentum as this
 $$\begin{array}{c} 
@@ -83,7 +81,8 @@ When we conisder the u(x) our $p = small$ (since p = h/L and L >> h) so by the [
 
 **Note** $\lambda = 2a$ (Its harder to see because we sqaured the wavefunction) 
 1 a = the $\pi$ distance for cos(x)
-![[Pasted image 20250409144420.png]]
+![[free_4.png]]
+[^1]
 
 So our travalling wave will have both and left and right moving wave and left moving wave.
 
@@ -95,7 +94,8 @@ or
 \frac{p}{\hbar} = \frac{\pi}{a}
 \end{array}
 $$
-![[Pasted image 20250409144544.png]]
+![[free_5.png]]
+[^1]
 The wave reflect because of [[Bragg Law (Reflection)]] caused by the wavelengths reflecting off a atom. 
 
 So our wavefunction from [[Schrodinger Equation]] will have both and left and right moving wave.
@@ -120,7 +120,8 @@ P_{odd} (x) = sin^2(\frac{\pi x}{a})
 # Energy gap
 The energy only will occur when you **DONT** ignore the potential energy.
 From our derivation we get two wavelength of even and off which are both standing waves. On a graph this forms:
-![[Pasted image 20250416161749.png]]
+![[free_7.png]]
+[^1]
 **Notice how our EVEN peaks at 0,a,2a... and ODD peaks at $\frac{a}{2}, \frac{3a}{2}$...**
 Near the atom the sin wave is peaks.  
 
@@ -131,4 +132,7 @@ When were near the atom the P(odd) wave is more likely to be found there and hen
 
 
 This differnce makes the energy gap
-![[Pasted image 20250410134751.png]]
+![[free_8.png]]
+[^1]
+
+[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.

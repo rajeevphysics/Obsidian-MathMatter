@@ -20,7 +20,8 @@ M = A_0\cdot u
 
 # Density 
 We can find the density of an this atom. 
-![[Pasted image 20250416173940.png]]
+![[nuc_1.png]]
+[^1]
 
 $$\begin{array}{c} 
 \rho = \frac{M}{V} \\ 
@@ -34,9 +35,10 @@ $$\begin{array}{c}
 # Nucleons Are Fermions
 protons and nutrons both obey Pauli Exclusion Principle([[Fermion, Bosons & Pauli Exclusion Principle]]), but separately. They will form on differnt levels like below.
 
-![[Pasted image 20250416182239.png]]
+![[nuc_2.png]]
+[^1]
 
-The mangetic moment can also be noted from [[Magnetic Force & Torque#Magnet Moment]] and plugigng in knows from we get the following.
+The mangetic moment can also be noted from [[Magnetic Force#Magnet Moment]] and plugigng in knows from we get the following.
 
 $$\mu = \frac{e\hbar}{2m_p} = 5.05*10^-27$$
 # Nuclear Binding Energy
@@ -44,10 +46,13 @@ To find the amount of energy needed to separate atomic structures into two, we a
 
 $$E = \Delta m c^2u $$
 So to find the amount of energy in this example:
-![[Pasted image 20250416203901.png]]
+![[nuc_3.png]]
+[^1]
 $$\Delta m = (2m_H + 2m_N) -m_{HE} $$
 So if we assume the following is true the equation give us that energy needed is the following:
 $m_H = 1.007825u$ 
 $m_n = 1.008665$ 
 $m_{He} = 4.002603u$ 
 $$E_B = 28.3 \space MeV $$
+
+[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.

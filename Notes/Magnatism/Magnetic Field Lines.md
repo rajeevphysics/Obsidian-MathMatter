@@ -1,8 +1,10 @@
 
 Like [[Electric Field]] the direction of the magnetic field show the direction of the magnetic force (always goes from North - South poles)
-![[Pasted image 20250602162642.png]]
 
-You cannot have a monopole because magnets need to form closed lines just like how you cannot have an electric field with only one postive/ negative charge. Need both
+![[mag_line_1.png]]
+[^1]
+You cannot have a monopole because magnets need to form closed lines just like how you cannot have an electric field with only one positive/ negative charge. 
 
 
 
+[^1]: Taken from https://tikz.net/magnet_fieldlines_dipoles/ by Izaak Neutelings (March 2020)

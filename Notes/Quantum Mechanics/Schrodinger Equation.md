@@ -1,7 +1,7 @@
 
 >[!summary]
 Schrödinger equation explain the wave function. With both real and imaginary.
-$\Psi(x,t) = Ae^{\frac{i}{\hbar}(px -Et)} = \Psi(x,t) = A(cos(\frac{1}{\hbar}(px-Et))+isin(\frac{1}{\hbar}(px -Et))$
+$\Psi(x,t) = Ae^{\frac{i}{\hbar}(px -Et)} = A(cos(\frac{1}{\hbar}(px-Et))+isin(\frac{1}{\hbar}(px -Et))$
 
 
 At the basis of this equation it defining a travelling wave where the probability being const at all time, not being zero at points. Real waves have zero at certain point (cos = 0 at $\frac{\pi}{2}n \quad| n\in I$)

@@ -19,14 +19,6 @@ Resistivity is how much the structure of a material reduces the flow of electron
 
 We define Resistivity as:
 $$\rho=\frac{\vec E}{J}$$
-S.I = $\ohm m$ 
-
-
-Resistivity changes with temperatures:
-![[Pasted image 20250325083259.png]]
-Over small changes we can assume the change is linear (over bigger times its usually not linear)
-
-![[Pasted image 20250325083347.png]]
 
 If we let E = V/L and J = i/A
 $\rho = \frac{E}{J}$

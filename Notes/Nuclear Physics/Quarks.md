@@ -1,16 +1,17 @@
+
 >[!summary]
 Quarks are the things that make up particles like electrons and protons.
 >
 What makes up up and down quarks
-$$\begin{array}{c}
+>$$\begin{array}{c}
 u = d  + W^+ \\ 
 d = u + W^- \\ 
 \end{array}$$
-Quarks of a electron:
-$$uud = \frac{2}{3}e + \frac{2}{3}e -\frac{1}{3}e = 1e$$
+>Quarks of a electron:
+>$$uud = \frac{2}{3}e + \frac{2}{3}e -\frac{1}{3}e = 1e$$
 >
-Quarks of a proton:
-$$udd = \frac{2}{3}e - \frac{1}{3}e - \frac{1}{3}e = 0e$$
+>Quarks of a proton:
+>$$udd = \frac{2}{3}e - \frac{1}{3}e - \frac{1}{3}e = 0e$$
 # Quarks
 Quarks are what make of particles such as electrons and nutrons.
 There are differnt types of quarks each with differnt changes.

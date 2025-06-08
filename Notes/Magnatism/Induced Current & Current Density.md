@@ -2,27 +2,38 @@
 >[!summary]
 When there is a change in the magnetic flux there will be a induced current created in the opposite direction, along with a electric field.
 >
-The electric field can be found from:
-$\oint \vec{E} \cdot d\vec{s} = -\frac{d\Phi}{dt}$
+Charge density is the amount of charge per small area. 
+Current density is the amount of current per small area.
 >
-Current density is the amount of charge per area.
-In general the current density is:
+**Key equations:**
+>
+Induced EMF:
+$\underbrace{\Delta V}_{\text{Induced EMF}}=-\underbrace{\frac{d\Phi}{dt}}_{\text{Change in flux}}$
+>
+The electric field:
+$\int \vec{E} \cdot d\vec{s} = -\frac{d\Phi}{dt}$
+>
 $Current \space density = \rho \cdot v$
 >
-and the current is:
+Current:
 $I = \int _a ^b J \cdot dA$
 
-When there is a change in the magnetic field (flux changes), there will be an incuded current created as well as a electric field.
 
-![[Pasted image 20250602161420.png]]
-**Left part**
-For current in a magnetic field the change in flux is constant so there is no current. The charges will accumlate at bottom because $F = q(v \times \vec{B}) = downwards$ by right hand rule ([[Magnetic Force & Torque]]) 
+# Induced Current
+When there is a change in the magnetic field (flux changes), there will be an induced current created as well as a electric field.
 
-There is a also an [[Electric Field]] caused by the differnce (postive and negative) **But this does not cause the electron to flow upwards now** Electric field points downwards, which makes the electron want to travel towards the postive charges, exactly canceling the magnetic force
+![[Screenshot 2025-06-07 at 7.19.23 PM.png]]
+[^1]
+(Refer to photo above)
+For current in a magnetic field the change in flux is constant, so there is no current. The charges will accumulate at bottom because $F = q(v \times \vec{B}) = downwards$ by right-hand rule ([[Magnetic Force]]) 
 
-![[Pasted image 20250602161736.png]]
-**Right part**
-But when the magnetic field is hanging outside the magnetic field(Right image) there is a flux changing and hence a flux ([[Magnetic Flux & Current]])
+There is a also an [[Electric Field]] caused by the difference (positive and negative) **But this does not cause the electron to flow upwards now** Electric field points downwards, which makes the electron want to travel towards the positive charges, exactly cancelling the magnetic force
+
+![[Screenshot 2025-06-07 at 7.19.53 PM.png]]
+[^1]
+
+(Refer to the photo above)
+But when the magnetic field is hanging outside the magnetic field there is a flux changing and hence a changing flux ([[Magnetic Flux & Bending Current]])
 
 $$\underbrace{\Delta V}_{\text{Induced EMF}}=-\underbrace{\frac{d\Phi}{dt}}_{\text{Change in flux}}$$
 
@@ -32,19 +43,18 @@ Because there is a change in magnetic field, there will be a electric field prod
 
 The electric field created is what creates an induced current. electron want to follow the opposite way of the electric field, making current.
 
-# Induced Current creating Electric Field
-
+## Induced Current Creating Electric Field
+When there is a change in the magnetic field an electric field gets produced, which is done solely because without it would break the conversation of energy.
 
 $$\oint \vec{E} \cdot d\vec{s} = -\frac{d\Phi}{dt}$$
-
-When there is a change in the magnetic field an electric field gets produced, which is done soley because without it would break the convervation of energy.
 
 When the magnetic is no longer being change the electric field will bring it back into its original magnetic field 
 
 >[!info ] **Analogy** 
 When you strecth a rubber band (change the flux) there is a push back (electric field) trying to keep the rubber band back into its orginal postion 
 
-![[Pasted image 20250603192200.png]]
+![[ind_2.png]]
+
 
 # Current Density / Total Current
 
@@ -68,3 +78,5 @@ In general the expression is this (Using a 3D example)
 $$I = \int _a ^b J \cdot dA$$
 Imaging taking a small chunk and area and seeing the amount of charges per area. Most useful when J is constant so that:
 $$J A = I$$
+
+[^1]: Taken/Adapted from https://tikz.net/magnetic_field_lenzs_law/ by Izaak Neutelings (March 2020)

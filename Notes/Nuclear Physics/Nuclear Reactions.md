@@ -63,7 +63,8 @@ If the neutrons is in the right place and at the right time, with the right spee
 When the nutrons get abosrbed the already unstable atom becomes more unstable. Becuase of the high amount of protons the nutrons compacts all the particles closer together to the point where columb repulsion spilts the atom into two sperate particles. The surface tension then warps the two serpeate particles so they dont spilt again. ([[Liquid Drop & Fermi Gas Model#Liquid Drop Model]])
 In doing so some nutrons can get released.
 
-![[Pasted image 20250423200138.png]]
+![[nucR_1.png]]
+[^1]
 >[!note] Explanation
 >This image shows nuclear fission where neutrons get absorbed:
 >Causing the atom to seperate 
@@ -75,7 +76,7 @@ The release of new nutrons create a chain reaction. Which can be slowed down by 
 Nuclear fusioon is combinding two atoms into a new atom.  
 
 Two atoms under normal condition with repel one another due to columb repulsion, but under certain situi
-ons (like high magnetic fields ([[Magnetic Force & Torque]])) the KE they get from the magnetic field overcome the repulsion.
+ons (like high magnetic fields ([[Magnetic Force]])) the KE they get from the magnetic field overcome the repulsion.
 
 When the two atoms are close enough for strong nuclear force to happen, that force dominates, and they configure themselves into a new atom. In doing so release KE and photons.
 
@@ -84,7 +85,7 @@ Sometimes the binding energy needed is so high it can be considered classicaly f
 >[!example] Example 1
 Consider two protons that combine to form some new atom.
 ![[Pasted image 20250423202347.png]]
-$$\begin{array}{c}
+>$$\begin{array}{c}
 \Delta m = 4m_p - (m_\alpha + 2m_e^+ + 2m_{ve}) \\ 
 Assume: \\ 
 m_p = 1.007276u  \\ 
@@ -101,7 +102,7 @@ KE = 26.73MeV
 Consider the sun which has an avearge KE of 4keV
 The atoms that are in the sun obey columb repulsion.
 >
-$$\begin{array}{c} 
+>$$\begin{array}{c} 
 PE = \frac{ke^2}{r} \\ 
 KE = \frac{ke^2}{r} \\
 \text{If w assume KE = 4KeV} \\ 
@@ -118,3 +119,4 @@ $$\lambda = 640F$$
 
  
 
+[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.

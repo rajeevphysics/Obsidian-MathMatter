@@ -7,7 +7,8 @@ $\frac{m_1 m_2}{m_1 + m_2} = \mu$
 $\mu \vec{r} = \hat{r}F(r)$
 $E_n = (n+\frac{1}{2})\hbar \sqrt{\frac{k}{m}} + i(i+1)(\frac{\hbar ^2}{2I})$
 # Two planets interaction
-![[Pasted image 20250409095204.png]]
+![[mol_1.png]]
+[^1]
 >[!note] Explanation
 Two masses interact with each other in the r hat direction we assume the direction from m2 to m1 as positive.
 
@@ -27,15 +28,17 @@ m_1 m_2(\ddot{r_1 }- \ddot{r_2}) = (m_1 + m_2)\hat{r} F(r) \\
 \mu \vec{r} = \hat{r}F(r) \\ 
 
 \end{array}$$
-![[Pasted image 20250409095311.png]]
+![[mol_2.png]]
+[^1]
 >[!note] Explanation
 The two reduced masses have a COM here.
 
 In the soluation above we reduced a two body system (two equations) into a one-body still decribing the two system but in one eqauation
 
 # Rotational and vibration two body
-Take for example a two particle system that has both rotation and vibrational motion (Like a harmoinc ossiclator moves back and forth), we want to reduce it to a one body, which would just a harmonic oscillator of m_r of the two bodies and with roation motion
-![[Pasted image 20250409102651.png]]
+Take for example a two particle system that has both rotation and vibrational motion (Like a harmonic oscillator moves back and forth), we want to reduce it to a one body, which would just a harmonic oscillator of m_r of the two bodies and with rotation motion
+![[mol_3.png]]
+[^1]
 
 From above we know the reduced mass $\mu = \frac{m_1 m_2}{m_1 + m_2}$ We want the energy that desribes both the rotational and osiclliltory.
 
@@ -71,3 +74,5 @@ Combining **both** the **quantum energy** and **classical energy**, while changi
 
 
 $$E_n = (n+\frac{1}{2})\hbar \sqrt{\frac{k}{m}} + i(i+1)(\frac{\hbar ^2}{2I})$$
+
+[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
