@@ -2,7 +2,7 @@
 
 
 
-# 📘  Physics & Math Notes Vault
+# 📘  The Math & Matter Thinkbook
 
 
 
@@ -16,8 +16,8 @@ This note vault was created to help students build a **conceptual understanding*
 
 
 
-📚 View the full interactive site: [Physics & Math Notes Vault](https://publish.obsidian.md/physics-and-math-notes)
-
+📚 View the full interactive site: [The Math & Matter Thinkbook](https://publish.obsidian.md/thinkbook/)
+ 
 
 
 
