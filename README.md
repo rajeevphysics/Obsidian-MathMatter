@@ -16,7 +16,7 @@ This note vault was created to help students build a **conceptual understanding*
 
 
 
-📚 View the full interactive site: [The Math & Matter Thinkbook](https://publish.obsidian.md/thinkbook/)
+📚 View the full interactive site: [The Math & Matter Website](https://publish.obsidian.md/mathmatter/)
  
 
 
