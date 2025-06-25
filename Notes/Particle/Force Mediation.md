@@ -29,4 +29,11 @@ N\frac{kq^2}{r^2} = N \frac{\hbar c }{r^2} \\
 = kq^2
 \end{array}$$
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
+
+
+---
+
+> 💡 Found this concept helpful? [Star Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook) to support more intuitive science breakdowns like this.
+
+---

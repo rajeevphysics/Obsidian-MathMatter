@@ -127,3 +127,9 @@ For more explanations are more general derivations of gauss law through coulombs
 [^2]: Taken from https://tikz.net/electric_field_plane/ by Izaak Neutelings (November, 2018)
 
 [^3]: Taken from https://tikz.net/electric_field_rod/ by Izaak Neutelings (July 2018)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

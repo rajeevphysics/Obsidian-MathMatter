@@ -7,7 +7,7 @@ $\sum F = 0$
 $\sum \tau = 0$ 
 
 # General Principle
-Equilibrium describes the state of no changing motion. This is when the velocity or rotational velocity is constant (where accerlation is 0) like in Torque examples involving [[Rotational Kinematics]] or [[Angular Momentum]] ([[Torque & Moment of Inertia]])
+Equilibrium describes the state of no changing motion. This is when the velocity or rotational velocity is constant (where accerlation is 0) like in Torque examples involving [[Rotational Kinematics]] or [[Angular Momentum]] ([[Moment of Inertia & Torque]])
 
 >[!warning] Solution Required for Equilibrium 
 In order for there to be equilibrium there must be no change in acceleration. (Velocity can be const)
@@ -25,7 +25,7 @@ $$\begin{array}{c}
 ma \overset{!}{=} 0 \\ 
 \sum F = 0
 \end{array}$$
-In a angular system in order to have change in acceleration we demand from [[Angular Momentum]] and [[Torque & Moment of Inertia]] that:
+In a angular system in order to have change in acceleration we demand from [[Angular Momentum]] and [[Moment of Inertia & Torque]] that:
 
 $$\begin{array}{c}
 \tau = \frac{dL}{dt} \\ 
@@ -39,7 +39,7 @@ In the first part there is only linear momentum and therefore the first law is s
 >
 In the second part there is a change in angular acceleration so equilibrium is broken because there is a change in a acceleration. 
 
-# Important Example 
+# Ladder Example 
 ![[eq_4.png]][^1]
 ![[eq_3.png]]
 [^2]
@@ -48,7 +48,7 @@ First image:
 Example of the minimum distance for there to be static equilibrium (Not moving), looking for $\mu_s$ and $\theta_{min}$ .
 >
 Second image:
-Extended body digram for [[Torque & Moment of Inertia]] analysis 
+Extended body digram for [[Moment of Inertia & Torque]] analysis 
 
 
 >[!warning] Forces
@@ -61,7 +61,7 @@ N = (m+M) g \quad \text{Assume static equilbrium for this to be true}
 \end{array}$$
 
 >[!warning] Torque
-Second well assume a starting position from [[Torque & Moment of Inertia]] at the end point touching the frictionless ground
+Second well assume a starting position from [[Moment of Inertia & Torque]] at the end point touching the frictionless ground
 
 ![[Pasted image 20250530215008.png]]
 >[!note] Explanation
@@ -91,6 +91,12 @@ f_s \leq \mu N\\
 \mu_s \geq \frac{2}{3}cot(\theta)
 \end{array}$$
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
 
 [^2]: Taken from https://tikz.net/dynamics_stability_ladder/ by Izaak Neutelings (October 2020)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

@@ -80,3 +80,11 @@ Imaging taking a small chunk and area and seeing the amount of charges per area.
 $$J A = I$$
 
 [^1]: Taken/Adapted from https://tikz.net/magnetic_field_lenzs_law/ by Izaak Neutelings (March 2020)
+
+
+---
+
+> ✍️ This project’s been a labour of love.  
+> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+
+---

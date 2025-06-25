@@ -29,20 +29,22 @@ r_1 -r_2 = (n+1/2)\lambda \quad Destuctive
 # Types of Waves
 Transerve waves are when a wave travels perp to the direction of oscillation. We know the figure below is travelling as a transverse wave at point P because the direction P moves in with respect to the direction is perp. 
 
-![[Pasted image 20250603020216.png]]
+![[wav_1.png]]
+[^1]
 >[!note] Explanation
 This describes a traverse wave over time.
 The direction of the displacement at any point is always perpendicular point P 
 
 Longitudinal Wave are a type of wave that travels in the direction of motion. We know the below figure is travelling as a longitudinal wave because the direction motion is in the same direction as the direction of propagation
-
-![[Pasted image 20250603193240.png]]
+![[wav_2.png]]
+[^1]
 >[!note] Explanation
 This describes a longitudinal wave overtime.
 
 # Derivation of the wave expression
 For a wave to move it must be given energy and hence a velocity. And our wavelengths can be found from the peak-peak or crest-crest amount. 
-![[Pasted image 20250603193506.png]]
+![[wav_3.png]]
+[^1]
 >[!note] Explanation
 A wave overtimme marking amplitude, and wavelength
 
@@ -73,7 +75,9 @@ $$\begin{array}{c}
 f_n = n\frac{v}{2L} \quad Open \\ 
 f_n = n\frac{v}{4L} \quad Closed 
 \end{array}$$
-![[Pasted image 20250603193818.png]]
+![[wav_4.png]]
+![[wav_5.png]]
+[^2]
 >[!note] Explanation
 Overview of the different types of wavelength and frequency for different harmonics.
 # Constructive & Destructive Interference
@@ -85,3 +89,18 @@ r_1 - r_2 = n\lambda  \quad Constructive\\
 r_1 -r_2 = (n+1/2)\lambda \quad Destuctive
 
 \end{array}$$
+
+
+
+[^1]: Taken from https://tikz.net/waves/ by Izaak Neutelings (December 2020)
+
+[^2]: Taken from https://tikz.net/waves_standing/ by Izaak Neutelings (December 2020)
+
+
+
+---
+
+> ✍️ This project’s been a labour of love.  
+> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+
+---

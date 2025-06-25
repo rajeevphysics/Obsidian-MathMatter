@@ -9,18 +9,19 @@ $$E = nhf$$
 
 
 # Background (Ultraviolet Carpophore)
-A blackbody is a type of emitted light that produced all wavelength by the electromagnetic radiation.
+A blackbody is a type of emitted light that produced all wavelength by the electromagnetic radiation.![[br_2.png | 500]]
+[^2]
 
 The sun for example, produced all wavelengths which most of it it we can observe. In classical theory electromagnetic radiation could predict small spectral radiance but deviated when predicting small wavelength (like UV)
-
-![[Screenshot 2025-05-10 at 11.02.10 PM.png]]
+![[br_1.png]]
+[^1]
 >[!note] Explanation
 The sun produced a blackbody radiation spilt into three sections UV, Visible and infrared.
 Classical theory fails the most in UV
 # Solution
 Temperature is created by atoms vibrating (like a [[Simple Harmonic Motion]]), so the Quantum solution was to quantize this vibration like in a [[Quantum Harmonic Oscillator]].
-
-![[Screenshot 2025-05-10 at 11.09.18 PM.png]]
+![[br_3.png]]
+[^3]
 >[!note] Explanation
 Photo to show the temperature is created by vibrational motion.
 
@@ -32,6 +33,17 @@ Which would describe any energy level of any wavelength as some nth value. Simil
 
 
 
+[^1]: Taken from https://tikz.net/blackbody_plots/ by Izaak Neutelings (March 2019)
+
+[^2]: Taken from https://tikz.net/blackbody/ by Izaak Neutelings (March 2019)
+
+[^3]: Taken from https://tikz.net/electric_current/ by Izaak Neutelings (July 2018)
 
 
 
+---
+
+> ✍️ This project’s been a labour of love.  
+> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+
+---

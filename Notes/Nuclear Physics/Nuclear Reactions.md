@@ -16,16 +16,15 @@
 > Fission
 > Requires slow moving nutrons which cause chain reactions 
 
-
-
 # Basis of Nuclear Reactions
-For a nuclear reaction to occur we bombard some atom with a bunch of particles with some kinetic energy (Different from spontaneous decay [[Types of Decay]])
 
->[!note] Conserved Quanties
->We assume that  charge,energy, momentum, and the nuclear number will always be conserved
+For a nuclear reaction to occur we bombard some atom with a bunch of particles with some kinetic energy (Different from spontaneous decay likes from [[Types of Decay]])
 
+>[!warning] Conserved Quantities 
+>We assume that  charge, energy momentum, and the nuclear number will always be conserved
+>We also assume $E = \Delta muc^2$ is true
 
-In general to dertermine wether a nuclear reaction created energy or lost we assume that $E = \Delta muc^2$ is true.
+In general to determine whether a nuclear reaction created energy or lost, we assume that $E = \Delta muc^2$ is true so that:
 $$ \begin{array}{c}
 Q = \Delta m u c^2 \\ 
 Q  = (m_f - m_i)u c^2 \\ 
@@ -33,7 +32,8 @@ If : \\
 Q > 0 \quad \text{Kinetic energy is created, mass is lost} \\
 Q < 0 \quad \text{Kinetic energy is lost, mass is created} \\ 
 \end{array}$$
-This is true because if we assume that our energy is conserved, than if mass the deceased our kinetic energy has to increase. 
+
+This is true because if we assume that our energy is conserved, then if mass the deceased our kinetic energy has to increase. 
 
 >[!info]
 >**When Q > 0 we call this exoergic**
@@ -54,14 +54,17 @@ Exoergic \to KE \uparrow
 \end{array}$$
 
 # Nuclear Fission
-Nuclear fission occurs when you bombard a atom with nutrons at a slow speed (KE < 1eV). The atom absorbs the nutrons and then it decays into two serperate atoms relasing high amount of energy, as well a few other nutrons.
+Nuclear fission occurs when you bombard an atom with neutrons at a slow speed (KE < 1eV). The atom absorbs the neutrons, and then it decays into two separate atoms releasing high amount of energy, as well a few other neutrons.
 
-**How does the nutron get abosrbed**
-If the neutrons is in the right place and at the right time, with the right speed the strong nuclear force from the atom takes in the neutron.  Nutrons are often slowed down by some modertor (water)
+## How does the neutrons get absorbed
+If the neutrons is in the right place and at the right time, with the right speed the strong nuclear force from the atom takes in the neutron.  Neutrons are often slowed down by some moderator (water)
 
-**How does the atom decay**
-When the nutrons get abosrbed the already unstable atom becomes more unstable. Becuase of the high amount of protons the nutrons compacts all the particles closer together to the point where columb repulsion spilts the atom into two sperate particles. The surface tension then warps the two serpeate particles so they dont spilt again. ([[Liquid Drop & Fermi Gas Model#Liquid Drop Model]])
-In doing so some nutrons can get released.
+## How does the atom decay
+When the neutrons get absorbed the already unstable atom becomes more unstable. Because of the high amount of protons the neutrons compacts all the particles closer together to the point where Columbs repulsion splits the atom into two separate particles. 
+
+The surface tension then warps the two seperate particles so they don't spilt again. ([[Liquid Drop & Fermi Gas Model#Liquid Drop Model]])
+
+In doing so some neutrons can get released.
 
 ![[nucR_1.png]]
 [^1]
@@ -73,14 +76,13 @@ In doing so some nutrons can get released.
 The release of new nutrons create a chain reaction. Which can be slowed down by control rods like graphite.
 
 # Nuclear Fusion
-Nuclear fusioon is combinding two atoms into a new atom.  
+Nuclear fusion is combining two atoms into a new atom.  
 
-Two atoms under normal condition with repel one another due to columb repulsion, but under certain situi
-ons (like high magnetic fields ([[Magnetic Force]])) the KE they get from the magnetic field overcome the repulsion.
+Two atoms under normal condition with repel one another due to columb repulsion, but under certain situations (like high magnetic fields ([[Magnetic Force]])) the KE they get from the magnetic field overcome the repulsion.
 
 When the two atoms are close enough for strong nuclear force to happen, that force dominates, and they configure themselves into a new atom. In doing so release KE and photons.
 
-Sometimes the binding energy needed is so high it can be considered classicaly forbidden for the two atoms to combine, so they  exprenice [[Quantum Tunneling]] to reach the strong nuclear force
+Sometimes the binding energy needed is so high it can be considered classically forbidden for the two atoms to combine, so they experience [[Quantum Tunnelling]] to reach the strong nuclear force
 
 >[!example] Example 1
 Consider two protons that combine to form some new atom.
@@ -110,13 +112,20 @@ r = 360 F
 \end{array}$$
 **Notice how for atoms at the sun to make necluear fusion the distance needed for the strong nuclear force to work is 1F **
 >
-We need to account for [[Quantum Tunneling]] 
+We need to account for [[Quantum Tunnelling]] 
 From [[Uncertainty Principle]] $$\lambda = \frac{h}{p}$$
 If we assume $p = \sqrt{2m_p KE}$ than:
 $$\lambda = 640F$$
 **The wavelength is tells us the atom can qunatum tunnel to the point where they expenice the strong nuclear force**
 
 
- 
+[^1]: Taken from R. Epp Lecture notes.
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+
+
+---
+
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook).
+
+---

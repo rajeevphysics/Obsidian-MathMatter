@@ -1,6 +1,6 @@
 
 >[!summary]
-Rotational motion is a type of motion that has both roationial force and linear kinmetic force. 
+Rotational motion is a type of motion that has both rotational force and linear kinematic force. 
 >
 We can break the motion into linear and tangential motion.
 >
@@ -22,9 +22,10 @@ Rotational motion is any type of motion that follows rotates around some axis.
 >[!note] Explanation
 Example of rotational motion
 
-In general rotational motion will rotate around some axis, and the amount of rotation can be determined by this general formula:$$\Delta s = r\Delta \theta$$
+In general rotational motion will rotate around some axis, and the amount of rotation can be determined by this general formula derived from above.
+$$\Delta s = r\Delta \theta$$
 >[!warning] Finding Rotational Motion
-In rotation motion we break up the angular and tangential motion separately to make calculations easier. We base off this derivations below from the example above
+In rotation motion we break up the angular and tangential motion separately to make calculations easier. We base off derivations below from the example above
 
 In rotational motion we break up displacement into two parts:
 $$\begin{array}{c}
@@ -51,4 +52,11 @@ If we assume the above equations are true we can derive a general equation if ti
 \Delta \omega = \alpha \Delta t 
 \end{array}$$
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
+
+---
+
+🧪 Think this could help someone else?  
+[Star Math & Matter on Github](https://github.com/rajeevphysics/Obsidan-MathMatter) to help more learners discover it.
+
+---

@@ -6,12 +6,18 @@ P=IV \\ \\
 Note: V = IR\quad  \text{So we often write it as }\\ 
 P = \frac{V^2}  {R}
 \end{array}$$
-If there more enery coming in than there is a net tranfer in
+If there more energy coming in than there is a net transfer in
 If there more energy leaving there a net transfer out
 
-**Imporant:**
-Voltage is the potential differnce across two points. 
+**Important:**
+Voltage is the potential difference across two points. 
 
 In the image below is there is more voltage **leaving** **then** **entering** the system then there is a net transfer out ($V_{ab} = V_a - V_b$) and so the **power will negative**
 
-If there is more energy **coming** then **leaving**, then the **power will be postive** 
+If there is more energy **coming** then **leaving**, then the **power will be positive** 
+
+---
+
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
+
+---

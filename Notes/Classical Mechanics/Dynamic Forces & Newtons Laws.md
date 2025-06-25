@@ -145,6 +145,12 @@ mg(\sin(\theta) - \mu_s cos(\theta)) \leq F_a(cos(\theta) + \mu _s sin(\theta)) 
 F_a \geq \frac{tan(\theta) - \mu_s}{1+\mu _stan(\theta)} mg
 \end{array}$$
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
 
 [^2]: Taken from https://tikz.net/dynamics_friction/ by Izaak Neutelings (September 2020)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

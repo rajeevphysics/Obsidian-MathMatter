@@ -27,7 +27,7 @@ Y - direction \\
 \end{array}$$
 
 # Motion in 1D
-Motion in 1D will describe motion as displacement, velocity, and acceleration.
+Kinematics is a description of motion in 1D such as displacement, velocity, and acceleration.
 
 Displacement is how a object will move as a function as time. Displacement can also be found by integrating velocity, seeing how the area of velocity changes as a function of time.
 
@@ -53,7 +53,7 @@ In motion in 1D we can describe motion as an effect due to velocity and accelera
 The object **speeds up** when velocity and acceleration are the in the **same direction**
 The object **slows down** when the velocity and acceleration are in the **opposite direction**.
 
-We often describe 1D as graphs like in the figure, which can be useful to view how velocity accerlation and displacement change with time.
+We often describe 1D as graphs like in the figure, which can be useful to view how velocity acceleration and displacement change with time.
 
 ![[kin_2.png]]
 ![[kin_3.png| 400]]
@@ -109,4 +109,11 @@ Y - direction \\
 \Delta v_y = a_{y avg} t \\ 
 \end{array}$$
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
+
+---
+
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
+
+---

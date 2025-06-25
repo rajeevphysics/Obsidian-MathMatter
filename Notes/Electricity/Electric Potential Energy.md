@@ -120,3 +120,8 @@ Our electric field will increase as r from the centre and peaks at R, decreasing
 
 [^2]: Taken from https://tikz.net/electric_potential_plots/ by  Izaak Neutelings (February 2020)
 
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

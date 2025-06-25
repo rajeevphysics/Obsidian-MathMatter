@@ -35,3 +35,10 @@ Due to an electric field inside a closed wire caused by special relativity and l
 
 # Extra Resources
 For more information in understanding magnetic torque I found this [video helpful](https://www.youtube.com/watch?v=hJxCLn4HNQ4&ab_channel=KhanAcademyIndia-English)
+
+
+---
+
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Thinkbook) to support the project and help others discover it!
+
+---

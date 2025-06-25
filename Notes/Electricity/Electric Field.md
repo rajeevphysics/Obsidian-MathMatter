@@ -172,3 +172,9 @@ E = \frac{2kQx}{R^2}(\frac{1}{x}-\frac{1}{\sqrt{x^2 + R^2}})
 [^1]: Taken from https://tikz.net/electric_field_plots/ by Izaak Neutelings (Februari, 2020)
 
 [^2]: Taken from https://tikz.net/electric_dipole/ by Izaak Neutelings (July 2018)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

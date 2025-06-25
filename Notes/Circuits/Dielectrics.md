@@ -53,3 +53,10 @@ $$C=KC_0=\frac{K\epsilon_0A}{d}$$
 
 
 [^1]: Taken from https://tikz.net/plate-capacitor/ by Izaak Neutelings (Feb 2020).
+
+---
+
+> ✍️ This project’s been a labour of love.  
+> If it helped, [give Math & Matter a star](https://github.com/rajeevphysics/Obsidan-MathMatter) and let me know what you'd like to see next.
+
+---

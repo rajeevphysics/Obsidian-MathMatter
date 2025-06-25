@@ -30,6 +30,8 @@ Unlike Resistivity, conductivity is how much electrons can move through a materi
 Conductivity is the inverse of resistivity $\frac{1}{\rho} = \sigma$  
 $$\sigma = \frac{J}{E}$$
 
+---
 
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
 
-
+---

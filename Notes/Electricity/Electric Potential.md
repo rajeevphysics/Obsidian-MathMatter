@@ -61,3 +61,8 @@ W = \int_r ^{r_f}qE \cdot ds \\
 
 [^1]: Taken from https://tikz.net/electric_field/ by Izaak Neutelings (July 2018)
 
+---
+
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
+
+---

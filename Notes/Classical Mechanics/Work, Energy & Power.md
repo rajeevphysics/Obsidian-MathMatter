@@ -19,10 +19,14 @@ $W = \int_r ^{r_f} F(r) \cdot dx$
 Work-energy theorem:
 $W = \Delta K$
 >
+Power if its constant:
 >$P = \frac{F(t) \cdot dr}{dt} = F(t) \cdot v(t)$
 >
 >$P_{avg} = \frac{W}{\Delta t}$
 >
+Power if its non-constant:
+$P_{avg} = \frac{1}{\Delta t} \int_t ^ T P(t)dt$
+
 
 # Potential Energy
 **Energy is always a conversed quantity**. It may not always be constant.
@@ -36,7 +40,7 @@ In [[Electric Potential]] the most favourable position an electron can be in is 
 
 In [[Gravitational Potential energy]] the most favourable position an object can be in is when a object is in a state of equilibrium. 
 
-# Constant Force
+# Work
 ![[wor_1.png]]
 [^1]
 >[!note] Explanation
@@ -73,7 +77,7 @@ W = mv \int_r ^{r_f} dv \\
 W = \frac{1}{2} m(v_f ^2 - v^2)
 \end{array}$$
 
-Note that you get the same solution if the force is constant.
+**Note that you get the same solution if the force is constant.**
 
 # Power
 Power is the rate at which energy is transferred over time, with a force and distance being applied. 
@@ -96,4 +100,11 @@ P_{avg} = \frac{W}{\Delta t}
 \end{array}$$
 If we assumed force was constant we would find the same result
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
+
+---
+
+> ✍️ This project’s been a labour of love.  
+> If it helped, [give Math & Matter a star](https://github.com/rajeevphysics/Obsidan-MathMatter) and let me know what you'd like to see next.
+
+---

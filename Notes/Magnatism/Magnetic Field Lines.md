@@ -8,3 +8,10 @@ You cannot have a monopole because magnets need to form closed lines just like h
 
 
 [^1]: Taken from https://tikz.net/magnet_fieldlines_dipoles/ by Izaak Neutelings (March 2020)
+
+
+---
+
+> 💡 Found this concept helpful? [Star Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook) to support more intuitive science breakdowns like this.
+
+---

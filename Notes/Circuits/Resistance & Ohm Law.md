@@ -26,7 +26,7 @@ Resistance unlike restivity ([[Resistivity and Conductivity]]) is the amount of 
 >[!note] Explanation 
 Bulbs dim due to there being more resistance present in the circuit. 
 # Ohm Law
-In the picture below we have a circcuit that connted to a conductor. The circuit creates an Electric Potential, which creates an electric force, which moves the electrons through the conductor (read more in [[Current#How does Current make electron flow]])
+In the picture below we have a circuit that is connected to a conductor. The circuit creates an Electric Potential, which creates an electric force, which moves the electrons through the conductor (read more in [[Current]])
 
 In the picture below it because of the movement of electrons in the conductor. There is a resistance from the electrons bumping into one another ([[Current#Drift Velocity]]) 
 ![[Pasted image 20250531202546.png]]
@@ -72,3 +72,9 @@ I_T = I_1 + I_2 \\
 [^1]: Taken from https://tikz.net/electric_circuit_resistor/ by  Izaak Neutelings (Februari, 2020) 
 
 [^2]: Adapted from https://tikz.net/electric_circuit_resistor/ by  Izaak Neutelings (Februari, 2020)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

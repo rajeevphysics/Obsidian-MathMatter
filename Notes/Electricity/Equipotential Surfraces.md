@@ -9,6 +9,11 @@ Blue line are the electric potential energy
 
 
 
-
-
 [^1]: Taken from https://tikz.net/electric_fieldlines2/ by Izaak Neutelings (July 2018)
+
+---
+
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
+
+---

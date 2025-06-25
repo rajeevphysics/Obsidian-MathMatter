@@ -38,7 +38,7 @@ $$\begin{array}{c}
 \end{array}$$
 
 # Weak Nuclear Force
-Responsible for the quarks changing to different quarks' combination. Acts on quarks and leptons ([[Quarks]]). Responsible for different [[Types of Decay]].
+Responsible for the quarks changing to different quarks' combination. Acts on quarks and leptons ([[Properties of Quarks]]). Responsible for different [[Types of Decay]].
 
 The weak nuclear force from Yuakawa form.
 $$V(r) = -g^2 \frac{e^{-mr}}{r}$$
@@ -46,3 +46,9 @@ From dimensional anaylis the dimensionless constant to describe this is in the f
 $$\alpha = \frac{GE^2}{\hbar ^3 c^3}$$
 Where G is the fermi coupling constant and E is the energy of interactions
 
+
+---
+
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Thinkbook) to support the project and help others discover it!
+
+---

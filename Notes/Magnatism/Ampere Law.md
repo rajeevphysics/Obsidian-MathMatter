@@ -103,3 +103,10 @@ $$
 [^1]: Taken from https://tikz.net/magnetic_field_wire/ by Izaak Neutelings (March 2020)
 
 [^2]: Taken from https://tikz.net/magnetic_field_solenoid/ by Izaak Neutelings (March 2020)
+
+
+---
+
+> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+
+---
