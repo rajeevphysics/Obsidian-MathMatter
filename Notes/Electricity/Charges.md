@@ -19,3 +19,9 @@ This is how it was oringally concluded that there two types of charges in the un
 Two plastic object one rubbed with fur and another with silk. They attract one another.
 
 [^1]: Taken from https://tikz.net/charge/ by Izaak Neutelings (July 2018)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

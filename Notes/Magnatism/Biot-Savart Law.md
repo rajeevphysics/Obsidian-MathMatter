@@ -34,3 +34,11 @@ B = \frac{\mu _0i} {4\pi R} \hat{r}\int_0^{2\pi} d\theta \\
 B = \frac{\mu_0i  }{2R}
 \end{array}$$
 
+
+
+---
+
+> ✍️ This project’s been a labour of love.  
+> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+
+---

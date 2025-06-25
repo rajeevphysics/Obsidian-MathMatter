@@ -9,43 +9,94 @@ $E = \frac{1}{2}kA^2$
 >
 Quantum Harmonic Oscillator:
 Descite Energy levels
+Has classical end points (But it can go past those due to tunnelling)
 No turning points (just decays)
 Cannot reflect
 >
 $E_n = (n+1/2)(hf)$ 
-
-A quantum harmonic oscillator is oscillator unlike in a classical sense has descrite energy levels, and can appear in region where classical are impossible.
-
 # Classical Harmonic Oscillator 
-In a calssical harmoic oscillator any system can have any potential energy depdendnt on how much energy you gave it. 
+In a classical harmonic oscillator, any system can have any potential energy dependant on how much energy you gave it. 
 
-![[Pasted image 20250407161504.png]]
-
-In classical wavefunction:
-depdent on the amount of energy you give it has turning points, because the amount of energy required to reach a point becomes negative. 
-![[Pasted image 20250407161610.png]]
-
-# Quantum System
-
-Unlike the classical wave function the harmonic oscillator in a quantum will have discrete energy system. Since $E_n = (n+1/2)(hf)$ 
-
-Unlike the classical sense, the quantum one cannot have a zero energy level (due to [[Uncertainty Principle]]) and each one is quantized by it has a standing wave. The probability of finding a particle can be past the forbidden region due to [[Quantum Tunneling]] 
+![[qq_1.png]]
+[^2]
+>[!note] Explanation
+Example of a simple harmonic oscillator.
+Potential energy is dependent on the amount of energy you give it
 
 
-![[Screenshot 2025-04-08 at 7.35.10 AM.png]]
+In classical situations the potential energy is depdent on the amount of energy you give it and reflects once the potentail energy equal or more the total energy in the system.
+
+In a classical system if you give the system some energy U(x) described by the graph below. Where the difference between E - U(x) = 0 at -A and A, we wont find the oscillator at any point beyond that because its classical forbidden ([[Quantum Tunnelling]])
+
+We can find our total energy using classical system suggested below.
+
+![[qq_2.png]]
+[^2]
+>[!note] Explanation
+Using a system of an ideal oscillator to map the potential energy.
+>
+The difference where E - U(x) = 0 is at -A and A. 
+>
+Points beyond those points are classically forbidden because E - U(X) < 0
+>
+Total energy in the system is $E = \frac{1}{2}KA^2$ 
+
+# Quantum Harmonic Oscillator 
+>[!warning] Assumputions
+Before defining out quantum system we need to make requirments of our system:
+>
+It abides by the [[Uncertainty Principle]]
+It cannot reflect ([[Uncertainty Principle]])
+Can experience [[Quantum Tunnelling]]
+It classically is bounded at endpoints of potential well points (Bounded standing [[Waves]])
+Its normalizable 
+>
+Our quantum system needs to abide by these because not doing so would break these laws of nature
+>
+
+>[!bug] Derivation Assumption
+Because I lack 2nd DE math-knowledge we will assume that the quantum $E_n = (n+1/2)(hf)$ and assume its the zero-point system from [[Zero-Point Energy]]
+>
+This note will just justify why this must be true without mathematical proof for now.
+
+Using our assumptions from before and our requirements of our quantum system, the generalized total energy is equal to $E_n = (n+1/2)(hf)$.
+
+Unlike the classical sense, the quantum one cannot have a zero energy level (due to [[Uncertainty Principle]]).
+
+In a classical picture the system reflects once is reaches a point, so in a quantum system although it won't reflect, the wave function must have a standing wave point at those end points.
+
+The probability of finding a particle can be past the classically forbidden region due to [[Quantum Tunnelling]] 
+
+![[q_3.png]]
+[^1]
 >[!note] Explanation
 Wavefunction only exist on decite energy levels (nth value)
 
-For a quantum system to exist it need to have a wave function who's **normalizable** and **bounded** (standing wave) like a [[Particle in a Box (1D)]] 
+For a quantum system to exist it need to have a wave function who's **normalizable** and **bounded** (standing wave) like a [[Particle in a Box (1D)]] because it needs to classically stop where the difference between E - U(x) = 0 (Classical Reference)
 
-![[Pasted image 20250407172704.png]]
->[!note] Explanation
-Quantum harmonic oscillator only exist in a decrite energy levels.
+In the quantum oscillator this is possible only at certain values. This is physically only possible because this is the only wave a standing wave function can exist. 
 
-In the quantum ossiciltor this is possible only at certain values. This is physically only possible because this is the only wave a wave function can exist. **Note that a quantum system doesn't a force like the classical sense the so the wave function can't oscillate back and force due to [[Uncertainty Principle]] not allowing definte position
+**Note that a quantum system doesn't have a force like the classical sense the, so the wave function can't oscillate back and force due to [[Uncertainty Principle]] not allowing definite position
 
 Solely because the wave function is quantized our energy is also quantized 
 
 >[!warning] Important
-The wavefunciton is decrite when the potential energy is less than the wavefunciton energy
-The wave function decay exp due to [[Quantum Tunneling]] when the potential energy is more than wavefunction energy
+The wave function is descrite when the potential energy is less than the wave function energy
+>
+The wave function decay exp due to [[Quantum Tunnelling]] when the potential energy is more than wave function energy
+
+![[q_4.png]]
+[^2]
+>[!note] Explanation
+Quantum harmonic oscillator only exist in a decrite energy levels.
+
+
+[^1]: ["The Quantum Harmonic Oscillator"](https://phys.libretexts.org/@go/page/4531) by [OpenStax](https://openstax.org/), [LibreTexts](https://libretexts.org/) is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/).
+
+[^2]: Taken from R.Epp notes.
+
+---
+
+> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+
+---

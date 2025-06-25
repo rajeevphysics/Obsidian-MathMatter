@@ -62,3 +62,9 @@ Some more information on the potential energy and torque can be seen in [this vi
 
 
 [^1]: Taken from https://tikz.net/electric_dipole/ by Izaak Neutelings (July 2018)
+
+---
+
+> 🧠 Enjoy this walkthrough? [Support Math & Matter](https://github.com/rajeevphysics/Obsidan-MathMatter) with a star and help others learn more easily.
+
+---

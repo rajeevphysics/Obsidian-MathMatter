@@ -23,3 +23,10 @@ We are allowed to say this because voltage is a conserved quantity if it's not l
 General rule for loop rules
 
 [^1]: Taken from https://tikz.net/electric_circuit_resistor/ by Izaak Neutelings (Februari, 2020)
+
+---
+
+🧪 Think this could help someone else?  
+[Star Math & Matter on Github](https://github.com/rajeevphysics/Obsidan-MathMatter) to help more learners discover it.
+
+---

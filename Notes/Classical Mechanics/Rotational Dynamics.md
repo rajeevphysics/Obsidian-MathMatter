@@ -7,12 +7,14 @@ $K = \frac{1}{2}I\omega ^2$
 $W = \Delta K$
 
 # Rotational Kinetic Energy
-Rotational kinetic energy is the kinetic energy created by a roating body. 
+Rotational kinetic energy is the kinetic energy created by a rotating body. 
 This is different from kinetic energy created by [[Dynamic Forces & Newtons Laws]]
+
+If we assume a rotating body has kinematics energy in this way we derive an expression done blow.
 ![[rot_1.png]]
 [^1]
 >[!note] Explanation
-Example of Rotating mass.
+Example of a rotating mass.
 
 >[!warning] Assumption 
 $v = r\omega$ from [[Rotational Kinematics]]
@@ -41,7 +43,9 @@ v = \sqrt{\frac{2g\Delta x}{1+\frac{I}{mR^2}}}
 \end{array}$$
 
 # Rotating Work
-If a object rotates around a axis than the object will experience a change in energy (work).  
+If a object rotates around a axis than the object then work must have been applied on that object in order for it to rotate.
+
+We can derive an expression for rotating work done blow.
 
 ![[rot_2.png]]
 [^1]
@@ -52,9 +56,8 @@ Example of work in a rotating body
 $F_\perp = \frac{\tau}{r}$
 $ds = rd\theta$ 
 > $d\theta = \omega dt$ 
->F Derived from [[Torque & Moment of Inertia]] because we assume perp sin(1) = 1
-ds  and $d\theta$ dervied from [[Rotational Kinematics]]
-
+>F above derived from [[Moment of Inertia & Torque]] because we assume perp sin(1) = 1
+ds  and $d\theta$ above is derived from [[Rotational Kinematics]]
 
 $$\begin{array}{c}
 W = F_\perp ds \\ 
@@ -86,4 +89,11 @@ W = \Delta K \\
 v = \sqrt{\frac{2g\Delta x}{1+\frac{I}{mR^2}}}
 \end{array}$$
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
+
+---
+
+🧪 Think this could help someone else?  
+[Star Math & Matter on Github](https://github.com/rajeevphysics/Obsidan-MathMatter) to help more learners discover it.
+
+---

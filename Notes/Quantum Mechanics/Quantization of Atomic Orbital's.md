@@ -12,16 +12,15 @@ Atoms absorb photon with energy within resonance so the atom jump states due to 
 Atoms are higher energy levels are unstable the atoms wants to jump down states.
 >
 if a photon interacts with the atom at the right resonance, the atom releases a photon with energy to jump down states
-
-
-
-An quantum orbital has both Counterclockwise and Clockwise wave. Meaning that p = +p and -p
-
-For there to be ($\Delta p = 0$) we require:
-$2\pi r = n\lambda$ (How many wavelengths we can fit into a circle)]
-![[Pasted image 20250402085831.png]]
-
 # Deriving Energy & momentum for nth wavelengths
+
+>[!warning] Assumption
+An quantum orbital has both Counterclockwise and Clockwise wave. Meaning that p = +p and -p
+>
+For there to be ($\Delta p = 0$) we require:
+$2\pi r = n\lambda$ (How many wavelengths we can fit into a circle)
+![[at_1.png]]
+
 From a classical approach we use:
 $$
 \begin{array}{c} 
@@ -76,20 +75,35 @@ E_n  = \frac{\hbar^2}{2ma_0 ^2 n^2}
 $$
 
 # How does an atom get excited into another state
+Atom after the reach excited state will attempt to jump states or lower states depending on what happens to the atom and their energy level. Where a photon with energy ($\Delta E$) an atom can receive that energy. 
+
 ## Absorption (Go up)
-Where an photo with energy ($\Delta E$) an atom can receive that energy. 
 This is only done if the atom in the correct resonance as the photon at the right time. When energy is given enough times the atom can jump states.
 
 Think of it like a child on a swing. If you give it a push (energy) at the correct resonance as the child on the swing then energy is given to the child. If you push at the wrong time then energy is not given to the child. When enough energy is given to the child can swing higher (higher state)
 
-![[Pasted image 20250405111924.png]]
+![[at_2.png]]
+[^1]
 >[!note] Explanation 
 A photon interacts with atom in $E_1$ at the right resonance the photon gives the atom its energy and it jump states into $E_2$
 
 ## Emission (Go down)
-When atoms are in higher energy states, often these higher states are unstable and the atom would rather be in a lower state (everything wants to be in its lowest energy state). When a photon interacts with the atom at the right resonace, the atom emits a photon because it want to jump to another state. Making it release a photon
+When atoms are in higher energy states, often these higher states are unstable and the atom would rather be in a lower state (everything wants to be in its lowest energy state).
 
-![[Pasted image 20250405112007.png]]
+When a photon interacts with the atom at the right resonance, the atom emits a photon because it want to jump to another state. Making it release a photon
+
+![[at_3.png]]
+[^1]
 >[!note] Explanation 
 A photon interacts with a atom at the right resonance. 
 The atom emits a photon to reduce its energy level
+
+[^1]: Taken from R.Epp notes.
+
+
+
+---
+
+> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+
+---

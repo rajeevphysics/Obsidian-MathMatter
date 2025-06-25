@@ -20,7 +20,7 @@ Difference between the two wave functions form a energy gap
 ![[free_1.png]]
 [^1]
 **Even wave-functions**
-When the wave function ($P(x) = |\psi(x)|^2$) is even the wavefunction is constructive and add up to form bonding such as [[Covalent Bond]] and Ionic bonding. 
+When the wave function ($P(x) = |\psi(x)|^2$) is even the wave function is constructive and add up to form bonding such as [[Covalent Bond]] and Ionic bonding. 
 
 >[!note]
 **When the wave function is high** it means that there is a **high chance of finding the particle in some form of bonding**.
@@ -37,12 +37,14 @@ When the wave function is odd the wave function destructively interferes. This b
 If now ignore the U(x) dips and peaks in the first fig above. So now imagine the U(x) is just straight 
 ![[free_2.png]]
 [^1]
+>[!note] Explanation
+Instead of u(x) dipping and peaking we assume its constant
 
->[!info] Assumptions
-We will assume  there would be no change in E(t) or we assume its zero. So from [[Schrodinger Equation]] simplified would be the following assuming we are ignoring the U(x)
+>[!warning] Assumptions
+We will assume  there would be no change in E(t) or we assume its zero. So from [[Schrödinger Equation]] simplified would be the following assuming we are ignoring the U(x)
 $$\psi(x) \propto e^{\frac{i}{\hbar} px }$$
 
-Because $|\psi(x)|^2 = const$ this would form travelling waves like [[Quantization For Particle in a Box]], [[Particle in a Box (1D)]]
+Because $|\psi(x)|^2 = const$ this would form travelling waves like [[Quantization For Particle in a Box]] from [[Particle in a Box (1D)]]
 
 if we do this all our energy is kinetic energy because $PE = \frac{p^2}{2m}$. 
 
@@ -52,8 +54,9 @@ So now the PE vs momentum would look something like this:
 >[!note]
 If assume L is very large compared to h ,$\Delta p$ is very small
 Because we get standing waves, we get allowed wavelengths ($\lambda$) and momentum ($p$)
-# Finding The Fermi Energy
-We assume that U(x) = 0 so that that we get decrite momentum and wavelength levels similar to the [[Particle in a Box (1D)]] / [[Quantization For Particle in a Box]].
+## Finding The Fermi Energy
+>[!warning] Assumption 
+We assume that U(x) = 0 so that we get descrite momentum and wavelength levels similar to the [[Particle in a Box (1D)]] / [[Quantization For Particle in a Box]].
 
 If we assume that energy will be quantized like the particle in the box, from [[Quantization For Particle in a Box]] we get the energy and momentum as this
 $$\begin{array}{c} 
@@ -77,7 +80,8 @@ E_n = \frac{N^2h^2}{32L^2m} \\
 \end{array}$$
 
 # Assuming U(X) is not zero
-When we conisder the u(x) our $p = small$ (since p = h/L and L >> h) so by the [[Uncertainty Principle]] $\lambda = large$ 
+>[!warning] Assumptions 
+When we consider the u(x) our $p = small$ (since p = h/L and L >> h) so by the [[Uncertainty Principle]] our uncertainty in $\lambda = large$ 
 
 **Note** $\lambda = 2a$ (Its harder to see because we sqaured the wavefunction) 
 1 a = the $\pi$ distance for cos(x)
@@ -98,7 +102,7 @@ $$
 [^1]
 The wave reflect because of [[Bragg Law (Reflection)]] caused by the wavelengths reflecting off a atom. 
 
-So our wavefunction from [[Schrodinger Equation]] will have both and left and right moving wave.
+So our wavefunction from [[Schrödinger Equation]] will have both and left and right moving wave.
 
 $$\begin{array}{c} 
 \psi_{even} (x ) \propto e^{\frac{i}{\hbar} px} +  e^{-\frac{i}{\hbar} px} \propto e^  {i\pi{\frac{x}{a}}} + e^  {-i\pi{\frac{x}{a}}} \propto cos(\frac{\pi x}{a}) \\
@@ -114,18 +118,17 @@ P_{even}(x)  = cos^2(\frac{\pi x}{a}) \\
 P_{odd} (x) = sin^2(\frac{\pi x}{a})
 \end{array}$$
 
-
-
-
-# Energy gap
+## Energy gap
 The energy only will occur when you **DONT** ignore the potential energy.
-From our derivation we get two wavelength of even and off which are both standing waves. On a graph this forms:
+From our derivation we get two wavelengths of even and off which are both standing waves. 
+
+On a graph this forms:
 ![[free_7.png]]
 [^1]
 **Notice how our EVEN peaks at 0,a,2a... and ODD peaks at $\frac{a}{2}, \frac{3a}{2}$...**
 Near the atom the sin wave is peaks.  
 
-Our total is enegy is given by the following and note that both waves will have the same kinetic energy but differnt potential energy.
+Our total is energy is given by the following and note that both waves will have the same kinetic energy but different potential energy.
 $$E_T = Kinetic + Potenetial$$
 
 When were near the atom the P(odd) wave is more likely to be found there and hence has more potential energy. For the odd wave its least likely and has a smaller kinetic energy (likey very small since cos is nearly zero at the atom)
@@ -135,4 +138,11 @@ This differnce makes the energy gap
 ![[free_8.png]]
 [^1]
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
+
+---
+
+🧪 Think this could help someone else?  
+[Star Math & Matter on Github](https://github.com/rajeevphysics/Obsidan-MathMatter) to help more learners discover it.
+
+---

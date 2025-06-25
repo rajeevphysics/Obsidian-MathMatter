@@ -1,20 +1,20 @@
  
 >[!summary]
-Rolling motion with no slipping is motion consistent of translation and rotational motion.
+Rolling motion with no slipping is motion consistent of translation and rotational motion and describes the motion of rolling objects.
 >
 **Key equations (If we assume no slipping):**
 >
 **Rolling Analysis**:
-Any equation from [[Rotational Dynamics]] & [[Torque & Moment of Inertia]]
+Any equation from [[Rotational Dynamics]] & [[Moment of Inertia & Torque]]
 >
 **Translation & Rotational Analysis:**
 Any equations from [[Rotational Kinematics]]
 Any equation from [[Kinematics]]
 
 # General Principle
-Rolling motion describes the motion of rolling object that exhibit two types of motion, translational and rolling. (eg. rolling ball)
+Rolling motion describes the motion of rolling object that exhibit two types of motion, transnational and rolling. (eg. rolling ball)
 
-If a object has rolling motion behaviour you should break up the statement into translational using [[Kinematics]] and rolling using [[Rotational Kinematics]] or [[Rotational Dynamics]]
+If an object has rolling motion behaviour you should break up the statement into transitional using [[Kinematics]] and rolling using [[Rotational Kinematics]] or [[Rotational Dynamics]]
 
 >[!warning] Rotational Kinematics Only Applies to no slipping
 Note that rolling kinematics can only be applied to rolling motion with no slipping. 
@@ -28,7 +28,7 @@ Rolling motion is translation and rotational (Assume no slipping)
 In the example above the object will have a v to the right, of the same length and at the top, middle and bottom because the whole object is moving to the right. The magnitude would be the same because the whole object is moving to the right together.
 
 **Key equations:**
-Because we use trranslation motion we use [[Kinematics]] equations
+Because we use translation motion we use [[Kinematics]] equations
 ## Rotational 
 In the example if you imagine a ball only rotating not moving. The middle will have some rotational speed (assume its rotating clockwise) so that $v = \omega R$ to satisfy [[Rotational Kinematics]]
 
@@ -39,10 +39,10 @@ At the **bottom** it will have a **velocity to the left**, since its spinning cl
 **Key equations:**
 Because we use rotational motion we use [[Rotational Kinematics]] equations
 ## Rolling Dynamics 
-In the first part of the example, if you combine the translation and rotational equations then you have a object that has both rotational and translational, or something that is experiencing [[Rotational Dynamics]] and [[Torque & Moment of Inertia]].
+In the first part of the example, if you combine the translation and rotational equations then you have a object that has both rotational and transnational, or something that is experiencing [[Rotational Dynamics]] and [[Moment of Inertia & Torque]].
 
 **Key equations:**
-If we use rolling dynamics then we use [[Rotational Dynamics]] & [[Torque & Moment of Inertia]] equations
+If we use rolling dynamics then we use [[Rotational Dynamics]] & [[Moment of Inertia & Torque]] equations
 
 >[!bug] Important Note
 For problem if you use a rolling dynamics analysis you can't use equations from rotational & translational. Visa-versa for the other way around.
@@ -96,4 +96,10 @@ I_{POC} = I_{cm} + mR^2 \\
 a_{cm} = \frac{mgR^2sin(\theta)}{I_P} 
 \end{array}$$
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

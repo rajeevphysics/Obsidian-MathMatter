@@ -8,46 +8,62 @@
 >Dynamic Model:
 >Particles orbit the nucleus with some centripetal force
 
+# Static Model
+The static model explain how static (or appear to be static) particles attract each other, which is from the electrostatic attraction like from [[Coulombs Law]]. 
+*This is technically false if you assume how we observe the world since particles are not static and move with some velocity*
+
+![[stat_1.png]]
+[^1]
+>[!note] Explanation
+Example of the static model
+
+# Dynamic Model
+Electrons orbiting the nucleus are like how the earth orbits the sun. There is a centripetal force towards the nucleus
+*This is technically wrong since the electron would spiral intro the nucleus which is not what is observed*
+![[stat_2.png]]
+[^1]
+>[!note] Explanation
+Example of the dynamic model
+
 # Stationary Model
-A particle (electron) orbiting the nuclelus has both static and dynamic properties. When you observe it static, but is dynamic otherwise.
+A particle (electron) orbiting the nucleus has both static and dynamic properties. When you observe it static, but is dynamic otherwise.
 
 This model explain how a particle is able to orbit.
 We can have $\Delta p = 0$ ([[Uncertainty Principle]]) making $\Delta x = \infty$ 
 
-If the uncerainty is postion in infity than the particle has a equal problibity of eneding up anywhere in the loop. When not observed the particle is in a indefinte state appearing everywhere at the same time, with the same probability of being observed when measured.
+If the uncertainty is position in infinity than the particle has a equal probability of ending up anywhere in the loop. When not observed the particle is in a indefinite state appearing everywhere at the same time, with the same probability of being observed when measured.
 
 $P(x) = const$
  $|\psi(x,t)|^2 \propto 1$ 
 
-If there is charge everywhere than this creates a magnetic field. Which would now allow the electron not to collape into the atom.
+If there is charge everywhere than this creates a magnetic field. Which would now allow the electron not to collapse into the atom.
 
 >[!note]
-**there is no point charge orbiting the nucleuss like the dynamic model, instead a single electron is everwhere at the the same time**
+**There is no point charge orbiting the nucleus like the dynamic model, instead a single electron is everywhere at the the same time**
 
-![[Pasted image 20250402083234.png]]
+![[stat_3.png]]
+[^1]
+>[!note] Explanation
+Magnetic fields are created by a point charge existing everywhere at the same time.
 
-
-
-
-# Probability
-A free particle with energy and monentum has this:
+## Probability
+A free particle with energy and momentum has this from [[Schrödinger Equation]]
 $$\psi(x,t) \propto e^{\frac{i}{\hbar}(px-Et)}$$
 
 Because the particle in a stationary state is orbiting the atom with angular momentum $r\theta = s$, replace the px with p(angular)
 
 $$\psi(\theta,t)\propto e^{\frac{i}{\hbar}pr\theta-Et}$$
-![[Pasted image 20250402084114.png]]
+![[stat_4.png]]
+[^1]
 $|\psi(\theta,t)|^2 \propto 1$ 
 $P(x) = const$ (because $\Delta p = 0$)
 
-# Static Model
-The static model explain how static (or appear to be static) particles attract each other, which is from the electronstatic attraction. *This is technically false if you assume how we observe the world since partcles are not static and move*
-![[Pasted image 20250402082513.png]]
+[^1]: Taken from R.Epp notes.
 
-# Dynamic Model
-![[Pasted image 20250402082545.png]]
-Electrons obiting the nucleus are like how the earth orbits the sun. There is a centripcal force towards teh nucleaus
-*This is techically wrong since the electron woudl spiral intro the nucleaus which is not what is oberseved*
 
-A single particle obiting the nucleaus would create EM waves
-![[Pasted image 20250402082930.png]]
+
+---
+
+> 💡 Found this concept helpful? [Star Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook) to support more intuitive science breakdowns like this.
+
+---

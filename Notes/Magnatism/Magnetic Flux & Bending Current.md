@@ -41,3 +41,10 @@ I found this video helpful in understanding why bending current is due to specia
 
 
 [^1]: Taken from https://tikz.net/magnetic_field_wire/ by  Izaak Neutelings (March 2020)
+
+
+---
+
+> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+
+---

@@ -8,8 +8,7 @@ $p_n = \frac{nh}{2L}$
 Quantized Energy:
 $E = \frac{h^2}{8L^2m}$
 
-
-
+# Deriving Momentum For Particle in A Box (Ground State)
 For [[Particle in a Box (1D)]] we allow only certain standing waves
 
 $\lambda = \frac{2L}{n}$, $p = \frac{h}{\lambda}$ , $E = \frac{p^2}{2m}$ 
@@ -24,8 +23,13 @@ $$p = \frac{h}{2L}$$
 The momentum refers to the momentum a particle must have when measured to from this standing wave. 
 
 ## General form for momentum for any nth value
->[!info] Assumptions 
-This is found from deriving the nth value from [[Quantization of Atomic Orbital's]]
+>[!warning] Assumptions 
+More in depth derivation is found in [[Quantization of Atomic Orbital's]]
+>
+Well assume from the previous part the ground state is :
+$p = \frac{h}{2L}$ 
+>Assume the rate of which momentum changes is related to n
+
 
 Where n = 1,2,3,.. 
 $$p_n = \frac{nh}{2L}$$
@@ -37,3 +41,10 @@ E = \frac{p_n^2}{2m} \\
 E = \frac{h^2}{8L^2m} \\ 
 \end{array}$$
 Like momentum this is the energy a particle would have to have if we measured it with this wavelength
+
+
+---
+
+> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+
+---

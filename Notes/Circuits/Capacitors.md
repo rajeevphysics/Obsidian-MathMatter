@@ -132,9 +132,14 @@ C_T = C_1 + C_2
 - For extra explanations in understanding **how** a capacitor is charged I recommend this [video](https://www.youtube.com/watch?v=Ag2RujOHqJ8&ab_channel=AllAmericanFiveRadio).
 
 
-
 [^1]: Diagram taken from https://tikz.net/capacitors/ by Izaak Neutelings (February 2020)
 
 [^2]: Diagram adapted from https://tikz.net/electric_circuit_capacitors/ by Izaak Neutelings (February, 2020) 
 
 [^3]: Adapted from https://tikz.net/electric_circuit_capacitors/ by by Izaak Neutelings (February, 2020) 
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

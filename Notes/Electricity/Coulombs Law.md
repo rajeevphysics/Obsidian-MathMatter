@@ -8,7 +8,7 @@ Electric field by a point charge:
 $E = \frac{q}{4\pi R^2 \epsilon _0}$
 
 # What is Coulombs Law
-Coulombs law describe the force and interactions of particles. It explains and proves that point charges will produce a electric field and tells you how particles should and will interact with one another. 
+Coulombs law describe the force and interactions of particles. It explains and proves that point charges will produce an electric field and tells you how particles should and will interact with one another. 
 # Deriving Coulombs Law from Gauss's Law (Point charge)
 >[!warning] Assumptions 
 In order to derive the general principle for columbs law well find the electric field produced at any point from a stationary point charge.
@@ -43,3 +43,9 @@ For more information on deriving coulombs law I found this [video helpful](https
 
 
 [^1]: Taken from https://tikz.net/electric_field_sphere/ by Izaak Neutelings (Februari, 2020)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

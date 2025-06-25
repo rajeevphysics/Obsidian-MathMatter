@@ -1,6 +1,9 @@
-Circuits is the study of different applications with electricity.
+Covers the flow of electricity explained through components
 
 # 🧭  Index
+
+>[!tip]
+You can hover over topics to quickly skin the notes without leaving this page
 
 | Topics                           | Descriptions                                               |
 | -------------------------------- | ---------------------------------------------------------- |
@@ -11,3 +14,10 @@ Circuits is the study of different applications with electricity.
 | [[Power in Circuits]]            | How energy is delivered and consumed by components         |
 | [[Resistance & Ohm Law]]         | Relationship between voltage, current, and resistance      |
 | [[Resistivity and Conductivity]] | Material-dependent effects on current flow                 |
+
+
+---
+
+> 🗂️ You're browsing the Math & Matter Website. [Star it on GitHub](https://github.com/rajeevphysics/Obsidan-Thinkbook) to follow updates and support open learning.
+
+---

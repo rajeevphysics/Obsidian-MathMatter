@@ -28,8 +28,7 @@ Example of current flowing through two situations
 >[!Important]
 Bulbs and any electrical device do not use up current (Current is lost due to resistance)
 Current is always the same everywhere in a system 
-
-# How does Current make electron flow
+# How Does Current Make Electron Flow
 If we assume we have a closed battery with a conductor. Current is created when we connect a Potential difference created by [[Electric Potential Energy]]. This electric potential difference creates an [[Electric Field]] inside the conductor 
 $$E = \frac{V}{L}$$
 ![[cur_2.png | 500]]
@@ -75,3 +74,9 @@ In understanding drift velocity I found [this video](https://www.youtube.com/wat
 [^1]: Used from https://tikz.net/electric_current/ by Izaak Neutelings (July 2018)
 
 [^2]: Adapted from https://tikz.net/electric_current/ by Izaak Neutelings (July 2018)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

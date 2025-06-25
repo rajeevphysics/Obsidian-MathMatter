@@ -68,3 +68,9 @@ If you now add another wire, the like charges want to as far away as possible fo
 [^1]: Taken from https://tikz.net/charge/ by Izaak Neutelings (July 2018)
 
 [^2]: Taken from https://tikz.net/electric_field/ by Izaak Neutelings (July 2018)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

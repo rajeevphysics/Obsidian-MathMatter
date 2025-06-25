@@ -1,9 +1,9 @@
 
 >[!summary]
-Linear momentum describes how much force effectts motion
+Linear momentum describes how much force effects motion
 Impulse is the change in linear momentum over time
 >
-Intrinsic Property
+Linear momentum is a intrinsic property
 >
 **Key equations:**
 $p = mv$
@@ -24,7 +24,7 @@ $$\begin{array}{c}
 F = \frac{dp}{dt}  = ma \\ 
 p = mv
 \end{array}$$
-## Impulse 
+# Impulse 
 Impulse is the change in momentum over time. If we assume mass is the same like in linear momentum, we can derive a principle for impulse.
 
 $$\begin{array}{c}
@@ -46,4 +46,10 @@ A **force** acting over **time** transfers **momentum** - **Impulse**
 
 
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---

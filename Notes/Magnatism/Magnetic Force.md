@@ -74,7 +74,7 @@ Parallel moves with the magnetic field
 Combined forms both at the same time (Helical Motion / Pitch)
 
 # Magnet Moment
-When a particle rotates around itself due to [[Quantum Mech Spin Of Electron (Intrinsic angular momentum)]] and angular momentum (from quantum angular momentum for electrons properties) it creates its own magnetic field
+When a particle rotates around itself due to [[Properties of Quarks]] and angular momentum (from quantum angular momentum for electrons properties) it creates its own magnetic field
 
 ![[mf_4.png]]
 [^3]
@@ -145,3 +145,10 @@ F = 2IRB + IRB = IB(2R +L)
 [^3]: Taken from. https://tikz.net/magnetic_moment/ by Izaak Neutelings (March 2020)
 
 [^4]: Taken from https://tikz.net/magnetic_field/ by Izaak Neutelings (March 2020)
+
+
+---
+
+> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+
+---

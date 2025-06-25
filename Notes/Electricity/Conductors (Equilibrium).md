@@ -23,3 +23,9 @@ If now instead there is a [[Charges]] inside the cavity, to stay in equilibrium 
 ![[Pasted image 20250601120729.png]]
 
 If we want the electric field to be zero here the charge in the gausian surface would have to to be -q
+
+---
+
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
+
+---

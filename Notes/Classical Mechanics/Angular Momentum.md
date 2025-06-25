@@ -13,7 +13,6 @@ $L  = \vec{r} \times p$
 >
 Special case where a body is rotating symmetrically:
 $L = I\omega$
-
 # General Principle
 Angular momentum is used to describe an how much force an object has when rotating. It's similar to [[Linear Momentum]] in that it **can be** a conversed quantity but is **not an intrinsic property nor is always conserved!** 
 
@@ -28,7 +27,10 @@ Example of angular momentum
 Angular momentum determine how much a object has rotational motion and how hard it will be to stop that.
 
 In our definition we use [[Linear Momentum]] crossed with the r vector. We do this because the r vector will determine the radius a object would rotate around some origin.
+
 We can choose any arbitrary origin point.
+
+General equation:
 
 $$L  = \vec{r} \times p$$
 
@@ -143,6 +145,12 @@ v' = \frac{v_{cm}(1+\frac{Mh^2}{I} - \frac{M}{m} )}{2} \\
 \text{We should sub in vcm in best practices}
 \end{array}$$
 
-[^1]: Taken from R. Epp Lecture notes refer to [[References & License]] for more information.
+[^1]: Taken from R. Epp Lecture notes.
 
 [^2]: Taken from https://tikz.net/dynamics_angular_momentum/ from Izaak Neutelings (October 2020)
+
+---
+
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
+
+---
