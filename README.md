@@ -19,7 +19,7 @@ This repo includes:
 - All my Markdown Notes
 - My Plugins & Configs
 - Folder Stucture
-> 🚫 Note: Diagrams, drawings, and advanced LaTeX visuals are not included.
+> 🚫 Note: Diagrams, drawings, and advanced LaTeX visuals or code behind the live website are not included.
 > To experience the full visuals and layout, use the website.
 
 
