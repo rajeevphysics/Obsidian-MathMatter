@@ -1,0 +1,89 @@
+:root {
+  --selection-background-color: rgba(0,0,0,0.5);
+  --selection-color: rgb(73, 201, 206);
+  --highlight-text: rgb(73, 201, 206);
+  --contains-highlight-background-color: rgba(0,0,0,0.5);;
+}
+
+.mathlive-modal-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+
+  padding: 0;
+}
+
+math-field {
+  font-size: 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 15px 15px 0 0;
+}
+
+.submit {
+  background-color: green !important;
+  font-weight: bold;
+  color: white;
+  height: 100%;
+  width: 100%;
+  height: 2rem;
+  margin-top:1px;
+  border-radius: 0 0 15px 15px;
+  cursor: pointer;
+}
+
+math-field::part(content) {
+  --_text-highlight-background-color: #1e1e1e;
+  --_contains-highlight-background-color: #1e1e1e;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: space-between;
+  gap: 1rem;
+
+  margin-bottom: 2rem;
+}
+
+.badge {
+  background-color: rgb(48, 48, 48);
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.scan-button {
+  margin-top: 1.5rem !important;
+  background-color: rgb(14, 133, 141) !important;
+  font-weight: bold;
+  color: white;
+  height: 100%;
+  width: 100%;
+  height: 2rem;
+  margin-top:1px;
+  border-radius: 10px 10px 10px 10px;
+  cursor: pointer;
+}
+
+.mathlive-modal-root {
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+}
+
+.mathlive-modal-root > .modal-bg {
+  opacity: 0 !important;
+}
+
+.virt-keyboard {
+  overflow: overlay;
+}
+
+.virt-keyboard > div {
+  height: 40vh;
+  width: 100vw;
+}
