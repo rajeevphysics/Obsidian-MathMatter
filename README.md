@@ -2,7 +2,7 @@
 
 
 
-# 📘  The Math & Matter Thinkbook
+# 📘  Math & Matter
 
 
 
@@ -12,8 +12,6 @@ Welcome to my Notes Vault. These notes are curated from my undergraduate classes
 
 This note vault was created to help students build a **conceptual understanding** of topics and **save time** hunting for clear resources. Whether you're reviewing a specific topic or working through full courses, these notes are designed to help.
  
-
-
 
 
 📚 View the full interactive site: [The Math & Matter Website](https://publish.obsidian.md/mathmatter/)
@@ -85,28 +83,6 @@ Some notes may include:
 - Pauli Exclusion Principle
 - Quantum Harmonic Oscillator
 - Quantum Tunnelling
-- Stationary Model
-- Bose-Einstein Condensate
-- Bragg Law
-- Cooper Pairs
-- Meissner Effect
-- Free Electron Model
-- Particle Interactions
-- Force Mediation
-- Liquid Drop & Fermi Gas Model
-- Quarks
-- Types of Decay
-- Nuclear energy & reactions
-
-
-
-
-
-
-
-
-
-
 
 
 ##  🛠️  What's Coming
@@ -115,9 +91,6 @@ These are notes being created to publish soon
 - Linear Algebra 1 & 2
 - Special Relativity
 - Newtonian Gravity
-
-
-
 
 ## ✍️ License
 
