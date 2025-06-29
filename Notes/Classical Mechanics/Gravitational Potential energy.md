@@ -5,7 +5,11 @@ Gravitational potential energy is how willing a object naturally want to be in.
 **Key equation:**
 $U = mgh$
 
-Gravitational potential energy is how willing a object is to be in a state of equilibrium.![[ga_1.png]]
+>[!info]+ Read Time
+**⏱ 1 min**
+
+# What is Gravitational Potential Energy
+Gravitational potential energy is how willing an object is to be in a state of equilibrium.![[ga_1.png]]
 [^1]
 >[!note] Explanation
 An example of gravitational potential energy.

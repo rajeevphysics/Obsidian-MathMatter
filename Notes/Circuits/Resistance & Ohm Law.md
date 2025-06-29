@@ -16,6 +16,8 @@ $R_T =  R_1 + R_2$
 Resistors in Parallel:
 $\frac{1}{R_{T}}=\frac{1}{R_1}+\frac{1}{R_2}$
 
+>[!info]+ Read Time
+**⏱ 2 mins**
 # Resistance 
 Resistance (R) is the collision of electrons onto atoms, which causes the atom to vibrate and create resistance (heat).
 

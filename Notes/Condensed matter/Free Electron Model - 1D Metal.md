@@ -16,11 +16,13 @@ $P_{odd} (x) = sin^2(\frac{\pi x}{a})$
 >
 Difference between the two wave functions form a energy gap
 
+>[!info]+ Read Time
+**⏱ 5 mins**
 # Bonding Orbitals
 ![[free_1.png]]
 [^1]
 **Even wave-functions**
-When the wave function ($P(x) = |\psi(x)|^2$) is even the wave function is constructive and add up to form bonding such as [[Covalent Bond]] and Ionic bonding. 
+When the wave function ($P(x) = |\psi(x)|^2$) is even the wave function is constructive and add up to form bonding such as [[Covalent Bonding]] and Ionic bonding. 
 
 >[!note]
 **When the wave function is high** it means that there is a **high chance of finding the particle in some form of bonding**.

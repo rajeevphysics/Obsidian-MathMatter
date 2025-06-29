@@ -16,6 +16,11 @@ $E =  \frac{\lambda}{2\epsilon_0 }$
 >
 **Uniform charge line:**
 $E = \frac{\lambda }{2\pi r \epsilon_0}$
+
+
+>[!info]+ Read Time
+**⏱ 4 mins**
+
 # Deriving Gauss's Law from Coulombs Law
 >[!warning] Assumptions
 To derive gauss law from coulombs law well assume a spherically symmetric imagery surface a distance R away from a point charge centred in the middle.
@@ -33,14 +38,15 @@ Assume dA and electric field will always be parallel to each other
 Example of a gaussian surface around a point charge a distance R away.
 
 From flux, we know this measurement is true:
-$$\begin{array}{c}
-\Phi = \oint E\cdot dA \\ 
-\Phi = \oint \frac{q }{4\pi \epsilon R^2} dA \\ 
-\\ 
-
-\oint \frac{q }{4\pi \epsilon R^2} dA  = \frac{qA}{4\pi \epsilon R^2} = \frac{q4\pi R^2 }{4\pi \epsilon R^2}  = \frac{q}{\epsilon}\\ \\
-\Phi = \oint E\cdot dA = \frac{q}{\epsilon }
-\end{array}$$
+$$\begin{align*}
+\Phi &= \oint \vec{E} \cdot d\vec{A} \\
+     &= \oint \frac{q}{4\pi \varepsilon_0 R^2} \, dA \\
+     &= \frac{q}{4\pi \varepsilon_0 R^2} \oint dA \\
+     &= \frac{q}{4\pi \varepsilon_0 R^2} \cdot 4\pi R^2 \\
+     &= \frac{q}{\varepsilon_0} \\
+\Rightarrow\quad \Phi &= \frac{q}{\varepsilon_0}
+\end{align*}
+$$
 
 # General Equation
 >[!warning] General Assumption

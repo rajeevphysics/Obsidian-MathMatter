@@ -26,6 +26,8 @@ $\mu_k < \mu _s$
 Applied force:
 $F_a \geq \frac{tan(\theta) - \mu_s}{1+\mu _stan(\theta)} mg$
 
+>[!info]+ Read Time
+**⏱ 5 mins**
 # Newtons Laws
 >[!info] Inertial frame and Non-Inertial Frame
 **Inertial frames:**

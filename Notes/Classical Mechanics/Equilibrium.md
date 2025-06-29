@@ -6,8 +6,10 @@ For equilibrium to be true:
 $\sum F = 0$
 $\sum \tau = 0$ 
 
+>[!info]+ Read Time
+**⏱ 3 mins**
 # General Principle
-Equilibrium describes the state of no changing motion. This is when the velocity or rotational velocity is constant (where accerlation is 0) like in Torque examples involving [[Rotational Kinematics]] or [[Angular Momentum]] ([[Moment of Inertia & Torque]])
+Equilibrium describes the state of no changing motion. This is when the velocity or rotational velocity is constant (where acceleration is 0) like in Torque examples involving [[Rotational Kinematics]] or [[Angular Momentum]] ([[Moment of Inertia & Torque]])
 
 >[!warning] Solution Required for Equilibrium 
 In order for there to be equilibrium there must be no change in acceleration. (Velocity can be const)
@@ -38,6 +40,7 @@ I\alpha \overset{!}{=} 0 \\
 In the first part there is only linear momentum and therefore the first law is statifed because there is no change in acceleration.
 >
 In the second part there is a change in angular acceleration so equilibrium is broken because there is a change in a acceleration. 
+
 
 # Ladder Example 
 ![[eq_4.png]][^1]

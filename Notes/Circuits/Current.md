@@ -15,7 +15,8 @@ $v_d = \frac{D}{t}$
 Current density:
 $\vec{J}=\frac{I}{A}=\frac{qnv_{d}A}{A}=qnv_{d}$
 
-
+>[!info]+ Read Time
+**⏱ 3 mins**
 # Important Distinction 
 The motion of negative [[Charges]] (electrons) is  conventual current we will assume this for this note and in general. 
 

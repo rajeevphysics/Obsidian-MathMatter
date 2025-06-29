@@ -1,8 +1,12 @@
+---
+
+---
 
 >[!summary]
 >- Formed when two conductors are separated by an insulator 
->- It's "charged " when the two conductors have opposite [[Charges]]
->- To find capacitance the general formula is to use gausses law to find the electric field and Q_enc. Than find the potential difference from [[Electric Potential Energy]] or [[Electric Potential]]
+>- It's "charged " when the two conductors have opposite charges
+>- To find capacitance the general formula is to use Gauss's law to find the electric field and $Q_enc$. 
+>- To find potential difference we use general formula from electrical potential energy 
 >
 >**Key equations:**
 >
@@ -15,40 +19,41 @@ Capacitance:
 >Capacitor in parallel:  
 >$C_T = C_1 + C_2$
 
-# What does it mean for a capacitor to be Charged
-![[cap_1.png| 300]]
->[!note] Explanation
-An example of complete circuit with a capacitor 
+>[!info]+ Read Time
+**⏱ 5 mins**
 
+# What Does It Mean for a Capacitor to Be Charged
 >[!warning] Assumption
-For a capacitor to start to charge or be charged a full circuit needs to be complete
+We will assume a capacitor is in a full circuit (battery linked to capacitor) and [[Current|current]]
+>
+**Before** the circuit is complete both plates have **equal** charges. 
 
-**Before** the circuit is complete both plates have **equal** **charges**. 
+When the circuit is closed and current is running **positive charges** move away from the bottom part of the capacitor, **negative** move away from the top capacitor **forming this difference** you see in the image below.
+![[cap_1.png]]
 
-But when the circuit is started **positive charges** move away from the bottom part of the capacitor, **negative** move away from the top capacitor **forming this difference**.
-
-Positive charge flows away from the bottom part of the capacitor because its attracted to the negative part of the battery, same goes for the blue block
-
-The capacitor itself creates an electric field:
-![[cap_2.png| 500]] 
-[^1]
->[!note] Explanation
-Example of a capacitor creating an electric field. 
-
+>[!note]
+The difference between a capacitor when a circuit is complete will create an electric field.
+>
+>This is because there is now a difference between charges once a circuit is complete and current is moving.
+>
+![[cap_2.png| 400]] 
 
 # Deriving Capacitance 
->[!warning] Assumption 
-To find the capacitance in the most general sense, well assume that the plates are even and symmetry  so we can use [[Gauss's Law]] arguments.
+>[!warning] Assumptions
+To find the capacitance in the most general sense, well assume that the plates are even and symmetric so we can use arguments from [[Gauss's Law|Gauss's law]]. (Like in the figure above)
+
+
 
 $$\begin{array}{c}
 \text{Use Gauss's Law aurugments for two plates} \\ 
-\int E\cdot dA = \frac{Q_{enc}}{\epsilon_0} \\ 
+\oint E\cdot dA = \frac{Q_{enc}}{\epsilon_0} \\ 
 \text{Well assume our gaussian surface as some closed square with area A.
 } \\ \text{Well use this same argument for finding the Q} \\ \\
 Q_{enc} = \lambda A \\\\
 
 \text{Where our charge density $\lambda$ is defined through the area. Solving for area we get.} \\\\
 
+\oint E \cdot dA = \ 
 E = \frac{\lambda}{\epsilon_0} \\ 
 
 \end{array}$$
@@ -128,18 +133,18 @@ C_TV = C_1V + C_2V \\
 C_T = C_1 + C_2
 \end{array}$$
 
-# Extra Resources 
-- For extra explanations in understanding **how** a capacitor is charged I recommend this [video](https://www.youtube.com/watch?v=Ag2RujOHqJ8&ab_channel=AllAmericanFiveRadio).
+# Resources 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ag2RujOHqJ8?si=Qn-WvPODyzKsKBvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+---
+
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidian-MathMatter) to support the project and help others discover it!
+
+---
 
 [^1]: Diagram taken from https://tikz.net/capacitors/ by Izaak Neutelings (February 2020)
 
 [^2]: Diagram adapted from https://tikz.net/electric_circuit_capacitors/ by Izaak Neutelings (February, 2020) 
 
 [^3]: Adapted from https://tikz.net/electric_circuit_capacitors/ by by Izaak Neutelings (February, 2020) 
-
----
-
-> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
-
----

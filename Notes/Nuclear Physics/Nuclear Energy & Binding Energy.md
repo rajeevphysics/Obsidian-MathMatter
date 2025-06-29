@@ -65,9 +65,8 @@ $$E_B = 28.3 \space MeV $$
 
 [^1]: Taken from R. Epp Lecture notes.
 
-
 ---
 
-> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
 
 ---

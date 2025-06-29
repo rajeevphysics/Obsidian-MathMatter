@@ -87,7 +87,7 @@ This part assumes you already know Alpha decay read more about that in [[Types o
 
 When there is an even amount of protons and neutrons the fermi gas model tells us that there is an even amount of energy levels for both. 
 
-Each level is filled. If there is many protons and neutrons there will be high coulombs repulsion by [[Coulombs Law]] between each particle, so it wants to reduce the energy levels.
+Each level is filled. If there is many protons and neutrons there will be high coulombs repulsion by [[Coulomb's Law]] between each particle, so it wants to reduce the energy levels.
 
 It will release an whole energy levels of protons and neutrons (2N + 2Z)  Or reduce a whole energy level of protons and ****.
 
@@ -225,7 +225,6 @@ Example of gamma decay
 
 ---
 
-> ✍️ This project’s been a labour of love.  
-> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+> 🧠 Enjoy this walkthrough? [Support Math & Matter](https://github.com/rajeevphysics/Obsidan-MathMatter) with a star and help others learn more easily.
 
 ---

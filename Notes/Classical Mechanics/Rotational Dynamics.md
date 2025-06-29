@@ -6,6 +6,8 @@ Key equations:
 $K = \frac{1}{2}I\omega ^2$
 $W = \Delta K$
 
+>[!info]+ Read Time
+**⏱ 3 mins**
 # Rotational Kinetic Energy
 Rotational kinetic energy is the kinetic energy created by a rotating body. 
 This is different from kinetic energy created by [[Dynamic Forces & Newtons Laws]]

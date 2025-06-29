@@ -10,6 +10,8 @@ When dielectric is introduced (Assuming Q is constant):
 Voltage decreases
 Capacitance increases by $C=KC_0=\frac{K\epsilon_0A}{d}$
 
+>[!info]+ Read Time
+**⏱ 2 mins**
 # Finding Dielectrics 
 >[!warning] Assumption
 Assume we have a full circuits, with a capacitor with air separating the two plates. 

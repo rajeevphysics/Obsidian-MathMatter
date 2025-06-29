@@ -11,6 +11,7 @@ A electron creates a magnetic dipole through experimental results and solving th
 
 ---
 
-> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Thinkbook) to support the project and help others discover it!
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

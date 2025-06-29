@@ -45,6 +45,6 @@ Like momentum this is the energy a particle would have to have if we measured it
 
 ---
 
-> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
 
 ---

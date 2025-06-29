@@ -15,6 +15,8 @@ Moment of inertia:
 $I = mL^2$
 (summation if multiple objects)
 
+>[!info]+ Read Time
+**⏱ 4 mins**
 # Moment of Inertia 
 Moment of inertia describes the amount of rotation in angular motion. Like how much  resistance mass has in changes in angular motion. 
 
@@ -25,7 +27,7 @@ $$I = ml^2$$
 >[!note] Explanation
 Example of MOI in a 1-body situation
 
-In multiple bodies its the summation of each body in referenced to the axis of rotation.
+In multiple bodies it is the summation of each body in referenced to the axis of rotation.
 $$I = \sum m_i r_i^2$$
 ![[tor_3.png]]
 [^1]

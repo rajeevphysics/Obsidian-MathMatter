@@ -18,6 +18,9 @@ $\tau = pE sin(\theta)$
 >
 Potential energy:
 $U = -p \cdot E$
+
+>[!info]+ Read Time
+**⏱ 2 mins**
 # What is a Dipole
 A dipole is any two arrangements of two equal in magnitude but opposite sign [[Charges]]. **The field lines always point from + to -.**
 ![[dip_2.png | 500]]

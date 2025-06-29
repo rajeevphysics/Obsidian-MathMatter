@@ -9,6 +9,8 @@ Linear momentum is a intrinsic property
 $p = mv$
 $I = F\Delta t$
 
+>[!info]+ Read Time
+**⏱ 2 mins**
 # General Principle
 Linear momentum is a conserved quantity and describes how much force effects motion and is a intrinsic property 
 

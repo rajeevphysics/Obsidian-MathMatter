@@ -7,6 +7,9 @@ To validate that two waves will constructively interfere will one another, we ha
 That they stratify $n\lambda = 2sin(\theta)$ condition (Meaning that constructively interfere)
 >
 The two wavelengths have both have the angles $Path = l(cos(\theta_1) - cos(\theta_2))$  (They will be in phase throughout the whole plane)
+
+>[!info]+ Read Time
+**⏱ 3 mins**
 # Assumption Derivation for Bragg Law
 >[!warning] Assumptions of Knowledge 
 This note derivation is used with a Bragg plane which is a imagery planes with the dots representing atoms.

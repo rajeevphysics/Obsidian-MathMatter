@@ -27,7 +27,8 @@ Power if its constant:
 Power if its non-constant:
 $P_{avg} = \frac{1}{\Delta t} \int_t ^ T P(t)dt$
 
-
+>[!info]+ Read Time
+**⏱ 3 mins**
 # Potential Energy
 **Energy is always a conversed quantity**. It may not always be constant.
 In a closed system there is no energy transferred out or in to allow it to be conserved.

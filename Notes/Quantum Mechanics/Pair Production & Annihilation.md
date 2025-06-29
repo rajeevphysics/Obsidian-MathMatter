@@ -7,7 +7,7 @@ Annihilation:
 The electron and anti-electron collide and release energy due to the collision.
 
 # Pair-Production 
-A photon interacts with an atom. The photon gets close enough to the atom where the photon experiences a Coulomb field ([[Coulombs Law]]), the photon will convert some of its energy to mass, where it's recoiled by the energy left in the photon.
+A photon interacts with an atom. The photon gets close enough to the atom where the photon experiences a Coulomb field ([[Coulomb's Law]]), the photon will convert some of its energy to mass, where it's recoiled by the energy left in the photon.
 
 ![[pa_1.png]]
 [^1]
@@ -29,9 +29,8 @@ An electron and anti-electron collide and release energy due to the collison
 
 [^1]: Taken from R.Epp notes.
 
-
 ---
 
-> 💡 Found this concept helpful? [Star Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook) to support more intuitive science breakdowns like this.
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
 
 ---

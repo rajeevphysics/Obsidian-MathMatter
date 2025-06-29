@@ -10,6 +10,9 @@ $\mu \vec{r} = \hat{r}F(r)$
 >
 Reduced rotational body:
 $E_n = (n+\frac{1}{2})\hbar \sqrt{\frac{k}{m}} + i(i+1)(\frac{\hbar ^2}{2I})$
+
+>[!info]+ Read Time
+**⏱ 3 mins**
 # Two planets interaction
 In a two planet interactions with two separate masses and forces, we can reduce this problem into a one-body situation still describing the same motion as a two body.
 
