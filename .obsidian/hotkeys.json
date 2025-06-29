@@ -22,5 +22,32 @@
       ],
       "key": "U"
     }
+  ],
+  "note-linker-with-previewer:link_current_file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "note-linker-with-previewer:scan_vault": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ],
+  "note-linker-with-previewer:invalid_notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
