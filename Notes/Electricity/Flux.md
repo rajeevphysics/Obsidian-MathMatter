@@ -8,6 +8,9 @@ For 3D we imagine it as separate 2D closed surfaces
 Key equation:
 $\phi = E\cdot A$
 
+>[!info]+ Read Time
+**⏱ 3 mins**
+
 # What is Flux
 Flux is seeing how much of something  flows in or out an imaginary surface. **It is a measurement, similar to volume and area**
 We define this as $$\phi = \oint E\cdot dA$$Where A is an imagery area.

@@ -35,10 +35,9 @@ B = \frac{\mu_0i  }{2R}
 \end{array}$$
 
 
-
 ---
 
-> ✍️ This project’s been a labour of love.  
-> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

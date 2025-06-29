@@ -26,6 +26,8 @@ Y - direction \\
 \Delta v_y = a_{y avg} t \\ 
 \end{array}$$
 
+>[!info]+ Read Time
+**⏱ 3 mins**
 # Motion in 1D
 Kinematics is a description of motion in 1D such as displacement, velocity, and acceleration.
 

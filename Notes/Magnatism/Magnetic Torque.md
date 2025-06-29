@@ -6,7 +6,7 @@ Key equations:
 $\vec{\tau} = \vec{\mu_0} \times \vec{B}$
 $\mu _0 = I\cdot A$
 
-# Torque on a current wire
+# Torque On a Current Wire
 When you have a current loop and magnet inside the loop with a magnetic field, the magnet moment  ($\mu _0$ / m) created by the current will experience a torque
 $$\begin{array}{c} \vec{\tau} = \vec{\mu_0} \times \vec{B} \\
 \vec{\tau} = IBAsin(\theta) \\\\ 
@@ -37,8 +37,10 @@ Due to an electric field inside a closed wire caused by special relativity and l
 For more information in understanding magnetic torque I found this [video helpful](https://www.youtube.com/watch?v=hJxCLn4HNQ4&ab_channel=KhanAcademyIndia-English)
 
 
+
 ---
 
-> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Thinkbook) to support the project and help others discover it!
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

@@ -2,6 +2,8 @@
 >[!summary]
 Bose-Eisten condensate occur when cooper pairs are cooled to a low enough temperature forming cooper pairs acting like a boson
 
+>[!info]+ Read Time
+**⏱ 1 min**
 # Explanation
 When [[Cooper Pairs]] are formed they are in the same frequency as other ions creating photons (all at the same frequency)
 

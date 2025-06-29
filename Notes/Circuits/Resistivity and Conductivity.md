@@ -14,6 +14,8 @@ $R=\rho\frac{L}{A}$
 Conductivity in a material:
 $\sigma = \frac{J}{E}$
 
+>[!info]+ Read Time
+**⏱ 1 min**
 # What is Resistivity 
 Resistivity is how much the structure of a material reduces the flow of electrons ([[Resistance & Ohm Law]]). Materials can do this because they can affect how many electrons are in **some area** ([[Current#Current Density]]), and effect **the [[Electric Field]].**
 

@@ -63,19 +63,18 @@ A electron is configured before measurement to exist in a spin-down state as mea
 
 However if we leave the electron be and suppose its superposition state is in the middle of up and down. When we measure the electron can have a spin state of either up or down.
 
-The super position will either collapse into either of these.
+The superposition will either collapse into either of these.
 
 ![[spin_state_2.png|400]]
 >[!note] Explanation
 Example of particle superposition at measurement collapsing into either up or down states.
 
 # Extra Resources
-In explaining spin-states I found this video helpful called [What is Spin](https://www.youtube.com/watch?v=pYeRS5a3HbE&t=450s&ab_channel=ScienceClicEnglish)
-
+In explaining spin-states I found this video helpful called [What is Spin States](https://www.youtube.com/watch?v=pYeRS5a3HbE&t=450s&ab_channel=ScienceClicEnglish)
 
 
 ---
 
-> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
 
 ---

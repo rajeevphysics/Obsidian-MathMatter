@@ -13,6 +13,9 @@ $L  = \vec{r} \times p$
 >
 Special case where a body is rotating symmetrically:
 $L = I\omega$
+
+>[!info]+ Read Time
+**⏱ 5 mins**
 # General Principle
 Angular momentum is used to describe an how much force an object has when rotating. It's similar to [[Linear Momentum]] in that it **can be** a conversed quantity but is **not an intrinsic property nor is always conserved!** 
 

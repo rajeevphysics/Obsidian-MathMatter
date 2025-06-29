@@ -121,11 +121,8 @@ $$\lambda = 640F$$
 
 [^1]: Taken from R. Epp Lecture notes.
 
-
-
 ---
 
-📂 Want to see more structured notes like these?  
-Help grow the project by [starring Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook).
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
 
 ---

@@ -52,9 +52,9 @@ c^2{p^2}' + c^2(p^2 +{p^2}' -2p p'cos(\theta)) = c^2p^2 +m^2c^4 +2cpmc^4 \\
 
 [^1]: Taken from R.Epp notes.
 
-
 ---
 
-> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

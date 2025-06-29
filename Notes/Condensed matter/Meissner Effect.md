@@ -2,6 +2,8 @@
 >[!summary]
 Meisner effect explains that there magnetic repulsion is due to electrons (orginally fermions) link up into [[Cooper Pairs]] and **act** like bosonic. Occurs only when metal becomes superconductive ([[Superconductivity]])
 
+>[!info]+ Read Time
+**⏱ 1 min**
 
 Because many electrons are in their lowest energy state acting as boson pair, there magnetic properties add up ([[Properties of Magnetism]]) creating a repulsive magnetic force
 

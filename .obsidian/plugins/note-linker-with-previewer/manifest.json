@@ -1,0 +1,11 @@
+{
+	"id": "note-linker-with-previewer",
+	"name": "Note Linker with Previewer",
+	"version": "1.0.10",
+	"minAppVersion": "0.15.0",
+	"description": "Link your notes together",
+	"author": "Nick Allison",
+	"authorUrl": "https://github.com/nickrallison",
+	"fundingUrl": "https://github.com/sponsors/nickrallison",
+	"isDesktopOnly": false
+}

@@ -20,6 +20,8 @@ $E = \frac{Qr}{4\pi R^3 \epsilon_0}$
 **Electric potential inside a conducting sphere:**
 $V(b) = \frac{Q}{8\pi \epsilon_0 R} (3-\frac{r^2}{R^2})$
 
+>[!info]+ Read Time
+**⏱ 3 mins**
 # Important Distinction 
 >[!warning]
 **Not the same as [[Electric Potential]]**

@@ -3,8 +3,10 @@
 Functions that are shifted are move from this original position, but are not deformed.
 >
 Functions that are compressed, stretched or reflected are deformed from their original function.
+>
 
-**Generalization:**
+**Summarized Generalization:**
+The following is the summarized generalization of this note
 
 | Function       | Transformation                                                                       | Mapping                  |
 | -------------- | ------------------------------------------------------------------------------------ | ------------------------ |
@@ -18,6 +20,8 @@ Functions that are compressed, stretched or reflected are deformed from their or
 | $y = af(x)$ | Vertical stretch by a factor of \|a\|                              | $(x,y) \mapsto (x,ay)$          |
 | $y = f(bx)$ | Horizontal Stretch by a factor of $\frac{1}{\left \| b \right \|}$ | $(x,y) \mapsto (\frac{x}{b},y)$ |
 
+>[!info]+ Read Time
+**⏱ 5 mins**
 # Shifts 
 Function shifts are when a function is shifted up or down. When a function is shifted the shifted form is not manipulated in a way that deforms it from the original function. Other than it being displaced differently from the original function, it is fundamentally the same.  
 ## Proof
@@ -34,7 +38,7 @@ Suppose we have a function f(x) whose function plotted looks like this on a tabl
 >[!warning] Assumptions 
 Assume we use the same function f(x) (same table outputs)
 
-Now lets effect the function by subtracting the **output** of **f(x)**. Let's subtract by 1 for this example.
+Now let's effect the function by subtracting the **output** of **f(x)**. Let's subtract by 1 for this example.
 
 | x   | f(x) - 1 |
 | --- | -------- |
@@ -85,7 +89,7 @@ Suppose we have a function with a output in a form such as $y = f(x^2)$. Assume 
 | 4   | 16       |
 ![[desmos-graph (3).png]]
 
-Now suppose we effect this function by multiplying by a variable or sign we get the following result and its graph. For this proof, lets change the original function above to **multiplying** our **output by negative 1**. 
+Now suppose we affect this function by multiplying by a variable or sign we get the following result and its graph. For this proof, let's change the original function above to **multiplying** our **output by negative 1**. 
 
 >[!warning] Notice
 Be sure to be aware how the multiplying the input vs output is different just how changing the shift of the input vs output is different as well.
@@ -110,7 +114,6 @@ Be sure to be aware how the multiplying the input vs output is different just ho
 | 3   | -3     | 9         |
 | 4   | -4     | 16        |
 ![[desmos-graph (5).png]]
-
 >[!info] Assumed New original function
 For this next proof well assume our original function is $y = f(|x|)$ with the table and graph being below. We do this to better visualize the next proof part of strenching and compressions.
 

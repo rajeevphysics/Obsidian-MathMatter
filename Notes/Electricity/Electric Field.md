@@ -18,6 +18,8 @@ $E = \frac{kQx}{(x^2 + a^2)^{3/2}}$
 **Electric field for a uniform charged disk:**
 $E = \frac{2kQx}{R^2}(\frac{1}{x}-\frac{1}{\sqrt{x^2 + R^2}})$
 
+>[!info]+ Read Time
+**⏱ 5 mins**
 # Electric field 
 > [!warning] Definition Misconception 
 Electric field and electric potential are fundamentally different! 

@@ -12,6 +12,9 @@ $W = \int{F \cdot ds}$
 **Electric potential energy of two point charges:**
 $U=\frac{kqq_0}{r}$
 
+>[!info]+ Read Time
+**⏱ 2 mins**
+
 # What is the Electric Potential 
 >[!warning]
 **This is not the same as [[Electric Potential Energy]]**
@@ -37,7 +40,7 @@ $$W = \int{F \cdot ds}$$
 In this derivation we will assume the following:
 Work is positive
 The [[Electric Force]] is $F = qE$
-From [[Coulombs Law]] the $E = \frac{q}{4\pi r^2 \epsilon _0}$
+From [[Coulomb's Law]] the $E = \frac{q}{4\pi r^2 \epsilon _0}$
 Work from [[Work, Energy & Power]] is $W = \int_r ^{r_f} F(r) \cdot dx$
 The [[Electric Field]] is constant 
 

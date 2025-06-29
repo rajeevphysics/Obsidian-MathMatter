@@ -6,6 +6,8 @@ There are only two types of known charges in nature positive and negative. The c
 >
 It was simply done to explain why why certain things were repelled while other were attracted.
 
+>[!info]+ Read Time
+**⏱ 1 min**
 # Proof of Charges
 >[!warning] Assumptions
 In proving charges were a real thing we'd assume that two plastic object one rubbed with fur (Negative) and another with silk (Positive).

@@ -2,6 +2,8 @@
 >[!summary]
 Caused in superconductors from cooling a metal close to absolute zero. They are when two electrons overcome their repulsion force and act like boson, appear as the same wave function.
 
+>[!info]+ Read Time
+**⏱ 2 mins**
 # Normal Current 
 In normal flow there is resistance caused by electrons hitting atoms releasing energy to the atom. The atom vibrate and the metal heat up, you can read more on this in [[Resistance & Ohm Law]] and [[Current]].
 ![[Screenshot 2025-06-08 at 5.42.21 PM.png]]

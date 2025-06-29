@@ -2,12 +2,15 @@
 >[!summary]
 In static equilibrium situation we assume the electric field to be zero inside the conductor
 
+>[!info]+ Read Time
+**⏱ 2 min**
+# Conductors With Cavity
 For static situations we want the electric field to be zero so we are in equilibrium.
 
-There can be postive and negative charges present in the conductor, but to be a equilibrium they must cancel out. 
+There can be positive and negative charges present in the conductor, but to be a equilibrium they must cancel out. 
 
 We know if this is true if we are **Inside charged conductor (Q)** 
-# Conductors with Cavity
+
 ![[Pasted image 20250601114211.png]]
 >[!note] Explanation
 A electrostatic conductor will have a E = 0 always inside the conductor. All charges reside on the outside of the conductor. 

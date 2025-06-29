@@ -20,11 +20,9 @@ Particle trajectory is not definite because the momentum is not definite (its no
 
 [^1]: Taken from R.Epp notes.
 
-
-
 ---
 
-📂 Want to see more structured notes like these?  
-Help grow the project by [starring Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook).
+🧪 Think this could help someone else?  
+[Star Math & Matter on Github](https://github.com/rajeevphysics/Obsidan-MathMatter) to help more learners discover it.
 
 ---

@@ -88,9 +88,9 @@ for it to reduce it needs to release energy, but keep is mass (Photon). The phot
 
 [^4]: Taken from https://www.nuclear-power.com/nuclear-power/reactor-physics/atomic-nuclear-physics/fundamental-particles/beta-particle/characteristics-of-beta-radiation-particles/
 
-
 ---
 
-> 💡 Found this concept helpful? [Star Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook) to support more intuitive science breakdowns like this.
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

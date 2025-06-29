@@ -8,17 +8,18 @@ Quantized Equation
 $$E = nhf$$
 
 
-# Background (Ultraviolet Carpophore)
-A blackbody is a type of emitted light that produced all wavelength by the electromagnetic radiation.![[br_2.png | 500]]
+# Background (Ultraviolet Catastrophe)
+A blackbody is a type of emitted light that produced all wavelength by the electromagnetic radiation.
+![[br_2.png | 500]]
 [^2]
 
-The sun for example, produced all wavelengths which most of it it we can observe. In classical theory electromagnetic radiation could predict small spectral radiance but deviated when predicting small wavelength (like UV)
+The sun for example, produced all wavelengths which most of it we can observe. In classical theory electromagnetic radiation could predict small spectral radiance but deviated when predicting small wavelength (like UV)
 ![[br_1.png]]
 [^1]
 >[!note] Explanation
 The sun produced a blackbody radiation spilt into three sections UV, Visible and infrared.
 Classical theory fails the most in UV
-# Solution
+## Solution
 Temperature is created by atoms vibrating (like a [[Simple Harmonic Motion]]), so the Quantum solution was to quantize this vibration like in a [[Quantum Harmonic Oscillator]].
 ![[br_3.png]]
 [^3]
@@ -39,11 +40,9 @@ Which would describe any energy level of any wavelength as some nth value. Simil
 
 [^3]: Taken from https://tikz.net/electric_current/ by Izaak Neutelings (July 2018)
 
-
-
 ---
 
-> ✍️ This project’s been a labour of love.  
-> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

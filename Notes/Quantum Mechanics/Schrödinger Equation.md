@@ -41,9 +41,8 @@ Wave function of real and imagery
 
 [^1]: Taken from R.Epp notes.
 
-
 ---
 
-> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Thinkbook) to support the project and help others discover it!
+> 🧠 Enjoy this walkthrough? [Support Math & Matter](https://github.com/rajeevphysics/Obsidan-MathMatter) with a star and help others learn more easily.
 
 ---

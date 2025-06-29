@@ -11,6 +11,8 @@ Any equation from [[Rotational Dynamics]] & [[Moment of Inertia & Torque]]
 Any equations from [[Rotational Kinematics]]
 Any equation from [[Kinematics]]
 
+>[!info]+ Read Time
+**⏱ 3 mins**
 # General Principle
 Rolling motion describes the motion of rolling object that exhibit two types of motion, transnational and rolling. (eg. rolling ball)
 

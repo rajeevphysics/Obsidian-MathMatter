@@ -1,6 +1,6 @@
 
 >[!summary]
->The electric force is an extension of [[Coulombs Law]] and explains why a charged object will exert a force on another charged object. 
+>The electric force is an extension of [[Coulomb's Law]] and explains why a charged object will exert a force on another charged object. 
 >
 Polarization:
 A negative charged object close to a neutral charged object. Postive charges move in the direction of the negative object.
@@ -11,13 +11,16 @@ If a neutral object is grounded and a charged object is brought close to that gr
 Key equations:
 $F = \frac{q q_2}{4\pi R^2 \epsilon _0}$
 
+>[!info]+ Read Time
+**⏱ 3 mins**
+
 # What is The Electric Force
 >[!warning] 
 The [[Electric Force]] and [[Electric Potential Energy]] are different 
 
-The electric force explains the interactions of a point charge in a [[Electric Field]]. **This is an extension of** [[Coulombs Law]]. 
+The electric force explains the interactions of a point charge in a [[Electric Field]]. **This is an extension of** [[Coulomb's Law]]. 
 
-The electric force also explains how objects get charged by polarization or induction as a result of [[Coulombs Law]] and why like charges repel. Denoted by the result you get after deriving the electric force
+The electric force also explains how objects get charged by polarization or induction as a result of [[Coulomb's Law]] and why like charges repel. Denoted by the result you get after deriving the electric force
 
 # Deriving The Electric Force 
 >[!warning] Assumptions
@@ -25,7 +28,7 @@ We will assume that a point charge will be in a electric field so that [[Dynamic
 >
 We will assume:
 Assume $F = q_1E$
-Equations from [[Coulombs Law]] are valid 
+Equations from [[Coulomb's Law]] are valid 
 
 ![[el_2.png]]
 [^2]

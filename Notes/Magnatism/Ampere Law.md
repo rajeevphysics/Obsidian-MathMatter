@@ -104,9 +104,9 @@ $$
 
 [^2]: Taken from https://tikz.net/magnetic_field_solenoid/ by Izaak Neutelings (March 2020)
 
-
 ---
 
-> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

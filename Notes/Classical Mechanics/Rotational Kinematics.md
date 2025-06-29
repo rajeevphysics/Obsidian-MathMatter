@@ -15,6 +15,8 @@ General equations:
 $\Delta \theta = \omega \Delta t$
 $\Delta \omega = \alpha \Delta t$
 
+>[!info]+ Read Time
+**⏱ 2 mins**
 # Deriving Rotational Kinematics 
 Rotational motion is any type of motion that follows rotates around some axis.
 ![[krot_1.png]]

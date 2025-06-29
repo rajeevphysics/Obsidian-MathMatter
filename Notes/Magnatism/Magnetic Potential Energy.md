@@ -23,9 +23,8 @@ To rotate the magnet must experience a torque  ([[Magnetic Torque]])
 >[!note] Explanation
 The less algined with the field the more potential energy is has, **Red has the most potential energy** and **green has the least**
 
-
 ---
 
-> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Thinkbook) to support the project and help others discover it!
+> 🧠 Enjoy this walkthrough? [Support Math & Matter](https://github.com/rajeevphysics/Obsidan-MathMatter) with a star and help others learn more easily.
 
 ---
