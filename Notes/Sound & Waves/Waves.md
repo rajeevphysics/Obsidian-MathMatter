@@ -96,11 +96,8 @@ r_1 -r_2 = (n+1/2)\lambda \quad Destuctive
 
 [^2]: Taken from https://tikz.net/waves_standing/ by Izaak Neutelings (December 2020)
 
-
-
 ---
 
-> ✍️ This project’s been a labour of love.  
-> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
 
 ---

@@ -9,7 +9,7 @@
 >Particles orbit the nucleus with some centripetal force
 
 # Static Model
-The static model explain how static (or appear to be static) particles attract each other, which is from the electrostatic attraction like from [[Coulombs Law]]. 
+The static model explain how static (or appear to be static) particles attract each other, which is from the electrostatic attraction like from [[Coulomb's Law]]. 
 *This is technically false if you assume how we observe the world since particles are not static and move with some velocity*
 
 ![[stat_1.png]]
@@ -60,10 +60,8 @@ $P(x) = const$ (because $\Delta p = 0$)
 
 [^1]: Taken from R.Epp notes.
 
-
-
 ---
 
-> 💡 Found this concept helpful? [Star Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook) to support more intuitive science breakdowns like this.
+> 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter) to support more intuitive science breakdowns like this.
 
 ---

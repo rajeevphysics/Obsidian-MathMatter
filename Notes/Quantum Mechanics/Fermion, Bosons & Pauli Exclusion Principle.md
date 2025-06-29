@@ -39,14 +39,11 @@ This principle forbids fermion to exist in the same wavefunciton. This mean that
 In quantum mechanics this simplifies to:![[fe_1.png]]
 having two particles with opposite wave function meaning they can exist in two ways. If we were to swap the positions of the wave function the wave. Function would be exactly opposite of what it is.
 
-
-
----
-
-📂 Want to see more structured notes like these?  
-Help grow the project by [starring Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook).
+# Extra Resources
+I found understanding Pauli Exclusion principle & finding fermions and bosons (deriving) from [This video by Parth G](https://www.youtube.com/watch?v=INYZy6_HaQE&t=286s&ab_channel=ParthG)
 
 ---
 
+> 🧠 Enjoy this walkthrough? [Support Math & Matter](https://github.com/rajeevphysics/Obsidan-MathMatter) with a star and help others learn more easily.
 
-
+---

@@ -21,11 +21,10 @@ When both are open the particle is acting as a wave causing interference (goes t
 
 
 
-[^1]: Taken from R.Epp
-
+[^1]: Taken from R.Epp Lecture Notes
 
 ---
 
-> 💡 Found this concept helpful? [Star Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook) to support more intuitive science breakdowns like this.
+> 🧠 Enjoy this walkthrough? [Support Math & Matter](https://github.com/rajeevphysics/Obsidan-MathMatter) with a star and help others learn more easily.
 
 ---

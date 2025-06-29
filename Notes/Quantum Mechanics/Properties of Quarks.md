@@ -39,10 +39,9 @@ Spin number refers to the intrinsic property a particle has while [[Spin states]
 
 [^1]: Taken from https://tikz.net/sm_particles/Izaak by Neutelings (February 2023)
 
-
 ---
 
 📂 Want to see more structured notes like these?  
-Help grow the project by [starring Thinkbook on GitHub](https://github.com/rajeevphysics/Thinkbook).
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

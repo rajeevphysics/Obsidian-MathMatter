@@ -100,10 +100,8 @@ The atom emits a photon to reduce its energy level
 
 [^1]: Taken from R.Epp notes.
 
-
-
 ---
 
-> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
 
 ---

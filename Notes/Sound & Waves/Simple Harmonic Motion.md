@@ -96,10 +96,8 @@ $$\omega = \sqrt{\frac{mgd}{I}}$$
 
 [^3]: Taken from https://tikz.net/dynamics_pendulum/ by Izaak Neutelings (October 2020)
 
-
 ---
 
-> ✍️ This project’s been a labour of love.  
-> If it helped, [give Thinkbook a star](https://github.com/rajeevphysics/Thinkbook) and let me know what you'd like to see next.
+> 🧠 Enjoy this walkthrough? [Support Math & Matter](https://github.com/rajeevphysics/Obsidan-MathMatter) with a star and help others learn more easily.
 
 ---

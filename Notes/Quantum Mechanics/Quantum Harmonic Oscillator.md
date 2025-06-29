@@ -15,7 +15,7 @@ Cannot reflect
 >
 $E_n = (n+1/2)(hf)$ 
 # Classical Harmonic Oscillator 
-In a classical harmonic oscillator, any system can have any potential energy dependant on how much energy you gave it. 
+In a classical harmonic oscillator, any system can have any potential energy dependent on how much energy you gave it. 
 
 ![[qq_1.png]]
 [^2]
@@ -24,7 +24,7 @@ Example of a simple harmonic oscillator.
 Potential energy is dependent on the amount of energy you give it
 
 
-In classical situations the potential energy is depdent on the amount of energy you give it and reflects once the potentail energy equal or more the total energy in the system.
+In classical situations the potential energy is dependent on the amount of energy you give it and reflects once the potential energy equal or more the total energy in the system.
 
 In a classical system if you give the system some energy U(x) described by the graph below. Where the difference between E - U(x) = 0 at -A and A, we wont find the oscillator at any point beyond that because its classical forbidden ([[Quantum Tunnelling]])
 
@@ -63,7 +63,7 @@ Using our assumptions from before and our requirements of our quantum system, th
 
 Unlike the classical sense, the quantum one cannot have a zero energy level (due to [[Uncertainty Principle]]).
 
-In a classical picture the system reflects once is reaches a point, so in a quantum system although it won't reflect, the wave function must have a standing wave point at those end points.
+In a classical picture the system reflects once is reaches a point, so in a quantum system although it won't reflect, the wave function must have a standing wave point at those endpoints.
 
 The probability of finding a particle can be past the classically forbidden region due to [[Quantum Tunnelling]] 
 
@@ -97,6 +97,7 @@ Quantum harmonic oscillator only exist in a decrite energy levels.
 
 ---
 
-> 🧠 Enjoy this walkthrough? [Support the Thinkbook](https://github.com/rajeevphysics/Thinkbook) with a star and help others learn more easily.
+📂 Want to see more structured notes like these?  
+Help grow the project by [starring Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidan-MathMatter).
 
 ---

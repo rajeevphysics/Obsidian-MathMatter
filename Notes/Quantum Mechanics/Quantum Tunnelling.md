@@ -49,9 +49,8 @@ For parts a classical system could reach its would be a normal wave function lik
 
 [^1]: Taken from R.Epp notes.
 
-
 ---
 
-> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Thinkbook) to support the project and help others discover it!
+> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
 
 ---
