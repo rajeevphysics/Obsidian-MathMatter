@@ -1,23 +1,37 @@
-Power is the work per unit time or the rate of energy transferred into a system by [[Current]] and voltage
-(Units W)
 
-$$\begin{array}{c}
-P=IV \\ \\ 
-Note: V = IR\quad  \text{So we often write it as }\\ 
-P = \frac{V^2}  {R}
-\end{array}$$
-If there more energy coming in than there is a net transfer in
-If there more energy leaving there a net transfer out
+> [!summary]
+Power in circuits is the change in electric potential over time.
+> 
+**Key equation:**
+> 
+Power in circuits:
+$P=IV$
 
-**Important:**
-Voltage is the potential difference across two points. 
+>[!info]+ Read Time
+**⏱ 1 min**
 
-In the image below is there is more voltage **leaving** **then** **entering** the system then there is a net transfer out ($V_{ab} = V_a - V_b$) and so the **power will negative**
+# Definition 
+[[Power]] in [[Circuits|circuits]] describes the change in the [[Electric Potential|electric potential]] over time. Mathematically, it's defined as the following:
 
-If there is more energy **coming** then **leaving**, then the **power will be positive** 
+> [!warning] Assumptions
+To derive power in circuits, assume the following:
+> - [[Power]] is defined as ($P=\frac{E}{t}=\frac{\Delta U}{t}$)
+> - The electric potential is defined as $V=\frac{U}{q}$
+> - [[Current|Current]] is defined as $I=\frac{q}{t}$
+
+$$
+\begin{align*}
+P &= \frac{\Delta U}{t} \\
+&= \frac{qV}{t} \\
+&= IV
+\end{align*}
+$$
+# Resources
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3zt7DWUiaDE?si=K4B7cPkhHjhIU6RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
 
-> 📚 Like this note? [Star the GitHub repo](https://github.com/rajeevphysics/Obsidan-MathMatter) to support the project and help others discover it!
+> 🧪 Think this could help someone else? [Star Math & Matter on Github](https://github.com/rajeevphysics/Obsidian-MathMatter) to help more learners discover it.
 
 ---

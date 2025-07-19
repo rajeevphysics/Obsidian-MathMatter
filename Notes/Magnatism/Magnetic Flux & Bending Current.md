@@ -27,7 +27,7 @@ The electrons experience [[❓Length Contraction]] (although they are not moving
 >[!note] Explanation
 A positive charge outside the wire will force the positive charges to be pushed away from the positive charge outside the wire.
 
-Because both the positive charge and the electrons are moving with the same speed. In the positive charge frame of reference there are more positive charges than negative charges because of [[❓Length Contraction]]. Because of [[Charges]] and the [[Electric Field]] the positive charge experience a push away from the positive charges.
+Because both the positive charge and the electrons are moving with the same speed. In the positive charge frame of reference there are more positive charges than negative charges because of [[❓Length Contraction]]. Because of [[Charge]] and the [[Electric Fields]] the positive charge experience a push away from the positive charges.
 
 ![[mflux_1.png]] 
 [^1]

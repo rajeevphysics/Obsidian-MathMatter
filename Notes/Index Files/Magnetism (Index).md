@@ -2,9 +2,6 @@ Introduces magnetic fields and their interactions
 
 # 🧭 Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page (computer only)
-
 | Topics                                | Descriptions                                                                 |
 | ------------------------------------- | ---------------------------------------------------------------------------- |
 | [[Ampere Law]]                        | Argument to calculate magnetic flux in highly symmetric situations.          |

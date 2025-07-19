@@ -3,9 +3,6 @@ Focuses on fundamental particles, forces, and the Standard Model.
 
 # 🧭 Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page
-
 | Topics                             | Descriptions                              |
 | ---------------------------------- | ----------------------------------------- |
 | [[Force Mediation]]                | Quantum reasoning for coulomb repulsion   |

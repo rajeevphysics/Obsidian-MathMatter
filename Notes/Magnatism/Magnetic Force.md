@@ -54,7 +54,7 @@ If a charge is in a magnetic field, a velocity and force perpendicular to the fi
 >[!note] Explanation
 Circular motion caused by a magnetic field and velocity.
 
-If a charge is moving with a velocity and force perpendicular to motion only direction will be effected, and we show this through [[Dynamic Forces & Newtons Laws]]
+If a charge is moving with a velocity and force perpendicular to motion only direction will be effected, and we show this through [[Forces]]
 
 $$ \begin{array}{c}
 F_{net} = ma \\

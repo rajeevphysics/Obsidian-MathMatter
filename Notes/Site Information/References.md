@@ -1,4 +1,5 @@
 This vault is primarily on my own understanding and lecture notes. However, several notes were inspired, clarified or supported by the following resources
+
 # Lecture Notes
 **Calculus 1 & 2 Lecture Notes**  
 Lecture material by D. Wolczuk, University of Waterloo.  
@@ -37,7 +38,7 @@ Used as a reference for conceptual explanations and derivative structure in...
 
 **3Blue1Brown**. *Limits, Continuity, and Derivatives Visually Explained*. YouTube, 2 Mar. 2017.
 [Video](https://www.youtube.com/watch?v=kfF40MiS7zA)
-Video used to understand limits from [[! Limits]]. No original media is used.
+Video used to understand limits from [[Limits]]. No original media is used.
 
 **Arvin Arsh** - How do Superconductors work at the Quantum level?
 [Video](https://www.youtube.com/watch?v=vruYFOlM1-Q&t=181s&ab_channel=ArvinAsh)
@@ -61,7 +62,7 @@ Understanding from [[Magnetic Flux & Bending Current]] and some figures were ins
 
 **Walter Lewin** -  MIT 8.01 Physics 1 Lecture Materials 
 [Playlist](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e&ab_channel=LecturesbyWalterLewin.Theywillmakeyou%E2%99%A5Physics.)
-A figure is redrawn and influenced explanations mainly [[Angular Momentum]] as well as concepts in [[Classical Mechanics (Index)]]. No original media is used.
+A figure is redrawn and influenced by explanations, mainly [[Angular Momentum]], as well as concepts in classical physics. No original media is used.
 
 **Walter Lewin** -  MIT 8.02 Physics 2 Lecture Materials 
 [Playlist](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=1&ab_channel=LecturesbyWalterLewin.Theywillmakeyou%E2%99%A5Physics)

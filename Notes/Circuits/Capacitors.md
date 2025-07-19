@@ -1,108 +1,72 @@
----
 
----
-
->[!summary]
->- Formed when two conductors are separated by an insulator 
->- It's "charged " when the two conductors have opposite charges
->- To find capacitance the general formula is to use Gauss's law to find the electric field and $Q_enc$. 
->- To find potential difference we use general formula from electrical potential energy 
->
->**Key equations:**
->
-Capacitance:
-> $C = \frac{Q}{V}$
+> [!summary]
+A capacitor is two conducting plates separated by a distance. The distance between two plates can be covered by air or dielectrics. Each plate will have equal charges.
 > 
->Capacitors in series:
-  $\frac{1}{C}=\frac{1}{C_1}+\frac{1}{C_2}$
-  >
->Capacitor in parallel:  
->$C_T = C_1 + C_2$
+A charged capacitor is when a capacitor is placed in a closed circuit with current. Each plate will have the same magnitude but opposite charges. In distance between each plate will generate an electric field.
+> 
+Capacitors in parallel have the same voltage, while capacitors in series have the same current.
+> 
+> 
+**Key equations:**
+> 
+Energy stored in capacitors
+$W = \frac{Q^2}{2C}$
+> 
+Capacitors in parallel:
+$C_T = C_1 + C_2$
+> 
+Capacitors in series:
+$\frac{1}{C}=\frac{1}{C_1}+\frac{1}{C_2}$
 
 >[!info]+ Read Time
-**⏱ 5 mins**
+**⏱ 4 mins**
 
-# What Does It Mean for a Capacitor to Be Charged
->[!warning] Assumption
-We will assume a capacitor is in a full circuit (battery linked to capacitor) and [[Current|current]]
->
-**Before** the circuit is complete both plates have **equal** charges. 
+# Definition 
+A capacitor is two [[Conductors|conducting]] plates separated by air or a [[! Dielectrics|dielectric]]. In a charged capacitor, the plates hold equal and opposite charges.
 
-When the circuit is closed and current is running **positive charges** move away from the bottom part of the capacitor, **negative** move away from the top capacitor **forming this difference** you see in the image below.
+This only occurs when a capacitor is placed in a closed circuit, where [[Current|current]] is moving. Whereas if a capacitor is in a circuit where current isn't moving, both plates will have equal magnitude and equal charges.
+
 ![[cap_1.png]]
+[^1]
 
->[!note]
-The difference between a capacitor when a circuit is complete will create an electric field.
+> [!warning] How is a Capacitor Charged
+Refer to the figure below.
+> 
+A capacitor becomes a charged capacitor when it's placed in a circuit with current. When the current is started, the negative part of the battery will attract positive charges from the bottom plate. Where the opposite happens at the top plate. This effect creates a difference in both plates.
+> 
+![[cap_5.png|400]]
+
+
+> [!note]
+A charged capacitor will create an electric field between the plates. This is due to the charge difference in the plates.
 >
->This is because there is now a difference between charges once a circuit is complete and current is moving.
 >
 ![[cap_2.png| 400]] 
 
-# Deriving Capacitance 
->[!warning] Assumptions
-To find the capacitance in the most general sense, well assume that the plates are even and symmetric so we can use arguments from [[Gauss's Law|Gauss's law]]. (Like in the figure above)
+# Deriving Energy Stored in Capacitors
+> [!warning] Assumptions
+Energy stored in a capacitor is the work done on the capacitor to charge it. 
+To find energy stored in a capacitor, assume the following:
+> - Work is given by $W = \int{F \cdot ds}$  and in electrostatics $W = \int{V(q)dQ}$ from [[Electric Potential Energy]]
+> - The "[[Newton Laws|force]]" is potential per unit of charge, so voltage depends on how much is on the plate
+> - Our displacement is over added charges, so integrate over $dQ$
+> - [[Capacitance]] is $C = \frac{Q}{V}$ or $V=\frac{Q}{C}$
 
-
-
-$$\begin{array}{c}
-\text{Use Gauss's Law aurugments for two plates} \\ 
-\oint E\cdot dA = \frac{Q_{enc}}{\epsilon_0} \\ 
-\text{Well assume our gaussian surface as some closed square with area A.
-} \\ \text{Well use this same argument for finding the Q} \\ \\
-Q_{enc} = \lambda A \\\\
-
-\text{Where our charge density $\lambda$ is defined through the area. Solving for area we get.} \\\\
-
-\oint E \cdot dA = \ 
-E = \frac{\lambda}{\epsilon_0} \\ 
-
-\end{array}$$
-
->[!bug] Note 
-We will want our Q in terms of the electric field so we will solve for Q_enc as a general solution in terms of the electric field.
-
-$$\begin{array}{c}
-EA = \frac{Q_{enc}}{\epsilon_0} \\ 
-Q_{enc} = EA\epsilon_0 \\ \\
-\text{So then our potential difference from Electric Potential is} \\\\
-\Delta V = -\int E\cdot dS \\ 
-\end{array}$$
-
->[!bug] Note
-Well assume the integral of distance is D and the electric field is uniform. 
-We're going to assume our starting point is from the positive plate to negative plate, but our displacement starts from the negative plate to positive.
-
-So we can our electric difference V as
-$$V = Ed$$
-Then we can come to our definition:
-$$C=\frac{Q}{V}=\frac{EA\epsilon_0}{Ed}=\frac{\epsilon_0A}{d}$$
-## Deriving Energy Stored in Capacitors
->[!warning] Assumption 
-From our result in the last derivation, the [[Electric Potential]] is the amount of work done on the capacitor to charge it
-Note: $V = \frac{Q}{C}$
-
-$$\begin{array}a
-W =\int_a ^ b V\left(q\right)dQ \\ 
-= \int_a ^ b \frac{Q}{C} dQ \\ 
-W = \frac{Q^2}{2C} \\ 
-\text{So in general} \\ 
-U = \frac{Q^2}{2C} = \frac{1}{2}QV 
-
-\end{array}$$
-
-Energy stored in a capacitor is just the solution of work. Another way of saying it is $dW = Vdq$. This is the electric field between the plates.
-
-Electric energy density (in a vacuum) = $u  = \frac{1}{2} \epsilon _0 E^2$ 
-
-## Deriving Capacitors in Series
+$$
+\begin{align*}
+W &= \int_0^Q V(Q) \, dQ \\
+  &= \int_0^Q \frac{Q}{C} \, dQ \\
+  &= \frac{1}{C} \int_0^Q Q \, dQ \\
+  &= \frac{1}{C} \left[ \frac{Q^2}{2} \right]_0^Q \\
+  &= \frac{Q^2}{2C}
+\end{align*}
+$$
+# Deriving Capacitors in Series
 ![[cap_3.png]] [^2]
 >[!note] Explanation
-Capacitor in series have two capacitor sharing the same wire as this.
->
-Adding the voltage gives the change in the voltage from both ends.
+Capacitors in series share the same line of wire
 
->[!warning] Assumption 
-We will assume the charge (Q) is the same in between the two capacitors, so there is no other things in the circuits and the voltage is the same enter/leaving the system 
+Capacitors in series have the same amount of [[Current|current]] flow. Which means the same amount of [[Charge|charges]] are moved away and towards each capacitor. Each capacitor resists a charge buildup differently because of [[Capacitance|capacitance]]. So, each capacitor has its own voltage, and those voltages add up to match the applied voltage.
 
 $$\begin{array}{c} 
 V = V_1 + V_2  + V_3 \\ 
@@ -113,20 +77,17 @@ V = \frac{Q}{C} \\ \text{If we assume the voltage adds up} \\  \text {and our ch
 \frac{1}{C}=\frac{1}{C_1}+\frac{1}{C_2}
 \end{array}$$
 
->[!bug] **Justify Q is the same**
->Because the system is closed, the current applied to the circuits  is that of the capacitors. For the above equation to be true the charge that flows from one capacitor to another must be the same.
-## Deriving Capacitors in Parallel 
+# Deriving Capacitors in Parallel 
 ![[cap_4.png]] [^3]
 >[!note] Explanation
-Example of capacitors in parallel. The voltage in both capacitors are the same.
+Example of capacitors in parallel. The voltage in both capacitors is the same.
 
->[!warning] Assumptions 
->Let Voltage is now the same (Voltage decreases but spilt the same)
-If **voltage** is the **same** then the charge is different we can say some argument for this.
+Capacitors in parallel have the same amount of voltage (they have the same [[Potential Difference|potential difference]] ). Which means each capacitor will have a different amount of charge depending on its [[Capacitance|capacitance]].
+
 
 $$\begin{array}{c}
 V_T = V_1 = V_2 \\ \\
-\text{Because there is nothing else in this circuit the total charge going in must = total out} \\ \\
+\text{Because there is nothing else in this circuit, the total charge going in must = total out} \\ \\
 Q_T = Q_1 +Q_2 \\ 
 Q = CV \\ \\
 C_TV = C_1V + C_2V \\ 
@@ -135,6 +96,8 @@ C_T = C_1 + C_2
 
 # Resources 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ag2RujOHqJ8?si=Qn-WvPODyzKsKBvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BIPi0vXdssE?si=3-A3YbUKAg9FXuW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
@@ -148,3 +111,4 @@ C_T = C_1 + C_2
 [^2]: Diagram adapted from https://tikz.net/electric_circuit_capacitors/ by Izaak Neutelings (February, 2020) 
 
 [^3]: Adapted from https://tikz.net/electric_circuit_capacitors/ by by Izaak Neutelings (February, 2020) 
+

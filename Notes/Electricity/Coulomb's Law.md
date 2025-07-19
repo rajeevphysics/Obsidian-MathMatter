@@ -1,6 +1,6 @@
 
->[!summary]
-Coulombs law describe the electric field produced by a point charge and can explain the interactions of points charges
+> [!summary]
+Coulomb's law describes the electric field produced by a point charge and can explain the interactions of point charges
 >
 **Key equation:**
 >
@@ -8,12 +8,17 @@ Electric field by a point charge:
 $E = \frac{q}{4\pi R^2 \epsilon _0}$
 
 >[!info]+ Read Time
-**⏱ 2 mins**
-# What is Coulomb's Law
-Coulombs law describes the force and interactions of particles. It explains and proves that point charges will produce an electric field and tells you how particles should and will interact with one another. 
+**⏱ 3 mins**
 
-# Deriving Coulombs Law Using Experimental Foundations and Dimensional Analysis 
-Historically and physically coulombs law was derived from experiment, but we can justify the result from experiment using [[Dimensional Analysis|dimensional analysis]] and some reasoning.
+# Definition 
+Coulomb’s Law describes the electrostatic force between two point [[Charge|charges]]. It shows that the force is proportional to the product of the charges. This law also underlies how point charges generate [[Electric Fields|electric fields]] and interact through those fields. Mathematically it is defined below.
+
+$$
+E = \frac{q}{4 \pi \epsilon_0 r^2}
+$$
+
+# Deriving Coulomb's Law Using Experimental Foundations & Dimensional Analysis 
+Historically and physically, Coulomb's law was derived from experiment, but we can justify the result from experiment using [[Dimensional Analysis|dimensional analysis]] and some reasoning.
 
 >[!warning] Assumptions 
 Assume the field from a point charge only depends on:
@@ -21,36 +26,45 @@ Assume the field from a point charge only depends on:
 >- Charge ($q$)
 >- Vacuum permittivity ($\epsilon_0$)
 
-Using dimensional analysis we want our dimensions to be in the form 
+Using the dimensional analysis, we want to get some equation in the form of an electric field.
 $$
-E = \frac{N}{C} = \frac{kg\cdot m}{s^2 \cdot C}
+E = \frac{[F]}{[q]} = \frac{[M][L]}{[T^2] [Q]}
 $$
-The dimensions of $\frac{q}{\epsilon_0}$ are:
+>[!note] 
+$[\epsilon_0] = [Q^2][M]^{-1}[L]^{-3}[T]^{2}$  
+
 $$
 \begin{array}{c}
-[\epsilon_0] = \frac{C^2}{N\cdot m^2} \\ 
-[q] = C \\
-[\frac{q}{\epsilon_0}] = \frac{C}{\epsilon_0} = \frac{C}{C^2\cdot N^{-1} \cdot m^{-2}} = \frac{N\cdot m^2}{C}
+\text{Assume the form of our electric field is in this form} \\
+E =\frac{q}{\epsilon_0 r^n} \\ 
+[E] = \frac{[q]}{[\epsilon_0][] r^n]} \\ 
+\frac{[M][L]}{[T^2] [Q]} = \frac{[Q]}{[Q^2][M]^{-1}[L]^{3}[T]^{2} [L]^n  } \\ 
+\\\frac{[M][L]}{[T^2] [Q]} = \frac{M}{[Q][T]^2 [L]^{3-n}} \\ 
+\\
+\text{All dimensions work upset [L]} \\ 
+1 = 3-n \\ 
+2 = n \\\\ \text{So now the dimensions work out returning to our equation:} \\
+
+E = \frac{q}{\epsilon_0 r^2} 
 \end{array}
 $$
-Now we need to find something in the form  to eliminate that $m^2$ with dimensions L. So we can justify we need a $r^2$ in the bottom for the dimensions to work for the electric field. Thus returning to the statement:
+Note that the actual equation is the following below, but the constants don't have dimensions by dimensional analysis and are found from experimental analysis 
 $$
 E = \frac{q}{4 \pi \epsilon_0 r^2}
 $$
->[!note] Where did the $4\pi$ come from?
-The only to justify have $4\pi$ in this scenario is from experimental proof, since this unit is dimensionless and doesnt effect our dimension proof
 
-# Deriving Coulombs Law from Gauss's Law (Point Charge)
+# Deriving Coulomb's Law from Gauss's Law 
 >[!warning] Assumptions 
-In order to derive the general principle for columbs law well find the electric field produced at any point from a stationary point charge.
+In order to derive the general principle for Coulomb's Law well find the [[Electric Fields|electric field]] produced at any point from a stationary point [[Charge|charge]].
+>
+We will do this using [[Gauss's Law]] and [[Flux]]
 >
 Well assume the following:
 >- There is a point charge
->- Gaussian surface is symmetric 
->- Total area is $4\pi R^2$
->- Normal vector from electric field and dA are in the same direction
->- Equations from [[Gauss's Law]] are true 
->- Equations from [[Flux]] are true 
+>- Gaussian surface is symmetric (assume its a spherical Gaussian surface)
+>- Total area is $4\pi R^2$ (sphere)
+>- Normal vector from electric field and $\vec{dA}$ are in the always same direction
+
 
 ![[gau_3.png|500]]
 [^1]
@@ -70,10 +84,9 @@ E(4\pi R^2) =  \frac{q}{\epsilon_0} \\
 E = \frac{q}{4\pi R^2 \epsilon _0}
 \end{array}$$
 
-
 # Resources
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X_CHPTZfUGo?si=VbfHVYBLbLEiuwj1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X_CHPTZfUGo?si=VbfHVYBLbLEiuwj1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 
 ---

@@ -5,13 +5,15 @@
   "mathlive-in-editor-mode",
   "dataview",
   "editing-toolbar",
-  "table-editor-obsidian",
-  "sheets",
   "obsidian-vault-statistics-plugin",
   "templater-obsidian",
   "obsidian-reading-time",
   "emoji-shortcodes",
   "note-linker-with-previewer",
   "weekly-review",
-  "obsidian-languagetool-plugin"
+  "obsidian-latex-suite",
+  "easy-typing-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-reminder-plugin",
+  "table-editor-obsidian"
 ]
