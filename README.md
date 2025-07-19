@@ -4,7 +4,7 @@
 
 # 📘  Math & Matter
 
-Welcome! This is the pulbic notes vault behind the [Math & Matter Website](https://publish.obsidian.md/mathmatter/), a solo project built to make math a physics topics easier to learn through:
+Welcome! This is the public notes vault behind the [Math & Matter Website](https://publish.obsidian.md/mathmatter/), a solo project built to make math a physics topics easier to learn through:
 
 - Conceptual breakdowns
 - Diagrams (on the site only)
