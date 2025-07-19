@@ -2,18 +2,22 @@ Covers the flow of electricity explained through components
 
 # 🧭  Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page (computer only)
-
-| Topics                           | Descriptions                                               |
-| -------------------------------- | ---------------------------------------------------------- |
-| [[Capacitors]]                   | Store energy by accumulating charge across plates          |
-| [[Current]]                      | Flow of electric charge, measured in amperes               |
-| [[Dielectrics]]                  | Insulators that influence electric field inside capacitors |
-| [[Kirchhoff's Rules]]            | Conservation rules for current and voltage in a circuit    |
-| [[Power in Circuits]]            | How energy is delivered and consumed by components         |
-| [[Resistance & Ohm Law]]         | Relationship between voltage, current, and resistance      |
-| [[Resistivity and Conductivity]] | Material-dependent effects on current flow                 |
+| Topics                         | Descriptions                                                                                                             |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [[Batteries]]                  | Simple explanation of stored energy inside a battery                                                                     |
+| [[Capacitance]]                | Measure of a capacitor’s ability to store charge per unit voltage                                                        |
+| [[Capacitors]]                 | Passive two-terminal components that accumulate and store electric charge on conductive plates separated by a dielectric |
+| [[Circuits]]                   | Closed networks of interconnected components through which electric current flows                                        |
+| [[Current]]                    | Rate of flow of electric charge                                                                                          |
+| [[Current Density]]            | Electric current per unit cross-sectional area                                                                           |
+| [[Junction]]                   | Nodes where three or more circuit elements connect                                                                       |
+| [[Kirchhoff's Laws]]           | Two fundamental rules for circuit analysis:                                                                              |
+| [[Ohm's Law]]                  | Relationship between voltage, current, and resistance                                                                    |
+| [[Potential Difference]]       | Work done per unit charge to move a charge between two points                                                            |
+| [[Power in Circuits]]          | Rate of electrical energy transfer                                                                                       |
+| [[Resistance]]                 | Opposition to current flow in a material                                                                                 |
+| [[Resistivity & Conductivity]] | Intrinsic material properties                                                                                            |
+| [[Resistors]]                  | Discrete components designed to provide specified resistance                                                             |
 
 
 ---

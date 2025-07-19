@@ -2,9 +2,6 @@ Cover nuclear reactions, radioactive decay and their consequences
 
 # 🧭 Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page
-
 | Topics                              | Descriptions                                                   |
 | ----------------------------------- | -------------------------------------------------------------- |
 | [[Liquid Drop & Fermi Gas Model]]   | Interpretation to describe how atoms hold protons and neutrons |

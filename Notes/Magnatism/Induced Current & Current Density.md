@@ -27,7 +27,7 @@ When there is a change in the magnetic field (flux changes), there will be an in
 (Refer to photo above)
 For current in a magnetic field the change in flux is constant, so there is no current. The charges will accumulate at bottom because $F = q(v \times \vec{B}) = downwards$ by right-hand rule ([[Magnetic Force]]) 
 
-There is a also an [[Electric Field]] caused by the difference (positive and negative) **But this does not cause the electron to flow upwards now** Electric field points downwards, which makes the electron want to travel towards the positive charges, exactly cancelling the magnetic force
+There is a also an [[Electric Fields]] caused by the difference (positive and negative) **But this does not cause the electron to flow upwards now** Electric field points downwards, which makes the electron want to travel towards the positive charges, exactly cancelling the magnetic force
 
 ![[Screenshot 2025-06-07 at 7.19.53 PM.png]]
 [^1]

@@ -2,9 +2,6 @@ Introduces core quantum mechanics concepts such as wave functions, uncertainty &
 
 # 🧭 Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page
-
 | Topics                                          | Descriptions                                                                                                                                     |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Blackbody Radiation]]                         | A object that produces all wavelengths                                                                                                           |

@@ -6,7 +6,7 @@ Natural numbers are integers but always postive
 ⏱ **1 min**
 
 # Definition 
-Natural numbers are a subset of [[Logic/Integers.md|integers]]. Natural numbers are numbers that are [[Logic/Integers.md|integers]] but are positive. Mathematically we describe natural numbers as
+Natural numbers are a subset of [[Logic/Integers.md|integers]]. Natural numbers are numbers that are [[Logic/Integers.md|integers]] but are positive. Mathematically, we describe natural numbers as
 $$ 
 \mathbb{N} = 0,1,2\dots
 $$

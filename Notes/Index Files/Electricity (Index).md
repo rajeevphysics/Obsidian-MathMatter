@@ -1,21 +1,28 @@
-Describes the electric charge, fields and potential
+Covers core electrostatics concepts
 #  🧭 Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page
+| Topics                        | Descriptions                                                                              |
+| ----------------------------- | ----------------------------------------------------------------------------------------- |
+| [[Charge]]                    | Fundamental property of matter causing electric interactions                              |
+| [[Charge Density]]            | Distribution of charge per unit volume, area, or length                                   |
+| [[Closed Integral]]           | Integral taken over a closed path or surface                                              |
+| [[Conductors]]                | Materials containing free charges that redistribute to cancel internal electric fields    |
+| [[Conservation of Charge]]    | Principle that the total electric charge in an isolated system remains constant over time |
+| [[Coulomb's Law]]             | Force between two point charges                                                           |
+| [[Dipoles]]                   | Pairs of equal and opposite charges separated by a distance                               |
+| [[Electric Fields]]           | Vector field to describe the electric force per unit charge at each point in space        |
+| [[Electric Force]]            | Force on a charge                                                                         |
+| [[Electric Potential]]        | Scalar field to describe the potential at a point in a space                              |
+| [[Electric Potential Energy]] | Energy stored by a charge in an electric potential                                        |
+| [[Electrons]]                 | Subatomic particles with charge                                                           |
+| [[Equipotential Surfaces]]    | Surfaces where electric potential $V$ is constant                                         |
+| [[Flux]]                      | Measure of field through a surface                                                        |
+| [[Gauss's Law]]               | Relates flux to enclosed charge                                                           |
+| [[Gaussian Surfaces]]         | Imaginary closed surfaces chosen to exploit symmetry when applying Gauss’s Law            |
+| [[Insulators]]                | Materials whose charges are bound and cannot move freely                                  |
+| [[Polarization of Charges]]   | Alignment of bound charges in a dielectric under an external field                        |
+| [[Protons]]                   | Subatomic particles with charge                                                           |
 
-| Topics                        | Descriptions                                                                   |
-| ----------------------------- | ------------------------------------------------------------------------------ |
-| [[Charges]]                   | One of fundemental properties of nature                                        |
-| [[Conductors (Equilibrium)]]  | A type of object that conducts electriticty                                    |
-| [[Dipoles]]                   | Arrangment of two opposite charges                                             |
-| [[Electric Field]]            | The change of the electric potential over time                                 |
-| [[Electric Force]]            | The force charges can exert on objects                                         |
-| [[Electric Potential]]        | The natural position an charge wants to be                                     |
-| [[Electric Potential Energy]] | Amount of energy a charge needs to appear at that position or return to a spot |
-| [[Equipotential Surfraces]]   | Where the electric field is constant in a digram                               |
-| [[Flux]]                      | The amount of something flowing through something                              |
-| [[Gauss's Law]]               | Mathematical interpretation of calculating flux                                |
 
 ---
 

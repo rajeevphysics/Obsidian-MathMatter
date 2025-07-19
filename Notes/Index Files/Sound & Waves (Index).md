@@ -2,9 +2,6 @@ Examines oscillations, wave behaviours and their consequences
 
 # 🧭 Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page
-
 | Topics                     | Description                                             |
 | -------------------------- | ------------------------------------------------------- |
 | [[Doppler Shift]]          | Effects that changes the frequency someone can perceive |

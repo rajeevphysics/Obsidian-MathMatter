@@ -1,5 +1,5 @@
 
-Like [[Electric Field]] the direction of the magnetic field show the direction of the magnetic force (always goes from North - South poles)
+Like [[Electric Fields]] the direction of the magnetic field show the direction of the magnetic force (always goes from North - South poles)
 
 ![[mag_line_1.png]]
 [^1]

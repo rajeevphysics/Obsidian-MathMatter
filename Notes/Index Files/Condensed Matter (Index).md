@@ -1,9 +1,6 @@
 Introduces the physics of solids and materials
 # 🧭 Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page
-
 | Topics                                         | Descriptions                                                   |
 | ---------------------------------------------- | -------------------------------------------------------------- |
 | [[Bose-Eisten Condensate]]                     | An effect noticed on cooper pairs at low temperatures          |

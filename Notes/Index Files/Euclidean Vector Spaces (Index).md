@@ -2,9 +2,6 @@ Explores vector spaces equipped with a dot product, allowing measurement of angl
 
 # 🧭 Index
 
->[!tip]
-You can hover over topics to quickly skin the notes without leaving this page
-
 | Topics                                                 | Descriptions                                                      |
 | ------------------------------------------------------ | ----------------------------------------------------------------- |
 | [[Basis]]                                              | The amount of independent vectors to map a space                  |
