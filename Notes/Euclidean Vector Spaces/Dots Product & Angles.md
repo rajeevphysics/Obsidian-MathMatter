@@ -1,6 +1,6 @@
 
->[!summary]
-Dot product describes the projection of one vector onto another.
+> [!summary]
+A dot product describes the projection of one vector onto another.
 >
 **Key equations:**
 >
@@ -13,7 +13,7 @@ $\vec{a} \cdot \vec{b}  = a_1b_1 + a_2b_2 \dots a_n b_n$
 >[!info]+ Read Time
 **⏱ 3 min**
 # Deriving Dot Products
-Dot product describes how much one vector goes into another vector.
+A dot product describes how much one vector goes into another vector.
 
 >[!warning] Assumptions
 We will assume the Law of Cosines is valid without proving.
