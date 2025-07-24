@@ -35,7 +35,8 @@
     "Z_Templates/auto-resource.md",
     "Z_Templates/auto-definition.md",
     "Z_Templates/auto-summary.md",
-    "Z_Templates/auto-mathproof.md"
+    "Z_Templates/auto-mathproof.md",
+    "Z_Templates/auto-derivation.md"
   ],
   "startup_templates": [
     ""

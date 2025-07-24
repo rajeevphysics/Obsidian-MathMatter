@@ -12,6 +12,7 @@ $p = mv$
 
 >[!info]+ Read Time
 **⏱ 2 mins**
+
 # General Principle
 Linear momentum is a conserved quantity and describes how much force affects motion. It's an [[Intrinsic & Extrinsic Properties|intrinsic]] property. Mathematically, linear momentum is defined as the mass times [[Velocity|velocity]] at a point in time.
 

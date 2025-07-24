@@ -17,6 +17,7 @@ Basic definition of logic and logical statements
 | [[Propositions]]                     | Complete statements that are true or flase                                  |
 | [[Rational Numbers]]                 | Numbers that can be written as fractions                                    |
 | [[Scalar & Vectors]]                 | Mathmatical defintion of descbing object in terms of value and/or direction |
+| [[Tangential & Perpendicular]]       | Explain the components of a vector at a angle                               |
 
 
 ---

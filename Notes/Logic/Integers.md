@@ -17,6 +17,10 @@ Some examples of non-integers are:
 - $1 + 2i$ 
 
 
+# Resources
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2kX5WFXN17M?si=2_tE91aH2sziwvMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ---
 
 > 💡 Found this concept helpful? [Star Math & Matter on GitHub](https://github.com/rajeevphysics/Obsidian-MathMatter) to support more intuitive science breakdowns like this.

@@ -12,20 +12,18 @@ $\vec{a} \cdot \vec{b}  = a_1b_1 + a_2b_2 \dots a_n b_n$
 
 >[!info]+ Read Time
 **⏱ 3 min**
-# Deriving Dot Products
-A dot product describes how much one vector goes into another vector.
-
->[!warning] Assumptions
-We will assume the Law of Cosines is valid without proving.
->
-We will assume our example in $\mathbb{R^2}$ but is valid in $\mathbb{R^n}$
->
-As well assume we can break vectors into components and add or subtract them like in [[Vectors, Vectors Addiction & Vector Multiplication]]
+# Definition
+A dot product describes the behaviour of two vectors. It describes how "much" one vector goes into the other. If they perfectly go into each other, meaning they are in the exact same direction, then the angle is zero. If they are [[Orthogonality|orthogonal]] to one another, the angle is 90 degrees. If this is true, the dot product returns to 0, stating that the vectors are at right angles with each other.
 
 
-Suppose we had two vectors $\vec{p}, \vec{q}$ as described below and we want to know the angles between them.
+## Derivation 
+> [!warning] Assumptions
+To derive a formula to describe how much one vector goes into another, assume the following:
+> - This derivation will derive in $\mathbb{R}^2$ to allow the use of the law of cosine, but is valid for $\mathbb{R}^n$
 
-We dont know the angles nor the vector $\vec{QP}$ that lines the two vectors and creates this type of triangle.
+Suppose we had two vectors $\vec{p}, \vec{q}$ as described below, and we want to know the angles between them.
+
+We don't know the angles or the vector $\vec{QP}$ that lines the two vectors and creates this type of triangle.
 
 From [[Vectors, Vectors Addiction & Vector Multiplication]] we know the following information:
 $$\vec{p} = \begin{bmatrix} p_1 \\ p_2\end{bmatrix},\vec{p} = \begin{bmatrix} q_1 \\ q_2\end{bmatrix}, \vec{QP} = \begin{bmatrix} p_1 - q_1 \\ p_2 - q_2\end{bmatrix} $$
@@ -62,7 +60,11 @@ We will make the definition that $$\vec{p} \cdot \vec{q} = p_1q_1 + p_2q_2$$
 ## Generalization
 In our generalization its important to note that the following equation always hold true for any value of $\mathbb{R^n}$ $$\vec{a} \cdot \vec{b} = ||\vec{a}|| \space ||\vec{b}|| cos(\theta)$$
 But the value for $\vec{a} \cdot \vec{b}$ will change depending on $\mathbb{R^n}$:
-$$\vec{a} \cdot \vec{b}  = a_1b_1 + a_2b_2 \dots a_n b_n$$
+$$\vec{a} \cdot \vec{b}  = a_1b_1 + a_2b_2 +\dots +a_n b_n$$
+
+# Resources
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UhaE72UM8Dc?si=Kva7JhnOTTok_yFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
 

@@ -1,0 +1,23 @@
+.smart-autolinker-dropdown {
+  font-family: var(--font-family);
+  user-select: none;
+  box-sizing: border-box;
+}
+.smart-autolinker-suggestion {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 8px;
+}
+
+.smart-autolinker-icon {
+    opacity: 0.6;
+}
+
+.smart-autolinker-text {
+    flex-grow: 1;
+}
+
+.smart-autolinker-subtext {
+    opacity: 0.75;
+}

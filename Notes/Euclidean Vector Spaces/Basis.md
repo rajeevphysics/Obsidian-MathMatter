@@ -1,24 +1,26 @@
 
 >[!summary]
-A basis is our lowest amount of vectors to builds coordinates in a space and changes the way you view vectors in a space.
+A basis is our lowest number of vectors to build coordinates in a space and changes the way you view vectors in a space.
 >
 **Requirements of a Basis:**
->-  All vectors are linearly independent ([[Linear Independence]])
->- [[Span]] the space (Have enough vectors to map a space) 
+>-  All vectors in a set are linearly independent 
+>- span the space (Have enough vectors to map a space) 
 
 >[!info]+ Read Time
 **⏱ 5 mins**
 
 # What Is a Basis
- A basis is the lens of which you view a space. It's a "recipe book" of the lowest amount of vector to build coordinates in a space. A basis changes the way you view vectors in a space. 
+ A basis is the lens through which you view a space. It's a "recipe book" of the lowest number of vectors to build coordinates in a space. A basis changes the way you view vectors in a space. 
 
 >[!info] Requirements of a Basis
->- All vectors are linearly independent ([[Linear Independence]])
->- [[Span]] the space (Have enough vectors to map a space)
+>- All vectors are [[Linear Independence & Dependence|linearly independent]]
+>- The vectors [[Span|span]] the space (Have enough vectors to map a space)
 
-You can argue these requirements makes sense, in order to create any possible vector in a space like $\mathbb{R^2}$ you would need vectors who are not [[Linear Combinations]] (Since this would fail at mapping any vector)
+These requirements can be argued logically as to why they must be true.
 
-As well spanning the space would, can be argued. In the case of $\mathbb{R^2}$ you would need two vectors to span that space, who are linearly independent (from the first requirement)
+In order to create any possible vector in a space like $\mathbb{R^2}$ you would need vectors who are not [[Linear Combinations|linear combinations]] of other vectors in a set (Since this would fail at mapping any vector)
+
+As well spanning the space, can be argued. In the case of $\mathbb{R^2}$ you would need two vectors to span that space, who are [[Linear Independence & Dependence|linearly independent]] (from the first requirement)
 
 
 >[!example] Basis of $\mathbb{R^2}$ 
@@ -29,17 +31,17 @@ A simple example which doesn't distort our lens of $\mathbb{R^2}$ is something l
 This satisfies both requirements since the span of this vector set would satify $\mathbb{R^2}$ and all vectors are linearly independent
 
 ## Proving a Basis
-The general requirements for proving basis is argued above (not using math), but we can show a proof of this in an example below.
+The general requirements for proving basis is argued above (not using math), but proof of this in can be seen as the example below.
 
 >The example below is adapted from a example in An Introduction To Linear Algebra For Science and Engineering by Norman, D., & Wolczuk, D. The solution is adapted and is my original interpretation of steps.
 
 Suppose we had a set x, and we wanted to prove this was a basis of $\mathbb{R^2}$
 $$C = \left\{ \begin{bmatrix} -1 \\ 2 \end{bmatrix},\begin{bmatrix} 1 \\ 1 \end{bmatrix} 
 \right\}$$
-We know since were proving it to be in $\mathbb{R^2}$ it must be contained only two vectors and vectors who are linearly independent.
+We know since were proving it to be in $\mathbb{R^2}$ it must be contained only two vectors and vectors who are [[Linear Independence & Dependence|linearly independent]].
 
->[!warning] Assumptions for checking span
-We will assume the vector equation from [[Span]] to be true:
+>[!warning] Assumptions for Checking Span
+ Assume the [[Span|vector equation]] to be true:
 >
 $\vec{x} = c_1v_1+  \dots +c_kv_k, \quad ,c_1\dots c_k \in \mathbb{R}$
 >
@@ -74,12 +76,9 @@ c_2 = \frac{1}{3}(2x_1 + x_2) \\ \\
 
 \end{array}$$
 
-
 >[!warning] Assumptions for Linear Independence 
-To check for linear independence, we will assume the general equation from [[Linear Independence]]:
->
-$c_1\vec{v_1} + \dots + c_k \vec{v_k} = \vec{0}$
-Where we will assume the $\vec{0} = \begin{bmatrix} 0 \\ 0 \end{bmatrix}$
+To check for [[Linear Independence & Dependence|linear independence]], assume the independence equation:
+> - $c_1\vec{v_1} + \dots + c_k \vec{v_k} = \vec{0}$
  If the equation is satisfied only when all scalar must be 0 then it is linear independent.
 
 $$\begin{array}{c}
@@ -100,18 +99,17 @@ $$\begin{array}{c}
 \text{Therefore this is linearly independent}
 \end{array}$$
 
-## Finding Coordinates With Respect To a basis
-If we were in the $\mathbb{R^2}$  plane and we were in our "normal" basis for $\mathbb{R^2}$ like the following basis
+## Finding Coordinates With Respect To a Basis
+Imagine being in the $\mathbb{R^2}$  plane where the "normal" basis for $\mathbb{R^2}$ like the following basis
 $$x = \left\{ \begin{bmatrix} 1 \\ 0 \end{bmatrix},\begin{bmatrix} 0 \\ 1 \end{bmatrix} 
 \right\}$$
-and we make a measurement our vector can be described from a vector equation like
-$\vec{x} = c_1v_1+  \dots +c_kv_k, \quad ,c_1\dots c_k \in \mathbb{R}$ from [[Span]]. Our scalars would be some number.
+If there was another basis for $\mathbb{R}^2$, a vector can be created from one basis and "mapped" onto another basis. The vector could be described from the basis as a [[Span|vector equation]]. The scalars would depend on the basis chosen.
 
-When we now map that same vector with respect to another basis those scalar would change in result of a new basis, but the outcome should result in the same vector.
+When a vector from one basis onto another was mapped,  the scalars to create the vector would change. But the vector itself would stay the same.
 
 >The example below is adapted from a example in An Introduction To Linear Algebra For Science and Engineering by Norman, D., & Wolczuk, D. The solution is adapted and is my original interpretation of steps.
 
-From our basis we have a measurement of $\vec{x} = \begin{bmatrix} 4 \\ 1 \end{bmatrix}$ (At the start of this section) and we want to **find the scalars** that map **this vector in respect to a new basis**:
+From our basis ($x = \left\{ \begin{bmatrix} 1 \\ 0 \end{bmatrix},\begin{bmatrix} 0 \\ 1\end{bmatrix} \right\}$) we have a measurement of $\vec{x} = \begin{bmatrix} 4 \\ 1 \end{bmatrix}$ (At the start of this section) and we want to **find the scalars** that map **this vector in respect to a new basis**:
 $$C = \left\{ \begin{bmatrix} -1 \\ 2 \end{bmatrix},\begin{bmatrix} 1 \\ 1 \end{bmatrix} 
 \right\}$$
 

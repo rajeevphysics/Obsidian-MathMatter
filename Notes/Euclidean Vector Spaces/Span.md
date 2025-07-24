@@ -1,8 +1,8 @@
 
 >[!summary]
-Span is the generalization of [[Linear Combinations]] and determines the possible combinations of vectors that can cover a plane
+Span is the generalization of linear combinations and determines the possible combinations of vectors that can cover a plane
 >
-We can reduce span if one of the vectors in a vector equations can be a linear combination of another vector.
+We can reduce the span if one of the vectors in a vector equation can be a linear combination of another vector.
 >
 **Key Equations:**
 >
@@ -24,21 +24,26 @@ Span\{\vec{v_1}, \dots, \vec{v_k}\} = Span\{\vec{v_1},  \dots, \vec{v}_{i-1}, \v
 >[!info]+ Read Time
 **⏱ 4 mins**
 # What is Span 
-Span is the generalization of [[Linear Combinations]] for $\mathbb{R^n}$. It determines how many possible combinations are vectors covers a type of plane. The formal definitions are the following:
->[!warning] Assumptions
-Assume $B =  \{ \vec{v_1} \dots \vec{v_k} \}$ is vectors in $\mathbb{R^n}$ (These are not all type of linear combinations of vectors that are scalar multiples of a vectors, rather just all types of vectors in a plane) 
+Span is the generalization of [[Linear Combinations|linear combinations]] for $\mathbb{R^n}$. It determines how many possible combinations of vectors cover a type of plane. The formal definitions are the following
 
-$$Span \space B =  \{ c_1 v_1 + \dots + c_k v_k \space | c_1 \dots c_k \in \mathbb{R} \} $$
+>[!warning] Assumptions
+Assume $B = \{\vec{v_1}, \dots, \vec{v_k}\}$ which represents all possible vectors are in $\mathbb{R^n}$ in any type of vector equation
+
+$$
+Span \space B =  \{ c_1 v_1 + \dots + c_k v_k \space | c_1 \dots c_k \in \mathbb{R} \} 
+$$
+
 A vector equation from this definition from span can be defined as the following:
 $$\vec{x} = c_1v_1+  \dots +c_kv_k, \quad c_1\dots c_k \in \mathbb{R} $$
 
 # Reducing Span
-When we make a span of descrite vectors, sometimes one or more of those vectors can be scalar multiples of another. 
+When we make a span of discrete vectors, sometimes one or more of those vectors can be scalar multiples of another. 
 
 
->Take for example an example from An Introduction To Linear Algebra For Science and Engineering by Norman, D., & Wolczuk, D. The solution is adapted and is my original interpretation of steps.
+> Take, for example, an example from An Introduction To Linear Algebra For Science and Engineering by Norman, D., & Wolczuk, D. The solution is adapted and is my original interpretation of the steps.
 
-If we have a span of the following below:$$
+If we have a span of the below:
+$$
 \text{Span} \left\{
 \begin{bmatrix}
 3 \\ 1 \\ -3
@@ -52,7 +57,7 @@ If we have a span of the following below:$$
 \right\}
 $$
 
-Notice that by definition our vector equation from span is the following:
+Notice that by definition, our vector equation from span is the following:
 $$\vec{x} = c_1\begin{bmatrix}
 3 \\ 1 \\ -3
 \end{bmatrix} + c_2\begin{bmatrix}
@@ -60,7 +65,7 @@ $$\vec{x} = c_1\begin{bmatrix}
 \end{bmatrix} + c_3\begin{bmatrix}
 3 \\ 0 \\ -2
 \end{bmatrix}, \quad c_1,c_2,c_2 \in \mathbb{R} $$
-Notice that the first two vector equation added together give us the last vector equation, so we can rewrite the vector equation as the following (assume $c_1,c_2,c_2 \in \mathbb{R}$ is always true)
+Notice that the first two vector equations added together give us the last vector equation, so we can rewrite the vector equation as the following (assume $c_1,c_2,c_2 \in \mathbb{R}$ is always true)
 $$\begin{array}{c}
 \begin{bmatrix}
 3 \\ 1 \\ -3
@@ -110,7 +115,7 @@ $$\begin{array}{c}
 This is useful in cases where we don't want scalar multiples of vector equations.
 
 ## Generalization 
-From using the example above notice that our vectors' equation before we simplified it is technically the same of the vector equation after simplifying because one vector was a scalar multiple of the other.
+From the example above, notice that our vectors' equation before we simplified it is technically the same as the vector equation after simplifying, because one vector was a scalar multiple of the other.
 
 >[!warning] Assumption
 Assume $B = \{\vec{v_1}, \dots, \vec{v_k}\}$ which represents all possible vectors are in $\mathbb{R^n}$ in any type of vector equation
