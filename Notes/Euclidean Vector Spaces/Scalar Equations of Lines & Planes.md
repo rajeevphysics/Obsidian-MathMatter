@@ -1,6 +1,6 @@
 
 >[!summary]
-Scalar equations are an equation to verify whether lines are in a plane. We often use this type of equation in validating lines in a plane or creating equations to describe the behaviour of a plane in reference to a point.
+Scalar equations are used to verify whether lines are in a plane. We often use this type of equation in validating lines in a plane or creating equations to describe the behaviour of a plane in reference to a point.
 >
 **Key equations:**
 >
@@ -17,18 +17,18 @@ n_1 b_1 + n_2b_2 + n_2b_3 = d \\
 >[!info]+ Read Time
 **⏱ 4 mins**
 # Defining Scalar Equations
-In [[Vectors Equations of a Line in 2D]] & [[Vectors Equations of a Line in 3D]] we define vector equations to describe the behaviour of vectors.
+In [[Vectors Equations of a Line in 2D|vector equations of a line in 2D]] & [[Vectors Equations of a Line in 3D|3D]] we define vector equations to describe the behaviour of vectors.
 
 Sometimes we just want to know whether a vector would be in a plane, or the behaviour of a vector in a plane.
 
-So well make a definition of a normal vector that is perpendicular to a plane or line. Our solution from this equation is a scalar number rather than a vector from vector equations.
-
 >[!warning] Assumptions
+> To make a definition of a normal vector that is [[Tangential & Perpendicular|perpendicular]] to a plane or line. Our solution from this equation is a [[Scalar & Vectors|scalar]] number rather than a [[Scalar & Vectors|vector]] from vector equations. So assume the following:
+> 
 >- Let $\vec{n} = \begin{bmatrix} n_1 \\ n_2 \\ n_3 \end{bmatrix}$ be our normal vector perpendicular to a plane
 >- Let $\vec{AB}$ be a line in our plane 
->- We will derive this equation using [[Dots Product & Angles]]
+>- This equation will be derived  using [[Dots Product & Angles| dot products]]
+> - Use this image as visual aid
 ![[se_1.png|400]]
-In our definition we are trying to make a definition to describe whether a point is a plane or not returning a scalar 
 
 $$\begin{array}{c}
 \text{Let $\vec{n} = \begin{bmatrix} n_1 \\ n_2 \\ n_3 \end{bmatrix}$}
@@ -51,6 +51,8 @@ If we know our normal vectors to a plane we can determine whether two planes are
 If the dot product between two normal vectors is zero then the each plane is orthogonal to one another. ([[Dots Product & Angles]])
 >
 If one normal vector is a non-zero scalar multiple of another then they are parallel to one another.
+
+# Examples
 
 >The example below is adapted from an example in An Introduction To Linear Algebra For Science and Engineering by Norman, D., & Wolczuk, D. The solution is adapted and is my original interpretation of steps.
 

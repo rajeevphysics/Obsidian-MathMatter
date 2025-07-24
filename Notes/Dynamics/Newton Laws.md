@@ -1,7 +1,6 @@
 
-
 > [!summary]
-Newton's laws are descriptions of forces best described in a perfect vacuum, inertial frames of reference.
+Newton's laws are descriptions of forces best described in a perfect vacuum and in inertial frames of reference.
 
 >[!info]+ Read Time
 **⏱ 1 min**

@@ -1,6 +1,6 @@
 
 > [!summary]
-Impulse momentum theorem relates impulse and momentum
+The Impulse momentum theorem relates impulse and momentum
 > 
 **Key Equation:**
 > 
@@ -17,7 +17,7 @@ The impulse momentum theorem is a theorem that relates [[Impulse|impulse]] and [
 > [!warning] Assumptions
 To relate impulse and momentum, assume the following:
 > - [[Impulse|Impulse]] is defined as $I = \int_{t_{1}}^{t_{2}}F (t) dt$ 
-> - The [[Rate of Change|rate of change]] on [[Linear Momentum|momentum]] can be described by [[Newton Laws|newtons second law]] $F = \frac{dp}{dt}$
+> - The [[Instantaneous|instantaneous change]] on [[Linear Momentum|momentum]] can be described by [[Newton Laws|newtons second law]] $F = \frac{dp}{dt}$
 
 $$
 \begin{array}{c} \\ \\

@@ -13,11 +13,11 @@ $A \to B$
 ⏱ **3 mins**
 
 # Definition
-A conditional statement is a [[Propositions|proposition]] which are most often a statement is in the form "**If** A **than** B" where A and B are propositions. Sometimes we call A the hypothesis and B the conclusion of a conditional statement.[^1] 
+A conditional statement is a [[Propositions|proposition]] which is most often a statement in the form "**If** A **then** B" where A and B are propositions. Sometimes we call A the hypothesis and B the conclusion of a conditional statement.[^1] 
 
-Mathematically we write "If A then B" as $$A \to B$$
+Mathematically, we write "If A then B" as $$A \to B$$
 >[!note] 
-Conditional statements don't always need to be in the form "If A than B". We know if a statement is a conditional statement if it's implied that conclusion follows by a hypothesis
+Conditional statements don't always need to be in the form "If A then B". We know if a statement is a conditional statement if it implied that a conclusion follows from a hypothesis
 >
 **If** a wire carries current, then **it** produces a magnetic field (If A then B) can be written as:
 >- A write produces a magnetic field **whenever** it carries a current
@@ -25,7 +25,7 @@ Conditional statements don't always need to be in the form "If A than B". We kno
 >- The fact that a wire carries current **implies** that it produces a magnetic field
 >- Producing a magnetic field is the **consequence** of a wire carrying wire
 
-As a truth table our conditional statements will look like this:
+As a truth table, our conditional statements will look like this:
 
 | $A$   | $B$   | $A \to B$ |
 | ----- | ----- | --------- |
@@ -35,11 +35,11 @@ As a truth table our conditional statements will look like this:
 | False | False | True      |
 
 >[!bug] When are conditional statements false?
-Conditional statements are only false in one case, when the hypothesis is true, but the conclusion is false
+Conditional statements are only false in one case: when the hypothesis is true, but the conclusion is false
 
-The [[Negation|negation]] of a conditional statement, is not another conditional statement rather it is the proposition $A \land \neg B$. 
+The [[Negation|negation]] of a conditional statement is not another conditional statement; rather, it is the proposition $A \land \neg B$. 
 
-Notice the difference between the negation of this conditional statement and without (above) as a truth table (is it the opposite truth values of $A \to B$)
+Notice the difference between the negation of this conditional statement and without (above) as a truth table (are the opposite truth values of $A \to B$)
 
 | $A$   | $B$   | $A \land \neg B$ |
 | ----- | ----- | ---------------- |

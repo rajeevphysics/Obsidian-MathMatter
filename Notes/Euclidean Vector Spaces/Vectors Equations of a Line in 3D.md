@@ -12,12 +12,12 @@ Equations to describe parallel lines in 3 dimensions to a point P.
 
 >[!info]+ Read Time
 **⏱ 2 mins**
+
 # Vectors in 3D
-Vectors in $\mathbb{R^3}$ are any set of vectors in the form $\begin{bmatrix} x_1 \\ x_2 \\ x_3\end{bmatrix} | x_1, x_2, x_3 \in \mathbb{R}$. A good way of thinking about vectors in $\mathbb{R^3}$ are that they have 3 perpendicular axis, where any point has a vector in all three axes. 
+Vectors in $\mathbb{R^3}$ are any set of vectors in the form $\begin{bmatrix} x_1 \\ x_2 \\ x_3\end{bmatrix} | x_1, x_2, x_3 \in \mathbb{R}$. A good way of thinking about vectors in $\mathbb{R^3}$ are that they have 3 [[Tangential & Perpendicular|perpendicular]] axes, where any point has a vector in all three axes. 
 
-If vectors follow these requirements they follow the same conditions and rules from [[Vectors, Vectors Addiction & Vector Multiplication]] and [[Vectors Equations of a Line in 2D]].
 
-# Vector Planes in 3D
+# Parallel lines in R3
 >[!warning] Assumptions 
 For this description assume the following graph depicts vectors in $\mathbb{R^3}$  in the x,y,z plane, but this is valid for any depiction of $\mathbb{R^3}$
 
@@ -30,8 +30,8 @@ Using the graph above if we wanted to find all possible points to find parallel 
 **Notice how there are two ways a line could be parallel with point P.**
 
 Our new definitions needs to take into account this possibility. 
-
->[!warning] Derivations Assumptions
+## Derivation
+>[!warning]  Assumptions
 If we are looking for parallel lines with point P. This can happen with lines coming from the x and y-axis, but not z axis since these lines would be perpendicular. 
 >
 So we will assume the following:

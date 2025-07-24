@@ -1,36 +1,21 @@
 
->[!summary]
-Linear combinations are when we scale two vectors (who are scalar combinations of each other) by a scalar amount.  We can use linear combinations to find the amount of vectors we can produce in a plane. 
->
-If we had two vectors who are not linear combinations of one another in $\mathbb{R^2}$ then we could find linear combinations of all possible vectors in $\mathbb{R^2}$ 
->
-The generalization of this is in [[Span]].
+
+> [!summary]
+Linear combinations of vectors are a combination of two or more vectors 
+> 
 
 >[!info]+ Read Time
-**⏱ 2 mins**
-# What is Linear Combinations
->[!warning] Assumptions 
-For this we will assume we are working in a $\mathbb{R^2}$ (for simplification) 
-and [[Vectors, Vectors Addiction & Vector Multiplication]] are always valid 
+**⏱ 1 min**
+# Definition
+Linear combinations of [[Scalar & Vectors|vectors]] in linear algebra are when you multiply specific vectors by a scalar amount and [[Vectors, Vectors Addiction & Vector Multiplication|add them together]]. For example, consider the image below with two vectors in the $i$ and $j$ direction. If we added the two vectors together, the result would be a **linear combination** of the two vectors, being ${v=\begin{bmatrix} 1   \\ 1  \end{bmatrix}}$. 
 
-Linear combinations are that combinations we can have when **multiplying specific vectors** by a **scalar multiple**. For example, if we have the two types of vectors with components, $v = i{\begin{bmatrix} 0   \\ 1  \end{bmatrix}} + j{\begin{bmatrix} 1   \\ 0  \end{bmatrix}}$ originally we get the following result of ${\begin{bmatrix} 1   \\ 1  \end{bmatrix}}$. 
 ![[lc_1.png | 400]]
 
-However, we can get many results if we multiply any of these components by a scalar multiple of each vector, such as  $v = 3i{\begin{bmatrix} 0   \\ 1  \end{bmatrix}} + 2j{\begin{bmatrix} 1   \\ 0  \end{bmatrix}}$ we can get a different result.
+However, there are many possible results if we multiply any of these components by a scalar multiple of each vector, such that the linear combinations is as followed  $v = 3i{\begin{bmatrix} 0   \\ 1  \end{bmatrix}} + 2j{\begin{bmatrix} 1   \\ 0  \end{bmatrix}}$, 
 ![[lc_2.png|400]]
 
-If we kept doing more, we could find all combinations of vectors in the $\mathbb{R^2}$ plane. 
-If we plotted all combinations of vectors we found it would look **something like a plane**.
-
->[!note] 
-We can still find all combinations of vectors in the $\mathbb{R^2}$ plane if we chose different vectors originally! 
-
-If we now imagine having the same two original vectors in a $\mathbb{R^3}$. 
-
-Then finding all the combinations of vectors in that plane plotted out we would get a plane which is what we got in a $\mathbb{R^2}$ plane. 
-
-Now because we can only use multiples of the x, y all the combinations we can get are **only** in the x,y plane rather than covering all possible points in $\mathbb{R^3}$ 
-![[lc_3.png]]
+# Resources
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k7RM-ot2NWY?si=1Dr3rTsC1fOddffV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---

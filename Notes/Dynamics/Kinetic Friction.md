@@ -1,5 +1,4 @@
 
-
 > [!summary]
 Kinetic friction is friction created when an object is in motion. 
 > 

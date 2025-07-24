@@ -5,7 +5,7 @@ Vectors in linear algebra are denoted by a scalar point for each available axis.
 >
 **Key equations:**
 >
-**For the following equations we always assumes vectors are in $\mathbb{R^2}$ but is valid for any $\mathbb{R^n}$** 
+**For the following equations, it's assumed that vectors are in $\mathbb{R^2}$ but is valid for any $\mathbb{R^n}$** 
 >
 They are equal if:
 >$$\begin{array}{c}
@@ -29,9 +29,13 @@ As well:
 
 >[!info]+ Read Time
 **⏱ 3 mins**
-# Defining A Set of Vectors
-If we have a graph with two axes ($\mathbb{R}^2$) we donate that point P by the distance across the x-axis and the distance across the y-axis. Such as ($x_1, x_2$) in linear algebra we denote this as  ${\begin{bmatrix} x_1 \\ x_2\end{bmatrix}}$ and we can generalize this for any point P.  ![[Screenshot 2025-06-05 at 9.21.50 PM.png|500]]
 
+# Defining A Set of Vectors
+Given a graph with two axes ($\mathbb{R}^2$) it's common to denote a point P by the distance across the x-axis and distance across the y-axis. For example, a point ($x_{1},x_{2}$) in linear algebra is denoted as ${\begin{bmatrix} x_1 \\ x_2\end{bmatrix}}$. 
+
+![[ve_1.png|500]]
+> [!note] Explanation
+A point $(x_1,x_{2})$ has a displacement in the x-axis by $x_{1}$ and displacement in the y-axis by $x_{2}$
 
 ## Generalization 
 The generalized for a set a vector can work in an $\mathbb{R^n}$ but well generalize this for a function in $\mathbb{R^2}$
@@ -44,9 +48,11 @@ x_2 = y_2
 
 # Proving Vector Addition & Multiplication 
 >[!warning] Assumption
-For this proof were going to use an example in physics, then generalize the solutions including multiplication 
+For this derivation, assume an example in physics, where two forces are multiplied or added together, and then generalize the solutions. 
 
-Suppose we have a graph with two forces $F_1$ and $F_2$. We want to find out each force in $\mathbb{R}^2$ and then add the two forces together. After that multiplying $F_2$ by 2, we get the following results and graph. 
+Suppose two forces $F_1$ and $F_2$. Where $F_{1}=150N$ in the x-axis and $F_{2}=150N$ in the y direction. 
+
+The force when $F_{1}+F_{2}$ is equal to the force in the x-axis and the force in the y-axis. If a force were multiplied, that would be adding a multiplicative scalar amount to a force.
 
 ![[Probjv (1).png]]
 
@@ -56,6 +62,7 @@ F_2 = {\begin{bmatrix} 0 \\ 150 \end{bmatrix}} \\
 F_1 + F_2 = {\begin{bmatrix} 150 \\ 0\end{bmatrix}} + {\begin{bmatrix} 0 \\ 150 \end{bmatrix}}  = {\begin{bmatrix} 150 \\ 150 \end{bmatrix}} \\ 
 2F_1 = {\begin{bmatrix} 300 \\ 0 \end{bmatrix}}
 \end{array}$$
+
 ## Generalization 
 For generalizing addition and multiplication from this example we assume its in $\mathbb{R^2}$ but it works for any value of $\mathbb{R^n}$ 
 

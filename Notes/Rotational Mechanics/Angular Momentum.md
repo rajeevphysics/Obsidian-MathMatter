@@ -9,32 +9,24 @@ An object can be moving linearly but still have angular momentum
 >
 **Key equations:**
 > 
-**In** general, this equation is true:
-$L  = \vec{r} \times p$
+Angular momentum:
+$\vec{L}  = \vec{r} \times \vec{p}$
 >
 Special case where a body is rotating symmetrically:
-$L = I\omega$
+$\vec{L} = I\omega$
 
 >[!info]+ Read Time
 **⏱ 5 mins**
+
 # Definition
-Angular momentum is used to describe how much force an object has when rotating. It's similar to [[Linear Momentum|linear momentum]] in that it **can be** a conversed quantity, but is **not an intrinsic property, nor is it always conserved!** 
+Angular momentum is used to describe how much "hard" it is to give an object rotation. It's similar to [[Linear Momentum|linear momentum]] in that it **can be** a conversed quantity, but is **not an intrinsic property, nor is it always conserved.** It depends on your reference frame.
 
 >[!warning] Angular momentum does not **ALWAYS** mean spinning in a circle
 Although most situations of angular momentum involve an object spinning in a circle. You can also have angular momentum if an object has [[Linear Momentum|linear momentum]] and has a sideways component (not moving straight)
 
-![[ang_1.png]]
-[^1]
->[!note] Explanation
-Example of angular momentum
+Mathematically, angular momentum is the cross product between [[Linear Momentum|linear momentum]] and the r displacement [[Scalar & Vectors|vector]]. The r [[Displacement|displacement]] vector is the reference point, which can be arbitrarily chosen. Meaning certain reference frames will not have angular momentum
 
-Angular momentum determines how much an object has rotational motion and how hard it will be to stop that.
-
-In the definition, it uses [[Linear Momentum|linear momentum]] crossed with the $\vec{r}$ [[Scalar & Vectors|vector]]. 
-
-This is done because the $\vec{r}$ vector will determine the radius an object would rotate around some origin. The origin point can be arbitrary.
-
-$$L  = \vec{r} \times p$$
+$$\vec{L}  = \vec{r} \times \vec{p}$$
 
 ![[ang_4.png]]
 [^2]
@@ -46,7 +38,7 @@ Example of angular momentum
 For this special case, assume the following:
 > -  The object is rotating symmetrically. 
 > - The origin at in the middle of the rotating object
-> - The rotation can be described from [[! Rotational Kinematics|rotational kinematics]] $v = \omega \times r$ 
+> - The rotation can be described from [[Rotational Kinematics|rotational kinematics]] $v = \omega \times r$ 
 
 ![[ang_2.png]]
 [^1]
@@ -103,7 +95,7 @@ hmv = hmv' + I\omega_{cm} \quad (2)\\
 \end{array}$$
 
 >[!warning] Energy Conversation 
-Using [[Conservation of Energy|conversation of energy]] assume the system is made up of pure [[Kinetic Potential Energy & Work-Energy Theorem|kinetic energy]] from linear and angular motion. (Uses [[! Rotational Dynamics|rotational dynamics]] and idea from [[! Rolling Motion With No Slipping|rolling motion]])
+Using [[Conservation of Energy|conversation of energy]] assume the system is made up of pure [[Kinetic Potential Energy & Work-Energy Theorem|kinetic energy]] from linear and angular motion  and idea from [[Rolling Motion With No Slipping|rolling motion]]
 
 $$\begin{array}{c}
 K_i = \frac{1}{2}mv^2 + 0 \\ 

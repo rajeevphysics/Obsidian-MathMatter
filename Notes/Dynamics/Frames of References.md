@@ -10,7 +10,7 @@ Frames of reference in an idea where you choose an object to be "stationary" and
 
 Inertial frames of reference are when you choose an object to be stationary, and objects relative to that object are moving at constant [[Velocity|velocity]]. Here, [[Newton Laws|Newton laws]] hold.
 
-Non-Inertial Frames of reference are when you choose an object to be stationary, and objects relative to that object seem to [[Acceleration|accelerate]] without a force. In this frame of reference, pseudo forces have to be introduced to hold [[Newton Laws|Newton Laws]]
+Non-inertial frames of reference are when you choose an object to be stationary, and objects relative to that object seem to [[Acceleration|accelerate]] without a force. In this frame of reference, pseudo forces have to be introduced to hold [[Newton Laws|Newton Laws]]
 
 
 # Resources
