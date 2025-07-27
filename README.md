@@ -4,7 +4,7 @@
 
 # 📘  Math & Matter
 
-Welcome! This is the public notes vault behind the [Math & Matter Website](https://publish.obsidian.md/mathmatter/), a solo project built to make math a physics topics easier to learn through:
+Welcome! This is the public notes vault behind the [Math & Matter Website](https://mathandmatter.com), a solo project built to make math a physics topics easier to learn through:
 
 - Conceptual breakdowns
 - Diagrams (on the site only)
@@ -12,7 +12,7 @@ Welcome! This is the public notes vault behind the [Math & Matter Website](https
 - Clean formatting
 - Interlinked ideas
 
-📚 View the full interactive site: [The Math & Matter Website](https://publish.obsidian.md/mathmatter/)
+📚 View the full interactive site: [The Math & Matter Website](https://mathandmatter.com)
  
 ## Whats in This Repo
 This repo includes:
