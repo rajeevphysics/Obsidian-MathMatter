@@ -1,0 +1,29 @@
+\documentclass[tikz,border=3pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+
+\begin{document}
+
+\begin{tikzpicture}[scale=1.2, >=Stealth]
+
+  % Axes
+  \draw[->] (-4,0) -- (4,0) node[below right] {$x_1$};
+  \draw[->] (0,-1) -- (0,5) node[above left] {$x_2$};
+
+  % Vector from P to Q
+  \coordinate (T) at (3,0);
+  \coordinate (Q) at (-3,3);
+  \coordinate (R) at (0,3);
+  \coordinate (O) at (0,0);
+
+  \draw[->, thick] (Q) -- (O);
+  \draw[->, thick] (R) -- (T);
+
+  % Labels
+  \filldraw[black] (T) circle (2pt) node[below right] {$T(3,0)$};
+  \filldraw[black] (Q) circle (2pt) node[above left] {$Q(-3,3)$};
+  \filldraw[black] (R) circle (2pt) node[above] {$R(0,3)$};
+  \filldraw[black] (O) circle (2pt) node[below right] {$O(0,0)$};
+\end{tikzpicture}
+
+\end{document}

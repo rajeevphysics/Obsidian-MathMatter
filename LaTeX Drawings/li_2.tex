@@ -1,0 +1,42 @@
+\documentclass[tikz,border=10pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+
+\begin{document}
+\begin{tikzpicture}[scale=1.2, thick, >=Stealth]
+
+  % Axes for first diagram
+  \draw[->, gray] (-2, 0) -- (4, 0) node[right] {$x$};
+  \draw[->, gray] (0, -2) -- (0, 3) node[above] {$y$};
+
+  % CASE 1: Vectors summing to zero (with coefficients)
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,2);    % 2 * (2,1)
+  \coordinate (C) at (5,4);    % + (1,2)
+  \coordinate (D) at (0,0);    % return to origin
+
+  \draw[->, blue] (A) -- (B) node[midway, above] {$2\vec{a}$};
+  \draw[->, red] (B) -- (C) node[midway, right] {$\vec{b}$};
+  \draw[->, green!60!black] (C) -- (D) node[midway, left] {$-3\vec{c}$};
+
+  \node at (1,-1.5) {\textbf{Case 1:} $2\vec{a} + \vec{b} - 3\vec{c} = \vec{0}$};
+
+  % CASE 2: Vectors not summing to zero (unscaled, renamed e, f, g)
+  \begin{scope}[xshift=8cm]
+    \draw[->, gray] (-2, 0) -- (4, 0);
+    \draw[->, gray] (0, -2) -- (0, 3);
+
+    \coordinate (A2) at (0,0);
+    \coordinate (B2) at (2,1);        % e = (2,1)
+    \coordinate (C2) at (4,2);        % f = (2,1)
+    \coordinate (D2) at (5.5,0);      % g = (1.5,-2)
+
+    \draw[->, blue] (A2) -- (B2) node[midway, above] {$\vec{e}$};
+    \draw[->, red] (B2) -- (C2) node[midway, right] {$\vec{f}$};
+    \draw[->, green!60!black] (C2) -- (D2) node[midway, left] {$\vec{g}$};
+
+    \node at (1,-1.5) {\textbf{Case 2:} $\vec{e} + \vec{f} + \vec{g} \ne \vec{0}$};
+  \end{scope}
+
+\end{tikzpicture}
+\end{document}
