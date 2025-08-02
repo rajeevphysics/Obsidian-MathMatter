@@ -7,8 +7,8 @@
 Welcome! This is the public notes vault behind the [Math & Matter Website](https://mathandmatter.com), a solo project built to make math a physics topics easier to learn through:
 
 - Conceptual breakdowns
-- Diagrams (on the site only)
-- LaTeX support (on the site only)
+- Diagrams 
+- LaTeX support 
 - Clean formatting
 - Interlinked ideas
 
