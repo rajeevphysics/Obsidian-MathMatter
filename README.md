@@ -34,7 +34,7 @@ If you want to use this vault:
 ## 💡 Why This Vault Exists
 I built this to help study and teach physics/math concepts, with strucutre and clarity.
 
-This verison is public so others can view the progress of this project. When this poject is completed, this github will be open for others to use without copyright. 
+This verison is public so others can view the progress of this project. 
 
 ## ☕ Support or Contribute
 If you found this repo or site helpful:
