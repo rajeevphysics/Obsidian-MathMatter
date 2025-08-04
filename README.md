@@ -4,22 +4,23 @@
 
 # 📘  Math & Matter
 
-Welcome! This is the public notes vault behind the [Math & Matter Website](https://publish.obsidian.md/mathmatter/), a solo project built to make math a physics topics easier to learn through:
+Welcome! This is the public notes vault behind the [Math & Matter Website](https://mathandmatter.com), a solo project built to make math a physics topics easier to learn through:
 
 - Conceptual breakdowns
-- Diagrams (on the site only)
-- LaTeX support (on the site only)
+- Diagrams 
+- LaTeX support 
 - Clean formatting
 - Interlinked ideas
 
-📚 View the full interactive site: [The Math & Matter Website](https://publish.obsidian.md/mathmatter/)
+📚 View the full interactive site: [The Math & Matter Website](https://mathandmatter.com)
  
 ## Whats in This Repo
 This repo includes:
 - All my Markdown Notes
+- Latex images & Drawings
 - My Plugins & Configs
 - Folder Stucture
-> 🚫 Note: Diagrams, drawings, and advanced LaTeX visuals or code behind the live website are not included.
+> 🚫 Note: Dirgrams, drawings and latex visuals/code are updated less often. Code behind the live website are not included.
 > To experience the full visuals and layout, use the website.
 
 

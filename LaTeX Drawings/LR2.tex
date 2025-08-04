@@ -1,0 +1,28 @@
+\documentclass[tikz,border=3pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+
+\begin{document}
+
+\begin{tikzpicture}[scale=1.2, >=Stealth]
+
+  % Axes
+  \draw[->] (-1,0) -- (6,0) node[below right] {$x_1$};
+  \draw[->] (0,-1) -- (0,5) node[above left] {$x_2$};
+
+  % Vector from P to Q
+  \coordinate (P) at (4,1);
+  \coordinate (Q) at (1,4);
+  \coordinate (O) at (0,0);
+  
+  \draw[->, thick] (P) -- (Q);
+  \draw[->, dotted] (O) -- (Q) node [midway, right] {$\vec{q}$};
+  \draw[->, dotted] (O) -- (P) node [midway, above] {$\vec{p}$};
+
+  % Labels
+  \filldraw[black] (P) circle (2pt) node[below right] {$P$};
+  \filldraw[black] (Q) circle (2pt) node[above left] {$Q$};
+  \filldraw[black] (O) circle (2pt) node[below right] {$O$};
+\end{tikzpicture}
+
+\end{document}
