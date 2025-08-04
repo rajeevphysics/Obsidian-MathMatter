@@ -15,6 +15,7 @@ Current density is the amount of [[Current|current]] per unit area. Sometimes, i
 
 $$\vec{J}=\frac{I}{A}=\frac{qnv_{d}A}{A}=qnv_{d}$$
 
-![[cur_4.png]] [^2]
+![[cd_1.png]]
+ [^2]
 
 
