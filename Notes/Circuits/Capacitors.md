@@ -2,7 +2,7 @@
 > [!summary]
 A capacitor is two conducting plates separated by a distance. The distance between two plates can be covered by air or dielectrics. Each plate will have equal charges.
 > 
-A charged capacitor is when a capacitor is placed in a closed circuit with current. Each plate will have the same magnitude but opposite charges. In distance between each plate will generate an electric field.
+A charged capacitor is a capacitor that is placed in a closed circuit with current. Each plate will have the same magnitude but opposite charges. In distance between each plate will generate an electric field.
 > 
 Capacitors in parallel have the same voltage, while capacitors in series have the same current.
 > 
@@ -22,20 +22,20 @@ $\frac{1}{C}=\frac{1}{C_1}+\frac{1}{C_2}$
 **⏱ 4 mins**
 
 # Definition 
-A capacitor is two [[Conductors|conducting]] plates separated by air or a [[! Dielectrics|dielectric]]. In a charged capacitor, the plates hold equal and opposite charges.
+A capacitor is two [[Conductors|conducting]] plates separated by air or a [[! Dielectrics|dielectric]]. In a charged capacitor, the plates hold equal and opposite [[Charge|charges]].
 
-This only occurs when a capacitor is placed in a closed circuit, where [[Current|current]] is moving. Whereas if a capacitor is in a circuit where current isn't moving, both plates will have equal magnitude and equal charges.
+This only occurs when a capacitor is placed in a [[Circuits|circuit]], where [[Current|current]] is moving. Whereas if a capacitor is in a [[Circuits|circuit]] where current isn't moving, both plates will have equal magnitude and equal charges.
 
-![[cap_1.png]]
-[^1]
-
-> [!warning] How is a Capacitor Charged
+> [!warning]- How is a Capacitor Charged
 Refer to the figure below.
 > 
 A capacitor becomes a charged capacitor when it's placed in a circuit with current. When the current is started, the negative part of the battery will attract positive charges from the bottom plate. Where the opposite happens at the top plate. This effect creates a difference in both plates.
 > 
 ![[cap_5.png|400]]
 
+
+![[cap_1.png]]
+[^1]
 
 > [!note]
 A charged capacitor will create an electric field between the plates. This is due to the charge difference in the plates.
@@ -62,8 +62,8 @@ W &= \int_0^Q V(Q) \, dQ \\
 \end{align*}
 $$
 # Deriving Capacitors in Series
+> [!note]+ Capacitors in Series Diagram 
 ![[cap_3.png]] [^2]
->[!note] Explanation
 Capacitors in series share the same line of wire
 
 Capacitors in series have the same amount of [[Current|current]] flow. Which means the same amount of [[Charge|charges]] are moved away and towards each capacitor. Each capacitor resists a charge buildup differently because of [[Capacitance|capacitance]]. So, each capacitor has its own voltage, and those voltages add up to match the applied voltage.
@@ -78,11 +78,10 @@ V = \frac{Q}{C} \\ \text{If we assume the voltage adds up} \\  \text {and our ch
 \end{array}$$
 
 # Deriving Capacitors in Parallel 
+> [!note]+ Capacitors in Parallel Diagram 
 ![[cap_4.png]] [^3]
->[!note] Explanation
 Example of capacitors in parallel. The voltage in both capacitors is the same.
-
-Capacitors in parallel have the same amount of voltage (they have the same [[Potential Difference|potential difference]] ). Which means each capacitor will have a different amount of charge depending on its [[Capacitance|capacitance]].
+Capacitors in parallel have the same amount of voltage (they have the same [[Potential Difference|potential difference]] ). Which means each capacitor will have a different amount of [[Charge|charge]] depending on its [[Capacitance|capacitance]].
 
 
 $$\begin{array}{c}

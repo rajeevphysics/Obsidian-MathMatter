@@ -12,10 +12,12 @@ We know a circuit is closed if the [[Electrons|electrons]] from the power source
 
 The type of circuits used most commonly is the ideal type of circuit. This assumes that the wires, unless stated, have no [[Resistance|resistance]].
 
-![[cir_1.png|500]]
-[^1]
-> [!note] Explanation
-Example of an ideal circuit with a wire. Notice that the only resistance is from the resistor.
+> [!note]+ Simple Circuit Diagram
+> ![[cir_1.png|500]]
+> [^1]
+> Example of an ideal circuit with a wire. Notice that the only resistance is from the resistor
+
+
 
 # Resources
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AMXWm_bnsTE?si=d7Ganc0sru5UcS5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

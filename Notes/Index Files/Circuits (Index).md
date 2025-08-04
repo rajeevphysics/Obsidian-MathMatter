@@ -1,4 +1,4 @@
-Covers the flow of electricity explained through components
+Covers the flow of electricity, explained through components
 
 # 🧭  Index
 

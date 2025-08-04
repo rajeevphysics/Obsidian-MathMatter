@@ -20,9 +20,9 @@ Kirchhoff's laws are two principles that rely on the [[Conservation of Charge|co
 ## Current Law
 The current law relies on the [[Conservation of Charge|conservation of charges]] in a circuit. Imagine a [[Junction|junction]] where multiple wires meet. If 2 [[Amps|amps]] (A) of current flow into a [[Junction|junction]], and 1 A flows out of one of the paths. Then the leftover 1 A must flow through the third path. Otherwise, it would violate the [[Conservation of Charge|conservation of charge]].
 
+> [!note]+ Junction Diagram
 ![[ki_1.png|350]]
 [^1]
->[!note] Explanation
 Example of junction rule, where current spilts (or can add up in reverse of this image)
 
 Mathematically, the total current in must equal our total current out of a junction.
@@ -43,8 +43,7 @@ Mathematically this is saying any closed loop total [[Potential Difference|volta
 $$
 \sum V = 0
 $$
-
-![[Pasted image 20250531185931.png]]
+[!note] Voltage Rule Diagram
 >[!note] Explanation
 General rule for loop rules
 
