@@ -1,5 +1,5 @@
-
-
+> ⚠️ This project is still in early development.
+> Contributions are welcome later — but the structure may still change often.
 
 
 # 📘  Math & Matter
