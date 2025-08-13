@@ -18,7 +18,7 @@ Welcome! This is the public notes vault behind the [Math & Matter Website](https
 This repo includes:
 - Latex images & Drawings
 - My Plugins & Configs
-> 🚫 Note: The acutal notes and file strucute are closed sourced. 
+> 🚫 Note: The acutal notes and file structure are closed sourced. 
 
 
 ## 💻 For Obsidian Users
