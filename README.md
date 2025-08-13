@@ -16,12 +16,9 @@ Welcome! This is the public notes vault behind the [Math & Matter Website](https
  
 ## Whats in This Repo
 This repo includes:
-- All my Markdown Notes
 - Latex images & Drawings
 - My Plugins & Configs
-- Folder Stucture
-> 🚫 Note: Dirgrams, drawings and latex visuals/code are updated less often. Code behind the live website are not included.
-> To experience the full visuals and layout, use the website.
+> 🚫 Note: The acutal notes and file structure are closed sourced. 
 
 
 ## 💻 For Obsidian Users
