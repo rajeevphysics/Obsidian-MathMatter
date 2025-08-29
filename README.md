@@ -1,5 +1,6 @@
 > ⚠️ This project is still in early development.
 > Contributions are welcome later — but the structure may still change often.
+> Latex images, files from the website & folder structure will be added to the github in the future. Star the repo to stay up to date.
 
 
 # 📘  Math & Matter
