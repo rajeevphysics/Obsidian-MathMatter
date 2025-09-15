@@ -1,4 +1,3 @@
-# Pull Request
 
 ## Summary
 What does this PR add, change, or fix?
