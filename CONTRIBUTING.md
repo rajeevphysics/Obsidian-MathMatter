@@ -42,10 +42,11 @@ Example:
 
 ---
 
-## 4. Expanding on Concepts
+## 4. Expanding on Concepts (Finding Work)
 
 - Concepts under Mathematics Concepts / Physics Concepts likely need changes the specifics are labelled in the Issue Tab
 - Update the concept using Markdown & Latex (In Obsdidian)
+
 
 ## 5. Commits
 
