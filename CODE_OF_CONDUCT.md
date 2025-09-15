@@ -126,3 +126,11 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+
+# Attribution Requirement
+   If you use these notes in your own projects, courses, or public repositories:
+   - Please credit this Math & Matter as the original source.  
+   - Include a link back here or to main Website  
+   - Add my [Buy Me a Coffee link](https://www.buymeacoffee.com/yourname) somewhere visable
+
