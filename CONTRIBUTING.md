@@ -6,13 +6,14 @@ Thanks for wanting to contribute! This project is meant to be a shared learning 
 
 ## 1. Getting Started
 
-1. **Fork the repo** → make your own copy under your GitHub account.  
-2. **Clone it locally** → open it as an Obsidian vault.  
-3. **Set up the structure:**
-   - Put the `.obsidian` folder from this repo into your vault’s `.obsidian`. (Optional, has shortcuts and plugins)
+1. **Fork the repo** → make your own copy under your GitHub account.
+2. **Create A Obsdidian Vault (If Applicable)** → Create an [Obsdidian](https://obsidian.md/) vault for this Project
+3. **Clone it locally** → open it as an Obsidian vault.  
+4. **Set up the structure:**
+   - Put the `.obsidian` folder from this repo into your vault’s `.obsidian`. (**Optional**, has shortcuts and plugins)
      - On macOS, reveal hidden folders with `Cmd + Shift + .`  
-   - Copy the `Z_template/` folder into your local vault (Required)
-     This folder contains the note-writing template and a README file on tips to write concepts, and general templates
+   - Copy the `Z_template/` folder into your local vault (**Required**)
+     - This folder contains the note-writing template and a README file on tips to write concepts, and general templates
 
 ---
 
@@ -69,7 +70,7 @@ Use clear, consistent commit messages:
 
 ## 7. Code Style
 
-- Notes are written in **Markdown**.  
+- Notes are written in **Markdown**, refer to [README in Template](https://github.com/rajeevphysics/Obsidian-MathMatter/tree/contrib/Templates/Z_Templates) for how to write
 - Equations should use standard **LaTeX math mode** (`$...$` for inline, `$$...$$` for block).  
 - Keep headings consistent:  
   - `# Concept Name`  
