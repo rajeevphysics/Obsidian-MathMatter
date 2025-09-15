@@ -79,6 +79,13 @@ Use clear, consistent commit messages:
 
 ---
 
+## 8.Ethical Use of AI
+Please read the [AI_GUIDELINES](https://github.com/rajeevphysics/Obsidian-MathMatter/blob/contrib/AI_GUIDELINES.md) for how to use AI with this project
+In short:
+- AI **can be used** to help draft explainations, write LaTeX blocks, code or double check math equations 
+   - Using AI in this way should be **DOUBLE CHECKED** for accuracy 
+- AI **should not be used** to write full explanations, bypass closed sources such as textbook, articles or blogs
+
 ## 8. Code of Conduct
 
 Please read the [Code of Conduct](CODE_OF_CONDUCT.md).  
