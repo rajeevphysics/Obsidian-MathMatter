@@ -15,7 +15,7 @@ Thanks for wanting to contribute! This project is meant to be a shared learning 
    - Copy the `Z_template/` folder into your local vault (**Required**)
      - This folder contains the note-writing template and a README file on tips to write concepts, and general templates
 5. **Set up Strucuture for Updating Exisiting Concepts**
-   - Put the `Mathematics Concepts` & `Physics Concepts` folder into your local vault 
+   - Put the `Mathematics Concepts` & `Physics Concepts` folder into your local Obsidian vault 
 ---
 
 ## 2. Branch Naming
