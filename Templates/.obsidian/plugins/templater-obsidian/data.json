@@ -1,0 +1,47 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Z_Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Z_Templates/auto-link-alias.md",
+    "Z_Templates/auto-time.md",
+    "Z_Templates/auto-resource.md",
+    "Z_Templates/auto-definition.md",
+    "Z_Templates/auto-summary.md",
+    "Z_Templates/auto-mathproof.md",
+    "Z_Templates/auto-derivation.md",
+    "Z_Templates/auto-examples.md",
+    "Z_Templates/auto-ignore.md",
+    "Z_Templates/auto-mailing.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
