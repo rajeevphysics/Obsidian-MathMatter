@@ -5,7 +5,7 @@ Thanks for wanting to contribute! This project is meant to be a shared learning 
 ---
 
 ## 1. Getting Started
-
+s
 1. **Fork the repo** → make your own copy under your GitHub account.
 2. **Create A Obsdidian Vault (If Applicable)** → Create an [Obsdidian](https://obsidian.md/) vault for this Project
 3. **Clone it locally** → open it as an Obsidian vault.  
@@ -62,7 +62,8 @@ Use clear, consistent commit messages:
 
 - Always submit changes through a Pull Request (PR)
 - Adding new notes should be in their respective folder (Physics concepts in Physics Concept Folder) make a new folder if needed
-- In the PR description, explain:
+- PR request should be from **your** `branch` to **this** `main` 
+- In the PR description, explain (template should be provided):
   - What concept(s) you added or updated  
   - Why the change helps the vault  
 - Small, focused PRs are better than huge ones.
