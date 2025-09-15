@@ -2,8 +2,8 @@
 name: Note request
 about: Suggest an note idea for this project
 title: "[Note Request]"
-labels: Note Request
-assignees: rajeevphysics
+labels: ''
+assignees: ''
 
 ---
 
