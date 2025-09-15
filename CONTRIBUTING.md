@@ -47,7 +47,7 @@ Example:
 - Concepts under Mathematics Concepts / Physics Concepts likely need changes the specifics are labelled in the [Issue Tab](https://github.com/rajeevphysics/Obsidian-MathMatter/issues)
 - Comment under a issue to claim the issue (look for tags like `help wanted`)
 - Issues with tags `in-progress` are already claimed 
-- Update the concept using Markdown & Latex (In Obsdidian)
+- Update the concept using Markdown & Latex (In Obsidian)
 
 
 ## 5. Commits
