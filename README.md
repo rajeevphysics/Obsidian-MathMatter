@@ -1,7 +1,7 @@
 
 # 📘  Math & Matter
 
-Welcome! This is the **contruibuting repo** behind the [Math & Matter Website](https://mathandmatter.com), project built to make math a physics topics easier to learn through:
+Welcome! This is the **contruibuting repo** behind the [Math & Matter Website](https://mathandmatter.com), a project built to make math a physics topics easier to learn through:
 
 - Conceptual breakdowns
 - Diagrams 
