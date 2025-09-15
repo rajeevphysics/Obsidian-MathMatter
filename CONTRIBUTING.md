@@ -79,20 +79,45 @@ Use clear, consistent commit messages:
 
 ---
 
-## 8.Ethical Use of AI
+## 8. Ethical Use of AI
 Please read the [AI_GUIDELINES](https://github.com/rajeevphysics/Obsidian-MathMatter/blob/contrib/AI_GUIDELINES.md) for how to use AI with this project
 In short:
 - AI **can be used** to help draft explainations, write LaTeX blocks, code or double check math equations 
    - Using AI in this way should be **DOUBLE CHECKED** for accuracy 
 - AI **should not be used** to write full explanations, bypass closed sources such as textbook, articles or blogs
 
-## 8. Code of Conduct
+## 9. Ethical Attrubtions 
+To keep this project accurate and legally safe:
+
+1. **Definitions and Examples**
+   - If you take a **definition** directly from a textbook, paper, or online source, you must reference it.  
+   - If you use an **example** or problem statement from another source, you must also reference it.
+
+2. **How to Reference**
+   - Use a Markdown footnote or inline link at the end of the sentence.  
+   - Example with footnote:  
+     > A vector space is a set of elements with two operations, addition and scalar multiplication, satisfying certain axioms.[^1]  
+     > [^1]: Axler, *Linear Algebra Done Right*, 3rd ed., Springer, 2015.
+   - To create footnotes refer to [Obsidian Help Page](https://help.obsidian.md/syntax#Footnotes)
+
+3. **Licensing Rules**
+   - Only use sources that **allow reuse** under their license:
+     - Open Educational Resources (OER) with a Creative Commons license  
+     - Public domain works  
+     - Materials you created yourself  
+   - Do **not** copy from textbooks or websites that prohibit reuse (most commercial textbooks). Instead, **paraphrase in your own words** and then reference.
+
+4. **When in Doubt**
+   - If you’re unsure whether you can reuse a definition or example, **paraphrase** it in your own words and link to the source instead of copying.
+   - Always err on the side of giving credit.
+
+## 10. Code of Conduct
 
 Please read the [Code of Conduct](CODE_OF_CONDUCT.md).  
 In short:
 - Be respectful in discussions and contributions.  
-- If you use these notes in your own projects, please **credit this repo** and include my [Buy Me a Coffee link](https://buymeacoffee.com/rajeevproject).  
-- Don’t copy without attribution.  
+- If you use these notes in your own projects, please **credit this project** and include my [Buy Me a Coffee link](https://buymeacoffee.com/rajeevproject) and link to the [main website](mathandmatter.com) 
+- Don’t copy without attribution. 
 
 ---
 
