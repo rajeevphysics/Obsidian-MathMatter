@@ -5,7 +5,7 @@ Thanks for wanting to contribute! This project is meant to be a shared learning 
 ---
 
 ## 1. Getting Started
-s
+
 1. **Fork the repo** → make your own copy under your GitHub account.
 2. **Create A Obsdidian Vault (If Applicable)** → Create an [Obsdidian](https://obsidian.md/) vault for this Project
 3. **Clone it locally** → open it as an Obsidian vault.  
