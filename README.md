@@ -1,11 +1,7 @@
-> ⚠️ This project is still in early development.
-> Contributions are welcome later — but the structure may still change often.
-> Latex images, files from the website & folder structure will be added to the github in the future. Star the repo to stay up to date.
-
 
 # 📘  Math & Matter
 
-Welcome! This is the public notes vault behind the [Math & Matter Website](https://mathandmatter.com), a solo project built to make math a physics topics easier to learn through:
+Welcome! This is the contruibuting repo behind the [Math & Matter Website](https://mathandmatter.com), project built to make math a physics topics easier to learn through:
 
 - Conceptual breakdowns
 - Diagrams 
@@ -16,23 +12,8 @@ Welcome! This is the public notes vault behind the [Math & Matter Website](https
 📚 View the full interactive site: [The Math & Matter Website](https://mathandmatter.com)
  
 ## Whats in This Repo
-This repo includes:
-- Latex images & Drawings
-- My Plugins & Configs
-> 🚫 Note: The acutal notes and file structure are closed sourced. 
-
-
-## 💻 For Obsidian Users
-If you want to use this vault:
-
-- Clone or download the repo
-- Open it as a vault in Obsidian
-- (Optional) Enable plugins & layout via .obsidian/ folder
-
-## 💡 Why This Vault Exists
-I built this to help study and teach physics/math concepts, with strucutre and clarity.
-
-This verison is public so others can view the progress of this project. 
+This repo is mostly meant for updating & creating new concept notes for the main website 
+> 🚫 Note: For learning purposes use the website. 
 
 ## ☕ Support or Contribute
 If you found this repo or site helpful:
