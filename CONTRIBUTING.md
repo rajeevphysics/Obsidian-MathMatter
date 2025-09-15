@@ -91,11 +91,11 @@ Use clear, consistent commit messages:
 ---
 
 ## 9. Ethical Use of AI
-Please read the [AI_GUIDELINES](https://github.com/rajeevphysics/Obsidian-MathMatter/blob/contrib/AI_GUIDELINES.md) for how to use AI with this project
-In short:
-- AI **can be used** to help draft explainations, write LaTeX blocks, code or double check math equations 
+Please read the [AI_GUIDELINES](https://github.com/rajeevphysics/Obsidian-MathMatter/blob/contrib/AI_GUIDELINES.md) for how to use AI with this project.
+- In short:
+   - AI **can be used** to help draft explainations, write LaTeX blocks, code or double check math equations 
    - Using AI in this way should be **DOUBLE CHECKED** for accuracy 
-- AI **should not be used** to write full explanations, bypass closed sources such as textbook, articles or blogs
+   - AI **should not be used** to write full explanations, or bypass closed sources such as textbook, articles and blogs
 
 ## 10. Ethical Attrubtions 
 To keep this project accurate and legally safe:
@@ -125,10 +125,10 @@ To keep this project accurate and legally safe:
 ## 11. Code of Conduct
 
 Please read the [Code of Conduct](CODE_OF_CONDUCT.md).  
-In short:
-- Be respectful in discussions and contributions.  
-- If you use these notes in your own projects, please **credit this project** and include my [Buy Me a Coffee link](https://buymeacoffee.com/rajeevproject) and link to the [main website](mathandmatter.com) 
-- Don’t copy without attribution. 
+- In short:
+   - Be respectful in discussions and contributions.  
+   - If you use these notes in your own projects, please **credit this project** and include my [Buy Me a Coffee link](https://buymeacoffee.com/rajeevproject) and link to the [main website](mathandmatter.com) 
+   - Don’t copy without attribution. 
 
 ---
 
