@@ -1,0 +1,400 @@
+{
+  "EMPTY_CONTENT_HEADING": true,
+  "INCOMPLETE_SYNTAX": true,
+  "ignoreFoldersString": "Z_Templates\n",
+  "incompleteFiles": [
+    {
+      "hash": "cdd6ad4d0dfd3ac895dfe7fbc85f1f279918870b16c24091bf513e6feb2e6d79",
+      "path": "Physics/Mechanics/▶ Learn Physics 1.md",
+      "basename": "▶ Learn Physics 1",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Closed Systems|Closed Systems]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Closed Systems|Closed Systems]]"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-22T16:17:43.102Z"
+    },
+    {
+      "hash": "96edc9d50f0bde83612bb87faa827601d2479afd1f8d089370e0c259e6d0f44e",
+      "path": "Mathematics/Calculus 1/Curve Sketching/▹ Curve Sketching.md",
+      "basename": "▹ Curve Sketching",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Asymptotes]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Asymptotes]]"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Critical Points]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Critical Points]]"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[First-Derivative Test]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[First-Derivative Test]]"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Horizontal Asymptotes]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Horizontal Asymptotes]]"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Intervals of Increase & Decrease]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Intervals of Increase & Decrease]]"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Local Maximum & Minimum]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Local Maximum & Minimum]]"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Vertical Asymtopes]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Vertical Asymtopes]]"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-21T18:23:29.177Z"
+    },
+    {
+      "hash": "fee52fe06c0e7a040416b44b2a78d3791af5de5fe2bfc76c72b8bfbf19a1de40",
+      "path": "Trigonometric Functions/Arc Cos Function.md",
+      "basename": "Arc Cos Function",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT",
+          "title": "Empty content"
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-14T03:33:16.071Z"
+    },
+    {
+      "hash": "24bcf4683debf053986ea28ef3d64dcf82aabea79ffe9b635369bd3194178135",
+      "path": "Trigonometric Functions/Arc Tan Function.md",
+      "basename": "Arc Tan Function",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H1 Definition is empty",
+          "heading": {
+            "depth": 1,
+            "text": "Definition"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-20T22:55:55.234Z"
+    },
+    {
+      "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "path": "Mathematics/Calculus 2/Power Series/Derivatives & Integration of Power Series.md",
+      "basename": "Derivatives & Integration of Power Series",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT",
+          "title": "Empty content"
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-20T20:40:57.083Z"
+    },
+    {
+      "hash": "66caa82d4de5fbf26878ae193bbca5813eee7e74083db359e4b6460c9ac01b34",
+      "path": "Mathematics/Exponential/Exponential Properties.md",
+      "basename": "Exponential Properties",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H4 Proof is empty",
+          "heading": {
+            "depth": 4,
+            "text": "Proof"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H3 Power of Product is empty",
+          "heading": {
+            "depth": 3,
+            "text": "Power of Product"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H3 Zero Product is empty",
+          "heading": {
+            "depth": 3,
+            "text": "Zero Product"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H3 Negative Exponent is empty",
+          "heading": {
+            "depth": 3,
+            "text": "Negative Exponent"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-21T18:45:09.367Z"
+    },
+    {
+      "hash": "863dd95ddcc7fd577698e339768dd5f6d1ce6d689a2e5f5bcc9bf2b1df563eee",
+      "path": "Mathematics/Linear Algebra 1/Inverting Matrices/Finding Inverse of a Matrix by Gauss-Jordan Elimination.md",
+      "basename": "Finding Inverse of a Matrix by Gauss-Jordan Elimination",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 Proof is empty",
+          "heading": {
+            "depth": 2,
+            "text": "Proof"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-18T21:43:21.963Z"
+    },
+    {
+      "hash": "579ea339a2e6f949eb85049864af5b34553e42b3fda91b801e88a32381e21f46",
+      "path": "Mathematics/Logarithms/Logarithm Properties.md",
+      "basename": "Logarithm Properties",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 Root Rule is empty",
+          "heading": {
+            "depth": 2,
+            "text": "Root Rule"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 Change of Base is empty",
+          "heading": {
+            "depth": 2,
+            "text": "Change of Base"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-21T18:46:53.982Z"
+    },
+    {
+      "hash": "e705c285a017fc92d44e77e77cc36b6f5a1145c17a4086d68718dda5ef12ce13",
+      "path": "Mathematics/Calculus 2/Power Series/Power Series.md",
+      "basename": "Power Series",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H1 Definition is empty",
+          "heading": {
+            "depth": 1,
+            "text": "Definition"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-22T19:22:19.581Z"
+    },
+    {
+      "hash": "9fa1a0cad6615be0266f976d41d110b41a479e60c0a91453dedb7214211037fa",
+      "path": "Mathematics/Calculus 2/Power Series/Power Series from Geometric Series.md",
+      "basename": "Power Series from Geometric Series",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT",
+          "title": "Empty content"
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-20T20:41:08.212Z"
+    },
+    {
+      "hash": "f57b11da5653bd0e07b8d4c7507511cb212c3fad4d115fbd084169f956425131",
+      "path": "Home.md",
+      "basename": "Home",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Coming Soon...]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Coming Soon...]]"
+          }
+        },
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 [[Coming Soon...]] is empty",
+          "heading": {
+            "depth": 2,
+            "text": "[[Coming Soon...]]"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-08-30T00:45:57.594Z"
+    },
+    {
+      "hash": "28bffbf3631cee38451c4b912d304c610786fb9c3e4b6eb02cd6b0b66db4d76f",
+      "path": "Physics/Electromagnetism/Sound & Waves/Destructive & Constructive Interferance.md",
+      "basename": "Destructive & Constructive Interferance",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H1 Definition is empty",
+          "heading": {
+            "depth": 1,
+            "text": "Definition"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-09-09T02:38:18.454Z"
+    },
+    {
+      "hash": "ae278ee89d1b06372145a056644d7afd35fd16f1b9e888bc9e3c42aaabbb679c",
+      "path": "Physics/Electromagnetism/Sound & Waves/Standing Waves.md",
+      "basename": "Standing Waves",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H1 Definition is empty",
+          "heading": {
+            "depth": 1,
+            "text": "Definition"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-09-09T02:38:54.567Z"
+    },
+    {
+      "hash": "e705c285a017fc92d44e77e77cc36b6f5a1145c17a4086d68718dda5ef12ce13",
+      "path": "Mathematics/Linear Algebra 1/Euclidean Vector Spaces/Properties of Cross Products.md",
+      "basename": "Properties of Cross Products",
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H1 Definition is empty",
+          "heading": {
+            "depth": 1,
+            "text": "Definition"
+          }
+        }
+      ],
+      "tags": [],
+      "lastChecked": "2025-09-12T01:42:00.139Z"
+    },
+    {
+      "hash": "28bffbf3631cee38451c4b912d304c610786fb9c3e4b6eb02cd6b0b66db4d76f",
+      "path": "Mathematics/Calculus 3/Multivariable Vector Functions and Line Integrals/Regions.md",
+      "lastChecked": "2025-09-14T21:47:03.971Z",
+      "tags": [],
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H1 Definition is empty",
+          "heading": {
+            "depth": 1,
+            "text": "Definition"
+          }
+        }
+      ],
+      "basename": "Regions"
+    },
+    {
+      "hash": "11909b3981238d03a28f34ad9153be433ff4b356ce0d517d3d3bc32d9cc17a49",
+      "path": "Mathematics/Calculus 1/Inequalties/Inequalities.md",
+      "lastChecked": "2025-09-14T02:30:42.631Z",
+      "tags": [],
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H1 Definition is empty",
+          "heading": {
+            "depth": 1,
+            "text": "Definition"
+          }
+        }
+      ],
+      "basename": "Inequalities"
+    },
+    {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "Z_Templates/Untitled.md",
+      "lastChecked": "2025-09-15T03:37:16.564Z",
+      "tags": [],
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT",
+          "title": "Empty content"
+        }
+      ],
+      "basename": "Untitled"
+    },
+    {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "Z_Templates/Example.md",
+      "lastChecked": "2025-09-15T03:37:18.631Z",
+      "tags": [],
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT",
+          "title": "Empty content"
+        }
+      ],
+      "basename": "Example"
+    },
+    {
+      "hash": "0d2e472f5e88b74d02e86250ed184f874c0ee4f6dd16daeaba3de890c13cbdfa",
+      "path": "Z_Templates/Read Me.md",
+      "lastChecked": "2025-09-15T03:45:41.103Z",
+      "tags": [],
+      "issues": [
+        {
+          "type": "EMPTY_CONTENT_HEADING",
+          "title": "H2 Included Shortcuts is empty",
+          "heading": {
+            "depth": 2,
+            "text": "Included Shortcuts"
+          }
+        }
+      ],
+      "basename": "Read Me"
+    }
+  ],
+  "completeProperty": "complete: true",
+  "analyseFileWhenEditing": true
+}

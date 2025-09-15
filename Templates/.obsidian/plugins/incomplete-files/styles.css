@@ -1,0 +1,164 @@
+.incomplete-files-settings-real-time-preview {
+	text-align: left;
+	max-width: 300px;
+	white-space: pre-wrap;
+	color: white;
+}
+
+.incomplete-files-settings-input {
+	max-width: 300px;
+	min-width: 300px;
+	min-height: 200px;
+}
+
+.incomplete-files-settings-input-outer {
+	flex-direction: column;
+	align-items: flex-start;
+	max-width: 300px;
+}
+
+.setting-item.incomplete-files-settings-template-setting,
+.setting-item.incomplete-files-settings-ignored-folders-setting {
+	align-items: flex-start;
+}
+
+.incomplete-files-issue > svg {
+	margin-right: 6px;
+	height: 16px;
+	width: 16px;
+	min-width: 16px;
+	min-height: 16px;
+}
+
+.incomplete-files-issue[data-issue="EMPTY_CONTENT"] svg {
+	stroke: var(--color-red);
+}
+
+.incomplete-files-issue[data-issue="EMPTY_CONTENT_HEADING"] svg {
+	stroke: var(--color-yellow);
+}
+
+.incomplete-files-issue[data-issue="INCOMPLETE_SYNTAX"] svg {
+	stroke: var(--color-orange);
+}
+
+.incomplete-files summary {
+	cursor: pointer;
+	flex-direction: row;
+}
+.incomplete-files summary:hover {
+	color: var(--color-purple);
+}
+
+.incomplete-files .highlight {
+	animation: highlightAnimation 2s ease;
+	/* mix-blend-mode: var(--highlight-mix-blend-mode); */
+	transition: all 0.2s ease;
+}
+
+@keyframes highlightAnimation {
+	from {
+		background-color: var(--text-highlight-bg);
+	}
+	to {
+		background-color: transparent;
+	}
+}
+
+.incomplete-files-utils {
+	display: flex;
+	justify-content: flex-end;
+	margin-bottom: 1rem;
+	position: sticky;
+	top: 0; /* Adjust this value as needed */
+	z-index: 1000; /* To ensure it stays above other content */
+}
+
+.folder-group {
+	position: relative;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+.folder-group > summary {
+	background-color: var(--background-secondary-alt);
+	padding: 6px;
+	border-radius: 6px;
+}
+
+.folder-group > summary > span#count {
+	position: absolute;
+	right: 10px;
+}
+
+.incomplete-files .file-item {
+	position: relative;
+	margin-bottom: 1rem;
+	padding: 0.5rem;
+	border-radius: 6px;
+}
+
+.incomplete-files .file-item::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: -1px;
+	border-bottom: 1px solid #161616;
+	/* Adjust the height to match the border width */
+	height: 1px;
+}
+
+.incomplete-files-issue-list {
+	list-style: none;
+	padding-left: 0;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+li.incomplete-files-issue {
+	cursor: pointer;
+	padding: 6px;
+	border-radius: 4px;
+}
+li.incomplete-files-issue:hover {
+	color: var(--color-purple);
+	/* bg a little bit dimmer */
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.incomplete-files-issue {
+	display: flex;
+	align-items: start;
+	padding: 6px;
+	border-radius: 4px;
+	position: relative;
+}
+
+.incomplete-files .tree-item-flair {
+	top: 10px;
+}
+
+.folder-group {
+	position: relative;
+	/* padding-left: 20px; This padding will provide space for the vertical line */
+}
+
+.folder-group::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 10px; /* Adjust this to align with the start of your file items */
+	width: 1px; /* Width of the line */
+	background-color: var(--background-secondary-alt); /* Color of the line */
+	z-index: -1; /* Ensure the line is behind your content */
+}
+
+.folder-group > .nested-item {
+	position: relative;
+	padding-left: 20px; // This padding will provide space for the vertical line
+	z-index: 1; /* Ensure your content is above the line */
+}
+
+.issue-icon svg {
+	margin-right: 0px;
+}

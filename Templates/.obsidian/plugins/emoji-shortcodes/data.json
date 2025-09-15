@@ -1,0 +1,14 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":pushpin:",
+    ":heart:",
+    ":fire:",
+    ":stopwatch:",
+    ":new:",
+    ":point_right:"
+  ]
+}
