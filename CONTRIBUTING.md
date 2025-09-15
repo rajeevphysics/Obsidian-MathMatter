@@ -44,7 +44,7 @@ Example:
 
 ## 4. Expanding on Concepts (Finding Work)
 
-- Concepts under Mathematics Concepts / Physics Concepts likely need changes the specifics are labelled in the Issue Tab
+- Concepts under Mathematics Concepts / Physics Concepts likely need changes the specifics are labelled in the [Issue Tab](https://github.com/rajeevphysics/Obsidian-MathMatter/issues)
 - Update the concept using Markdown & Latex (In Obsdidian)
 
 
