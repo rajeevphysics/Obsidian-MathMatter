@@ -1,7 +1,7 @@
 
 # 📘  Math & Matter
 
-Welcome! This is the contruibuting repo behind the [Math & Matter Website](https://mathandmatter.com), project built to make math a physics topics easier to learn through:
+Welcome! This is the **contruibuting repo** behind the [Math & Matter Website](https://mathandmatter.com), project built to make math a physics topics easier to learn through:
 
 - Conceptual breakdowns
 - Diagrams 
@@ -12,7 +12,7 @@ Welcome! This is the contruibuting repo behind the [Math & Matter Website](https
 📚 View the full interactive site: [The Math & Matter Website](https://mathandmatter.com)
  
 ## Whats in This Repo
-This repo is mostly meant for updating & creating new concept notes for the main website, but do include the following:
+This **repo is mostly meant for updating & creating new concept notes for the main website**, but do include the following:
 - Unfinished or concepts needed for updates
 - Latex Unrendered images
 - Finished Images 
