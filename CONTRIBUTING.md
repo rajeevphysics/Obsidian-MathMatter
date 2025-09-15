@@ -13,7 +13,7 @@ Thanks for wanting to contribute! This project is meant to be a shared learning 
    - Put the `.obsidian` folder from this repo into your vault’s `.obsidian`. (**Optional**, has shortcuts and plugins)
      - On macOS, reveal hidden folders with `Cmd + Shift + .`  
    - Copy the `Z_template/` folder into your local vault (**Required**)
-     - This folder contains the note-writing template and a README file on tips to write concepts, and general templates
+     - This folder contains the note-writing template, a README file on tips to write concepts, and general templates
 5. **Set up Strucuture for Updating Exisiting Concepts**
    - Put the `Mathematics Concepts` & `Physics Concepts` folder into your local Obsidian vault 
 ---
